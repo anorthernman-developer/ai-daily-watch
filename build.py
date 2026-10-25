@@ -69,6 +69,10 @@ def sync():
             continue
         pub = sanitise_digest(json.load(open(os.path.join(src, f))))
         dst = os.path.join(DATA, "digests", f)
+        if os.path.exists(dst):  # same items as already published: keep the old timestamp so re-runs make no commit
+            old = json.load(open(dst))
+            if old.get("items") == pub["items"]:
+                pub["generated_at"] = old.get("generated_at")
         text = json.dumps(pub, indent=1, ensure_ascii=False) + "\n"
         if not os.path.exists(dst) or open(dst).read() != text:
             open(dst, "w").write(text); n += 1
