@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>API docs · AI Daily Watch</title>
+<meta name="description" content="AI Daily Watch JSON API documentation.">
+<link rel="canonical" href="https://ai-daily-watch.netlify.app/api/">
+<meta property="og:title" content="API docs · AI Daily Watch"><meta property="og:description" content="AI Daily Watch JSON API documentation."><meta property="og:url" content="https://ai-daily-watch.netlify.app/api/"><meta property="og:type" content="website">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="AI Daily Watch: all topics" href="/feed.xml">
+<link rel="alternate" type="application/feed+json" title="AI Daily Watch: all topics (JSON Feed)" href="/feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site"><div class="wrap bar">
+<a class="brand" href="/" aria-label="AI Daily Watch home"><svg class="ridge" viewBox="0 0 300 70" role="img" aria-label="reimagining.work ridge" fill="currentColor"><rect x="0.0" y="52" width="7" height="18"/><rect x="9.6" y="46" width="7" height="24"/><rect x="19.2" y="40" width="7" height="30"/><rect x="28.8" y="44" width="7" height="26"/><rect x="38.4" y="36" width="7" height="34"/><rect x="49.6" y="30" width="7" height="40"/><rect x="59.2" y="24" width="7" height="46"/><rect x="68.8" y="18" width="7" height="52"/><rect x="78.4" y="22" width="7" height="48"/><rect x="88.0" y="14" width="7" height="56"/><rect x="99.2" y="8" width="7" height="62"/><rect x="108.8" y="12" width="7" height="58"/><rect x="118.4" y="4" width="7" height="66"/><rect x="128.0" y="0" width="7" height="70"/><rect x="137.6" y="6" width="7" height="64"/><rect x="148.8" y="16" width="7" height="54"/><rect x="158.4" y="20" width="7" height="50"/><rect x="168.0" y="12" width="7" height="58"/><rect x="177.6" y="26" width="7" height="44"/><rect x="187.2" y="30" width="7" height="40"/><rect x="198.4" y="34" width="7" height="36"/><rect x="208.0" y="28" width="7" height="42"/><rect x="217.6" y="38" width="7" height="32"/><rect x="227.2" y="42" width="7" height="28"/><rect x="236.8" y="36" width="7" height="34"/><rect x="248.0" y="44" width="7" height="26"/><rect x="257.6" y="48" width="7" height="22"/><rect x="267.2" y="52" width="7" height="18"/><rect x="276.8" y="56" width="7" height="14"/><rect x="286.4" y="60" width="7" height="10"/></svg><span><b>AI Daily Watch</b><small>by <strong>reimagining</strong>.work</small></span></a>
+<nav class="top" aria-label="Main"><ul><li><a href="/">Home</a></li><li><a href="/today/">Today</a></li><li><a href="/archive/">Archive</a></li><li><a href="/topics/">Topics</a></li><li><a href="/sources/">Sources</a></li><li><a href="/feeds/" aria-current=page>Feeds & API</a></li><li><a href="/about/">About</a></li></ul></nav>
+</div></header>
+<main id="main" class="wrap">
+<p class="eyebrow">API</p><h1>Open JSON, no key</h1><p class="lede">Static JSON files, rebuilt each morning. No authentication, no rate limit beyond the host's. Cite the original source, not us.</p>
+<section class="blk"><header><h2>Endpoints</h2></header><table><thead><tr><th scope="col">Path</th><th scope="col">What</th></tr></thead><tbody>
+<tr><td class="u"><a href="/api/index.json">/api/index.json</a></td><td>Topics, briefing dates, counts and links</td></tr>
+<tr><td class="u"><a href="/api/latest.json">/api/latest.json</a></td><td>Latest 100 items across all topics</td></tr>
+<tr><td class="u">/api/digests/YYYY-MM-DD.json</td><td>One day's briefing</td></tr>
+<tr><td class="u">/api/topics/&lt;topic&gt;.json</td><td>Every item for one topic</td></tr>
+<tr><td class="u"><a href="/api/sources.json">/api/sources.json</a></td><td>The 143 official sources</td></tr>
+<tr><td class="u"><a href="/feed.json">/feed.json</a></td><td>JSON Feed 1.1, latest 100 items</td></tr></tbody></table></section>
+<section class="blk"><header><h2>Topic keys</h2></header><table><tbody><tr><td class="u">copilot-m365</td><td>Microsoft Copilot &amp; Microsoft 365</td></tr><tr><td class="u">azure-foundry</td><td>Azure AI &amp; Microsoft Foundry</td></tr><tr><td class="u">windows-autopilot-intune</td><td>Windows, Autopilot &amp; Intune</td></tr><tr><td class="u">devtools-github-vscode</td><td>VS Code, GitHub &amp; developer tools</td></tr><tr><td class="u">anthropic-claude</td><td>Anthropic &amp; Claude</td></tr><tr><td class="u">openai</td><td>OpenAI</td></tr><tr><td class="u">google-gemini</td><td>Google Gemini &amp; DeepMind</td></tr><tr><td class="u">ai-trends</td><td>AI news, innovation &amp; trends</td></tr></tbody></table></section>
+<section class="blk"><header><h2>Item shape</h2></header><pre>{
+ &quot;id&quot;: &quot;572d1db872ef&quot;,
+ &quot;title&quot;: &quot;Claude Code contributor Thariq says he has left Anthropic&quot;,
+ &quot;summary&quot;: &quot;Thariq publicly said he had left Anthropic after more than a year working on Claude Code. His post thanked colleagues and the Claude Code community; it is notable personnel news related to Claude Code, though it does not announce a product change.&quot;,
+ &quot;source_url&quot;: &quot;https://x.com/trq212/status/2113844051938054167&quot;,
+ &quot;published_date&quot;: &quot;2026-10-24&quot;,
+ &quot;company&quot;: &quot;Anthropic&quot;,
+ &quot;category&quot;: &quot;leadership&quot;,
+ &quot;topic&quot;: &quot;anthropic-claude&quot;,
+ &quot;citations&quot;: [
+  &quot;https://x.com/trq212/status/2113844051938054167&quot;
+ ],
+ &quot;briefing&quot;: &quot;2026-10-25&quot;
+}</pre></section>
+</main>
+<footer class="site"><div class="wrap">
+<p><strong>reimagining</strong>.work · Redesign the work. Then add the AI.</p>
+<p class="stamp">Last update 25 Oct 2026, 17:10 GMT · <a href="/feed.xml">RSS</a> · <a href="/feed.json">JSON Feed</a> · <a href="/api/">API</a> · <a href="https://github.com/anorthernman-developer/ai-daily-watch">Source on GitHub</a></p>
+<p>Summaries are machine-written from public sources. Check the linked source before you act on an item.</p>
+</div></footer>
+</body>
+</html>

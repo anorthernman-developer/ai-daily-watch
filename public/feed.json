@@ -1,0 +1,81 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "AI Daily Watch: all topics",
+ "home_page_url": "https://ai-daily-watch.netlify.app/",
+ "feed_url": "https://ai-daily-watch.netlify.app/feed.json",
+ "language": "en-GB",
+ "items": [
+  {
+   "id": "aidw-572d1db872ef",
+   "url": "https://x.com/trq212/status/2113844051938054167",
+   "title": "Claude Code contributor Thariq says he has left Anthropic",
+   "content_text": "Thariq publicly said he had left Anthropic after more than a year working on Claude Code. His post thanked colleagues and the Claude Code community; it is notable personnel news related to Claude Code, though it does not announce a product change.",
+   "date_published": "2026-10-24T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "leadership"
+   ]
+  },
+  {
+   "id": "aidw-09a5dda45158",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "title": "Pennsylvania adopts disclosure labels for qualifying AI-generated ads",
+   "content_text": "Pennsylvania enacted a law requiring labels on advertisements that are generated or significantly modified using AI, according to The Verge. The report notes that the law leaves some terms open to interpretation; the governor signed it on October 22, before the monitoring start date.",
+   "date_published": "2026-10-24T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Pennsylvania",
+    "policy/safety"
+   ]
+  },
+  {
+   "id": "aidw-110fd09f65f2",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "title": "Study reports partisan differences in forced candidate recommendations by Grok and OpenAI models",
+   "content_text": "A Convovo study reported that, when explicitly forced to recommend a candidate across nearly 500 U.S. midterm races, Grok 4.7 chose Republicans in 92% of its answers and OpenAI’s GPT-6.1 Sol chose Democrats in 97%. The findings raise questions about model behavior and political neutrality, but the article cautions that the test used APIs and an unusually direct prompt, not ordinary chatbot use.",
+   "date_published": "2026-10-24T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "xAI and OpenAI",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-35d668020c86",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "title": "Block introduces Dessa, a locally runnable full-duplex speech model",
+   "content_text": "Block introduced Dessa, a full-duplex speech model trained entirely on human speech that can run locally on a consumer computer such as a MacBook M4 Max. The release points toward more natural, on-device voice AI, while Block is seeking safety testing before broader access.",
+   "date_published": "2026-10-24T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Block",
+    "model release"
+   ]
+  },
+  {
+   "id": "aidw-15c1f8ef7a58",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "title": "OpenAI and Poland’s NASK partner on AI safety and security",
+   "content_text": "OpenAI announced a partnership with Poland’s NASK focused on AI safety, security, and technical research. The collaboration is intended to strengthen safeguards and support a more resilient digital ecosystem; it was published before the monitoring start date.",
+   "date_published": "2026-10-23T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-e66e9796ba6b",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "title": "Google DeepMind releases a global map of forest types",
+   "content_text": "Google DeepMind and Google Research, working with the World Resources Institute and IIASA, released Forest Typology 2020, a global 10-meter-resolution map distinguishing six forest and land-use types. They also shared an early time series tracking changes from 2017 to 2025, including natural forests converted to plantations or farms.",
+   "date_published": "2026-10-22T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google DeepMind",
+    "research"
+   ]
+  }
+ ]
+}

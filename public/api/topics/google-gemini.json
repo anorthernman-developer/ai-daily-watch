@@ -1,0 +1,22 @@
+{
+ "topic": "google-gemini",
+ "name": "Google Gemini & DeepMind",
+ "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
+ "count": 1,
+ "items": [
+  {
+   "id": "e66e9796ba6b",
+   "title": "Google DeepMind releases a global map of forest types",
+   "summary": "Google DeepMind and Google Research, working with the World Resources Institute and IIASA, released Forest Typology 2020, a global 10-meter-resolution map distinguishing six forest and land-use types. They also shared an early time series tracking changes from 2017 to 2025, including natural forests converted to plantations or farms.",
+   "source_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "published_date": "2026-10-22",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+   ],
+   "briefing": "2026-10-25"
+  }
+ ]
+}

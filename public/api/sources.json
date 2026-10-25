@@ -1,0 +1,864 @@
+{
+ "verified": "2026-10-25",
+ "count": 143,
+ "sources": [
+  {
+   "name": "Official Microsoft Blog",
+   "type": "blog",
+   "url": "https://blogs.microsoft.com/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft On the Issues",
+   "type": "blog",
+   "url": "https://blogs.microsoft.com/on-the-issues/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft Source (News Center)",
+   "type": "blog",
+   "url": "https://news.microsoft.com/source/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft AI (Mustafa Suleyman org) News",
+   "type": "blog",
+   "url": "https://microsoft.ai/news/",
+   "topic": "Copilot"
+  },
+  {
+   "name": "Microsoft 365 Blog",
+   "type": "blog",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Copilot Blog (consumer)",
+   "type": "blog",
+   "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/",
+   "topic": "Copilot"
+  },
+  {
+   "name": "Microsoft Copilot Studio Blog",
+   "type": "blog",
+   "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/",
+   "topic": "Copilot Studio"
+  },
+  {
+   "name": "Microsoft Tech Community - Microsoft 365 Copilot Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/microsoft365copilot/blog/microsoft365copilotblog",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Tech Community - Copilot Studio Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/microsoft-copilot-studio/blog/copilot-studio-blog",
+   "topic": "Copilot Studio"
+  },
+  {
+   "name": "Microsoft Tech Community - Intune Customer Success",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/microsoft-intune/blog/intunecustomersuccess",
+   "topic": "Intune / Autopilot"
+  },
+  {
+   "name": "Microsoft Tech Community - Windows IT Pro Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/windows/blog/windows-itpro-blog",
+   "topic": "Windows / Autopilot"
+  },
+  {
+   "name": "Microsoft Tech Community - Microsoft 365 Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/microsoft365/blog/microsoft_365blog",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Tech Community - Azure AI Foundry Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/azure-ai-foundry/blog/azure-ai-foundry-blog",
+   "topic": "Azure AI Foundry"
+  },
+  {
+   "name": "Windows Autopilot documentation - What's new",
+   "type": "docs",
+   "url": "https://learn.microsoft.com/en-us/autopilot/whats-new",
+   "topic": "Autopilot"
+  },
+  {
+   "name": "Microsoft Intune - What's new",
+   "type": "docs",
+   "url": "https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/whats-new",
+   "topic": "Intune / Autopilot"
+  },
+  {
+   "name": "Microsoft 365 Copilot release notes",
+   "type": "docs",
+   "url": "https://learn.microsoft.com/en-us/copilot/microsoft-365/release-notes",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Foundry - What's new",
+   "type": "docs",
+   "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/whats-new-azure-ai-foundry",
+   "topic": "Azure AI Foundry"
+  },
+  {
+   "name": "Azure Blog",
+   "type": "blog",
+   "url": "https://azure.microsoft.com/en-us/blog/",
+   "topic": "Azure"
+  },
+  {
+   "name": "Azure AI Foundry product page",
+   "type": "official",
+   "url": "https://ai.azure.com/",
+   "topic": "Azure AI Foundry"
+  },
+  {
+   "name": "Windows Blog",
+   "type": "blog",
+   "url": "https://blogs.windows.com/",
+   "topic": "Windows"
+  },
+  {
+   "name": "Windows Experience Blog",
+   "type": "blog",
+   "url": "https://blogs.windows.com/windowsexperience/",
+   "topic": "Windows / Copilot+ PCs"
+  },
+  {
+   "name": "Windows Insider Blog",
+   "type": "blog",
+   "url": "https://blogs.windows.com/windows-insider/",
+   "topic": "Windows"
+  },
+  {
+   "name": "Windows Developer Blog",
+   "type": "blog",
+   "url": "https://blogs.windows.com/windowsdeveloper/",
+   "topic": "Windows / Dev"
+  },
+  {
+   "name": "Microsoft Developer Blogs (devblogs)",
+   "type": "blog",
+   "url": "https://devblogs.microsoft.com/",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "Microsoft Foundry devblog",
+   "type": "blog",
+   "url": "https://devblogs.microsoft.com/foundry/",
+   "topic": "Azure AI Foundry"
+  },
+  {
+   "name": "Visual Studio Blog",
+   "type": "blog",
+   "url": "https://devblogs.microsoft.com/visualstudio/",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "VS Code Blog",
+   "type": "blog",
+   "url": "https://code.visualstudio.com/blogs",
+   "topic": "VS Code"
+  },
+  {
+   "name": "VS Code Release Notes",
+   "type": "docs",
+   "url": "https://code.visualstudio.com/updates",
+   "topic": "VS Code"
+  },
+  {
+   "name": "GitHub Blog",
+   "type": "blog",
+   "url": "https://github.blog/",
+   "topic": "GitHub / Copilot"
+  },
+  {
+   "name": "GitHub Changelog",
+   "type": "changelog",
+   "url": "https://github.blog/changelog/",
+   "topic": "GitHub / Copilot"
+  },
+  {
+   "name": "GitHub Copilot news (blog tag)",
+   "type": "blog",
+   "url": "https://github.blog/ai-and-ml/github-copilot/",
+   "topic": "GitHub Copilot"
+  },
+  {
+   "name": "Microsoft Research Blog",
+   "type": "blog",
+   "url": "https://www.microsoft.com/en-us/research/blog/",
+   "topic": "Microsoft Research / AI"
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "type": "blog",
+   "url": "https://www.microsoft.com/en-us/security/blog/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft 365 Roadmap",
+   "type": "roadmap",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/roadmap",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Azure Updates",
+   "type": "roadmap",
+   "url": "https://azure.microsoft.com/en-us/updates/",
+   "topic": "Azure"
+  },
+  {
+   "name": "Microsoft 365 Message Center archive (mc.merill.net, community)",
+   "type": "roadmap",
+   "url": "https://mc.merill.net/",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Copilot (consumer) site",
+   "type": "official",
+   "url": "https://www.microsoft.com/en-us/microsoft-copilot",
+   "topic": "Copilot"
+  },
+  {
+   "name": "Copilot+ PCs",
+   "type": "official",
+   "url": "https://www.microsoft.com/en-us/windows/copilot-plus-pcs",
+   "topic": "Copilot+ PCs"
+  },
+  {
+   "name": "Microsoft (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@Microsoft",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft 365 (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@Microsoft365",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Mechanics (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@MSFTMechanics",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Microsoft Developer (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@MicrosoftDeveloper",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "Microsoft Azure (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@MicrosoftAzure",
+   "topic": "Azure"
+  },
+  {
+   "name": "GitHub (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@GitHub",
+   "topic": "GitHub / Copilot"
+  },
+  {
+   "name": "Visual Studio Code (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@code",
+   "topic": "VS Code"
+  },
+  {
+   "name": "Windows (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@Windows",
+   "topic": "Windows"
+  },
+  {
+   "name": "Microsoft Research (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@MicrosoftResearch",
+   "topic": "Microsoft Research / AI"
+  },
+  {
+   "name": "Visual Studio (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@VisualStudio",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "Microsoft Power Platform (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@MicrosoftPowerPlatform",
+   "topic": "Copilot Studio"
+  },
+  {
+   "name": "@Microsoft",
+   "type": "x",
+   "url": "https://x.com/Microsoft",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "@Microsoft365",
+   "type": "x",
+   "url": "https://x.com/Microsoft365",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "@MSFTCopilot",
+   "type": "x",
+   "url": "https://x.com/MSFTCopilot",
+   "topic": "Copilot"
+  },
+  {
+   "name": "@Azure",
+   "type": "x",
+   "url": "https://x.com/Azure",
+   "topic": "Azure"
+  },
+  {
+   "name": "@code",
+   "type": "x",
+   "url": "https://x.com/code",
+   "topic": "VS Code"
+  },
+  {
+   "name": "@github",
+   "type": "x",
+   "url": "https://x.com/github",
+   "topic": "GitHub / Copilot"
+  },
+  {
+   "name": "@windows",
+   "type": "x",
+   "url": "https://x.com/windows",
+   "topic": "Windows"
+  },
+  {
+   "name": "@windowsinsider",
+   "type": "x",
+   "url": "https://x.com/windowsinsider",
+   "topic": "Windows"
+  },
+  {
+   "name": "@MSIntune",
+   "type": "x",
+   "url": "https://x.com/MSIntune",
+   "topic": "Intune / Autopilot"
+  },
+  {
+   "name": "@MSFTMechanics",
+   "type": "x",
+   "url": "https://x.com/MSFTMechanics",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "@MSFTResearch",
+   "type": "x",
+   "url": "https://x.com/MSFTResearch",
+   "topic": "Microsoft Research / AI"
+  },
+  {
+   "name": "@satyanadella",
+   "type": "x",
+   "url": "https://x.com/satyanadella",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "@mustafasuleyman",
+   "type": "x",
+   "url": "https://x.com/mustafasuleyman",
+   "topic": "Copilot"
+  },
+  {
+   "name": "@kevin_scott",
+   "type": "x",
+   "url": "https://x.com/kevin_scott",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "@pavandavuluri",
+   "type": "x",
+   "url": "https://x.com/pavandavuluri",
+   "topic": "Windows"
+  },
+  {
+   "name": "@ashtom (Thomas Dohmke, ex-GitHub CEO)",
+   "type": "x",
+   "url": "https://x.com/ashtom",
+   "topic": "GitHub"
+  },
+  {
+   "name": "r/microsoft",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/microsoft/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "r/Copilot",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Copilot/",
+   "topic": "Copilot"
+  },
+  {
+   "name": "r/MicrosoftCopilot",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/MicrosoftCopilot/",
+   "topic": "Copilot"
+  },
+  {
+   "name": "r/CopilotPro",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/CopilotPro/",
+   "topic": "Copilot"
+  },
+  {
+   "name": "r/GithubCopilot",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/GithubCopilot/",
+   "topic": "GitHub Copilot"
+  },
+  {
+   "name": "r/Office365",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Office365/",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "r/microsoft365",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/microsoft365/",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "r/AZURE",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/AZURE/",
+   "topic": "Azure"
+  },
+  {
+   "name": "r/Intune",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Intune/",
+   "topic": "Intune / Autopilot"
+  },
+  {
+   "name": "r/sysadmin",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/sysadmin/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "r/Windows11",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Windows11/",
+   "topic": "Windows"
+  },
+  {
+   "name": "r/vscode",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/vscode/",
+   "topic": "VS Code"
+  },
+  {
+   "name": "r/github",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/github/",
+   "topic": "GitHub"
+  },
+  {
+   "name": "r/OpenAI",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/OpenAI/",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "r/ChatGPT",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/ChatGPT/",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "r/ClaudeAI",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/ClaudeAI/",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "r/Anthropic",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Anthropic/",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "r/Bard",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/Bard/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "r/GeminiAI",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/GeminiAI/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "r/artificial",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/artificial/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "r/singularity",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/singularity/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "r/MachineLearning",
+   "type": "reddit",
+   "url": "https://www.reddit.com/r/MachineLearning/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Anthropic News",
+   "type": "blog",
+   "url": "https://www.anthropic.com/news",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Anthropic Engineering Blog",
+   "type": "blog",
+   "url": "https://www.anthropic.com/engineering",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Anthropic Research",
+   "type": "blog",
+   "url": "https://www.anthropic.com/research",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Claude Blog",
+   "type": "blog",
+   "url": "https://claude.com/blog",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Claude release notes",
+   "type": "docs",
+   "url": "https://docs.claude.com/en/release-notes/overview",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Anthropic status",
+   "type": "status",
+   "url": "https://status.anthropic.com/",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "Anthropic (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@anthropic-ai",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "@AnthropicAI",
+   "type": "x",
+   "url": "https://x.com/AnthropicAI",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "@claudeai",
+   "type": "x",
+   "url": "https://x.com/claudeai",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "@DarioAmodei",
+   "type": "x",
+   "url": "https://x.com/DarioAmodei",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "OpenAI News",
+   "type": "blog",
+   "url": "https://openai.com/news/",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "OpenAI Research",
+   "type": "blog",
+   "url": "https://openai.com/research/",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "ChatGPT release notes",
+   "type": "docs",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "OpenAI API changelog",
+   "type": "changelog",
+   "url": "https://platform.openai.com/docs/changelog",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "OpenAI Developer Community",
+   "type": "forum",
+   "url": "https://community.openai.com/",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "OpenAI (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@OpenAI",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "@OpenAI",
+   "type": "x",
+   "url": "https://x.com/OpenAI",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "@OpenAIDevs",
+   "type": "x",
+   "url": "https://x.com/OpenAIDevs",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "@sama",
+   "type": "x",
+   "url": "https://x.com/sama",
+   "topic": "OpenAI"
+  },
+  {
+   "name": "Google DeepMind Blog",
+   "type": "blog",
+   "url": "https://deepmind.google/discover/blog/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google Blog - Gemini",
+   "type": "blog",
+   "url": "https://blog.google/products/gemini/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google Blog - AI",
+   "type": "blog",
+   "url": "https://blog.google/technology/ai/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google Developers Blog",
+   "type": "blog",
+   "url": "https://developers.googleblog.com/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Gemini API changelog",
+   "type": "changelog",
+   "url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Gemini app updates (release notes)",
+   "type": "docs",
+   "url": "https://gemini.google/release-notes/",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google Research Blog",
+   "type": "blog",
+   "url": "https://research.google/blog/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Google DeepMind (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@googledeepmind",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@Google",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "Google for Developers (YouTube)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@GoogleDevelopers",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "@GoogleDeepMind",
+   "type": "x",
+   "url": "https://x.com/GoogleDeepMind",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "@GeminiApp",
+   "type": "x",
+   "url": "https://x.com/GeminiApp",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "@GoogleAI",
+   "type": "x",
+   "url": "https://x.com/GoogleAI",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "@sundarpichai",
+   "type": "x",
+   "url": "https://x.com/sundarpichai",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "@demishassabis",
+   "type": "x",
+   "url": "https://x.com/demishassabis",
+   "topic": "Google Gemini"
+  },
+  {
+   "name": "The Verge - AI",
+   "type": "news",
+   "url": "https://www.theverge.com/ai-artificial-intelligence",
+   "topic": "AI trends"
+  },
+  {
+   "name": "TechCrunch - AI",
+   "type": "news",
+   "url": "https://techcrunch.com/category/artificial-intelligence/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "The Decoder",
+   "type": "news",
+   "url": "https://the-decoder.com/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "VentureBeat - AI",
+   "type": "news",
+   "url": "https://venturebeat.com/category/ai/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Ars Technica - AI",
+   "type": "news",
+   "url": "https://arstechnica.com/ai/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "MIT Technology Review - AI",
+   "type": "news",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "type": "blog",
+   "url": "https://huggingface.co/blog",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Import AI (Jack Clark)",
+   "type": "newsletter",
+   "url": "https://importai.substack.com/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Hacker News",
+   "type": "forum",
+   "url": "https://news.ycombinator.com/",
+   "topic": "AI trends"
+  },
+  {
+   "name": "Windows Central",
+   "type": "news",
+   "url": "https://www.windowscentral.com/",
+   "topic": "Windows / Microsoft"
+  },
+  {
+   "name": "Neowin",
+   "type": "news",
+   "url": "https://www.neowin.net/",
+   "topic": "Windows / Microsoft"
+  },
+  {
+   "name": "The Register - Microsoft",
+   "type": "news",
+   "url": "https://www.theregister.com/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Petri IT Knowledgebase",
+   "type": "news",
+   "url": "https://petri.com/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Directions on Microsoft",
+   "type": "news",
+   "url": "https://www.directionsonmicrosoft.com/",
+   "topic": "Microsoft"
+  },
+  {
+   "name": "Office 365 for IT Pros",
+   "type": "blog",
+   "url": "https://office365itpros.com/",
+   "topic": "Copilot / M365"
+  },
+  {
+   "name": "Microsoft Tech Community - Azure Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/azure/blog/azure-blog",
+   "topic": "Azure"
+  },
+  {
+   "name": "Microsoft Tech Community - Azure AI Services Blog",
+   "type": "blog",
+   "url": "https://techcommunity.microsoft.com/category/azure-ai-services/blog/azure-ai-services-blog",
+   "topic": "Azure AI Foundry"
+  },
+  {
+   "name": "Claude (YouTube, Anthropic)",
+   "type": "youtube",
+   "url": "https://www.youtube.com/@claude",
+   "topic": "Anthropic / Claude"
+  },
+  {
+   "name": "@msdev (Microsoft Developer)",
+   "type": "x",
+   "url": "https://x.com/msdev",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "@VisualStudio",
+   "type": "x",
+   "url": "https://x.com/VisualStudio",
+   "topic": "Dev tools"
+  },
+  {
+   "name": "@MicrosoftAI",
+   "type": "x",
+   "url": "https://x.com/MicrosoftAI",
+   "topic": "Copilot"
+  }
+ ]
+}

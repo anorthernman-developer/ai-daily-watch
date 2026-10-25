@@ -1,0 +1,81 @@
+{
+ "name": "AI Daily Watch",
+ "site": "https://ai-daily-watch.netlify.app",
+ "updated": "2026-10-25T17:10:01+00:00",
+ "latest_briefing": "2026-10-25",
+ "items_total": 6,
+ "topics": [
+  {
+   "key": "copilot-m365",
+   "name": "Microsoft Copilot & Microsoft 365",
+   "count": 0,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/copilot-m365.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/copilot-m365.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/copilot-m365/"
+  },
+  {
+   "key": "azure-foundry",
+   "name": "Azure AI & Microsoft Foundry",
+   "count": 0,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/azure-foundry.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/azure-foundry.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/azure-foundry/"
+  },
+  {
+   "key": "windows-autopilot-intune",
+   "name": "Windows, Autopilot & Intune",
+   "count": 0,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/windows-autopilot-intune.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/windows-autopilot-intune.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/windows-autopilot-intune/"
+  },
+  {
+   "key": "devtools-github-vscode",
+   "name": "VS Code, GitHub & developer tools",
+   "count": 0,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/devtools-github-vscode.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/devtools-github-vscode.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/devtools-github-vscode/"
+  },
+  {
+   "key": "anthropic-claude",
+   "name": "Anthropic & Claude",
+   "count": 1,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/anthropic-claude.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/anthropic-claude.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/anthropic-claude/"
+  },
+  {
+   "key": "openai",
+   "name": "OpenAI",
+   "count": 1,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/openai.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/openai.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/openai/"
+  },
+  {
+   "key": "google-gemini",
+   "name": "Google Gemini & DeepMind",
+   "count": 1,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/google-gemini.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/google-gemini.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/google-gemini/"
+  },
+  {
+   "key": "ai-trends",
+   "name": "AI news, innovation & trends",
+   "count": 3,
+   "json": "https://ai-daily-watch.netlify.app/api/topics/ai-trends.json",
+   "rss": "https://ai-daily-watch.netlify.app/feeds/ai-trends.xml",
+   "page": "https://ai-daily-watch.netlify.app/topics/ai-trends/"
+  }
+ ],
+ "briefings": [
+  {
+   "date": "2026-10-25",
+   "count": 6,
+   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-25.json",
+   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-25/"
+  }
+ ]
+}

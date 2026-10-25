@@ -1,0 +1,22 @@
+{
+ "topic": "anthropic-claude",
+ "name": "Anthropic & Claude",
+ "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
+ "count": 1,
+ "items": [
+  {
+   "id": "572d1db872ef",
+   "title": "Claude Code contributor Thariq says he has left Anthropic",
+   "summary": "Thariq publicly said he had left Anthropic after more than a year working on Claude Code. His post thanked colleagues and the Claude Code community; it is notable personnel news related to Claude Code, though it does not announce a product change.",
+   "source_url": "https://x.com/trq212/status/2113844051938054167",
+   "published_date": "2026-10-24",
+   "company": "Anthropic",
+   "category": "leadership",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/trq212/status/2113844051938054167"
+   ],
+   "briefing": "2026-10-25"
+  }
+ ]
+}

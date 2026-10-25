@@ -1,0 +1,19 @@
+# Never publish pipeline internals or credentials
+state.json
+*.log
+logs/
+.env
+.env.*
+*.pem
+*.pfx
+*.key
+monitors.json
+create_log.json
+trigger_log.txt
+sharepoint/
+publish_sharepoint.py
+*sharepoint*
+.netlify/
+__pycache__/
+*.pyc
+.DS_Store

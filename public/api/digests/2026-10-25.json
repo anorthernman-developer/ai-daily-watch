@@ -1,0 +1,91 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T17:10:01+00:00",
+ "count": 6,
+ "items": [
+  {
+   "id": "572d1db872ef",
+   "title": "Claude Code contributor Thariq says he has left Anthropic",
+   "summary": "Thariq publicly said he had left Anthropic after more than a year working on Claude Code. His post thanked colleagues and the Claude Code community; it is notable personnel news related to Claude Code, though it does not announce a product change.",
+   "source_url": "https://x.com/trq212/status/2113844051938054167",
+   "published_date": "2026-10-24",
+   "company": "Anthropic",
+   "category": "leadership",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/trq212/status/2113844051938054167"
+   ],
+   "briefing": "2026-10-25"
+  },
+  {
+   "id": "15c1f8ef7a58",
+   "title": "OpenAI and Poland’s NASK partner on AI safety and security",
+   "summary": "OpenAI announced a partnership with Poland’s NASK focused on AI safety, security, and technical research. The collaboration is intended to strengthen safeguards and support a more resilient digital ecosystem; it was published before the monitoring start date.",
+   "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "published_date": "2026-10-23",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+   ],
+   "briefing": "2026-10-25"
+  },
+  {
+   "id": "e66e9796ba6b",
+   "title": "Google DeepMind releases a global map of forest types",
+   "summary": "Google DeepMind and Google Research, working with the World Resources Institute and IIASA, released Forest Typology 2020, a global 10-meter-resolution map distinguishing six forest and land-use types. They also shared an early time series tracking changes from 2017 to 2025, including natural forests converted to plantations or farms.",
+   "source_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "published_date": "2026-10-22",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+   ],
+   "briefing": "2026-10-25"
+  },
+  {
+   "id": "09a5dda45158",
+   "title": "Pennsylvania adopts disclosure labels for qualifying AI-generated ads",
+   "summary": "Pennsylvania enacted a law requiring labels on advertisements that are generated or significantly modified using AI, according to The Verge. The report notes that the law leaves some terms open to interpretation; the governor signed it on October 22, before the monitoring start date.",
+   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "published_date": "2026-10-24",
+   "company": "Pennsylvania",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+   ],
+   "briefing": "2026-10-25"
+  },
+  {
+   "id": "110fd09f65f2",
+   "title": "Study reports partisan differences in forced candidate recommendations by Grok and OpenAI models",
+   "summary": "A Convovo study reported that, when explicitly forced to recommend a candidate across nearly 500 U.S. midterm races, Grok 4.7 chose Republicans in 92% of its answers and OpenAI’s GPT-6.1 Sol chose Democrats in 97%. The findings raise questions about model behavior and political neutrality, but the article cautions that the test used APIs and an unusually direct prompt, not ordinary chatbot use.",
+   "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "published_date": "2026-10-24",
+   "company": "xAI and OpenAI",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+   ],
+   "briefing": "2026-10-25"
+  },
+  {
+   "id": "35d668020c86",
+   "title": "Block introduces Dessa, a locally runnable full-duplex speech model",
+   "summary": "Block introduced Dessa, a full-duplex speech model trained entirely on human speech that can run locally on a consumer computer such as a MacBook M4 Max. The release points toward more natural, on-device voice AI, while Block is seeking safety testing before broader access.",
+   "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "published_date": "2026-10-24",
+   "company": "Block",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+   ],
+   "briefing": "2026-10-25"
+  }
+ ]
+}

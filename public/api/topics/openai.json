@@ -1,0 +1,22 @@
+{
+ "topic": "openai",
+ "name": "OpenAI",
+ "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
+ "count": 1,
+ "items": [
+  {
+   "id": "15c1f8ef7a58",
+   "title": "OpenAI and Poland’s NASK partner on AI safety and security",
+   "summary": "OpenAI announced a partnership with Poland’s NASK focused on AI safety, security, and technical research. The collaboration is intended to strengthen safeguards and support a more resilient digital ecosystem; it was published before the monitoring start date.",
+   "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "published_date": "2026-10-23",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+   ],
+   "briefing": "2026-10-25"
+  }
+ ]
+}
