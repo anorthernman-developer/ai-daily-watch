@@ -1,8 +1,8 @@
 {
  "name": "AI Daily Watch",
  "site": "https://ai-daily-watch.netlify.app",
- "updated": "2026-10-25T17:10:01+00:00",
- "latest_briefing": "2026-10-25",
+ "updated": "2026-10-26T07:06:12+00:00",
+ "latest_briefing": "2026-10-26",
  "items_total": 6,
  "topics": [
   {
@@ -71,6 +71,12 @@
   }
  ],
  "briefings": [
+  {
+   "date": "2026-10-26",
+   "count": 0,
+   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-26.json",
+   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-26/"
+  },
   {
    "date": "2026-10-25",
    "count": 6,
