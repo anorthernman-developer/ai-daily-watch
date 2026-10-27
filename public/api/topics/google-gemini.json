@@ -2,8 +2,36 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "43c19fc536e1",
+   "title": "Google DeepMind and Springer Nature partner to develop an AI peer-review assistant",
+   "summary": "Google DeepMind and Springer Nature announced a research partnership to co-design an AI assistant for peer reviewers. The prototype is intended to help researchers navigate manuscripts and analyze text, charts, and figures while keeping expert human judgment central.",
+   "source_url": "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572",
+   "published_date": "2026-10-26",
+   "company": "Google DeepMind and Springer Nature",
+   "category": "partnership/deal",
+   "topic": "google-gemini",
+   "citations": [
+    "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini API enables request storage by default for new paid-tier projects",
+   "summary": "Starting October 26, new paid-tier projects using the Gemini Generate Content API store requests by default (`store=true`); existing projects retain their current setting. Developers can opt out by setting `store=false` per request or turning off API logging in AI Studio.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-10-26",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-10-27"
+  },
   {
    "id": "e66e9796ba6b",
    "title": "Google DeepMind releases a global map of forest types",

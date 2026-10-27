@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T07:05:24+00:00",
+ "count": 12,
+ "items": [
+  {
+   "title": "Microsoft introduces the Power Platform Admin plugin for Copilot Cowork",
+   "summary": "Microsoft introduced the Power Platform Admin plugin for Copilot Cowork, letting IT administrators ask natural-language questions grounded in tenant-specific Power Platform data. The post describes using those findings to produce audience-specific summaries and governance reports.",
+   "source_url": "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic-governance-with-na/4567557",
+   "published_date": "2026-10-25",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic-governance-with-na/4567557"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-26",
+   "id": "499f4f0b2ff2"
+  },
+  {
+   "title": "Microsoft details mobilezone’s deployment of three Copilot Studio agents",
+   "summary": "Microsoft reported that mobilezone built three Copilot Studio agents for store monitoring, sales order creation, and product creation. The store-monitoring agent helps a four-person IT support team query device information and investigate errors proactively, illustrating a live operational use of Copilot Studio agents.",
+   "source_url": "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio",
+   "published_date": "2026-10-26",
+   "company": "Microsoft and mobilezone",
+   "category": "other",
+   "citations": [
+    "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-26",
+   "id": "2e1100c55c69"
+  },
+  {
+   "title": "Viva Glint previews Copilot Results Summarization for early November",
+   "summary": "Microsoft announced a planned private preview of Results Summarization in Viva Glint Copilot Chat for early November. The experience brings survey scores and comment analysis together conversationally, with permissions and confidentiality safeguards continuing to apply.",
+   "source_url": "https://techcommunity.microsoft.com/blog/viva_glint_blog/news-to-know-%E2%80%93-volume-3-edition-11-october-2026/4567238",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/viva_glint_blog/news-to-know-%E2%80%93-volume-3-edition-11-october-2026/4567238"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-26",
+   "id": "eaefdf86a566"
+  },
+  {
+   "title": "Microsoft publishes its October 2026 security update release, including Windows updates",
+   "summary": "Microsoft’s Security Update Guide lists its October 2026 security release as released on October 26 and includes cumulative updates for Windows. The release page reports 1,105 Windows vulnerabilities addressed and flags a Windows Shell security feature bypass vulnerability with exploitation detected.",
+   "source_url": "https://msrc.microsoft.com/update-guide/releaseNote/2026-Oct",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "security",
+   "citations": [
+    "https://msrc.microsoft.com/update-guide/releaseNote/2026-Oct"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-10-26",
+   "id": "d0b4344f8d59"
+  },
+  {
+   "title": "Visual Studio adds resumable, unsaved Markdown investigation notes",
+   "summary": "Visual Studio 2026 version 18.11 can create standalone Markdown notes, and the opt-in Hot Exit preview can restore unsaved notes after Visual Studio is closed and reopened. This helps developers resume investigations without having to save the note or add it to a project first.",
+   "source_url": "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-26",
+   "id": "4fce6c0cab66"
+  },
+  {
+   "title": "GitHub Agentic Workflows weekly update highlights hardening and safer credential handling",
+   "summary": "GitHub Agentic Workflows’ October 26 weekly update recaps six hardening releases, emphasizing stronger static analysis, safer credential handling, and clearer diagnostics. Highlighted changes include network credentials for safe-output integration jobs and secret-safe error diagnostics for engine-driver crashes.",
+   "source_url": "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/",
+   "published_date": "2026-10-26",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-26",
+   "id": "824328fb685c"
+  },
+  {
+   "title": "OpenAI and Fanatics launch AI-powered Shop the Look",
+   "summary": "Fanatics launched Shop the Look, an OpenAI-powered feature that recommends coordinated, in-stock merchandise to sports fans. OpenAI says its team and Fanatics used Codex to develop recommendation tools, and testing across roughly 30,000 MLB products produced 10% higher engagement than the previous experience.",
+   "source_url": "https://openai.com/index/fanatics-streamline-fan-experience/",
+   "published_date": "2026-10-26",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "citations": [
+    "https://openai.com/index/fanatics-streamline-fan-experience/",
+    "https://openai.com/news/rss.xml"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-26",
+   "id": "8f27fc3fa97c"
+  },
+  {
+   "title": "Google DeepMind and Springer Nature partner to develop an AI peer-review assistant",
+   "summary": "Google DeepMind and Springer Nature announced a research partnership to co-design an AI assistant for peer reviewers. The prototype is intended to help researchers navigate manuscripts and analyze text, charts, and figures while keeping expert human judgment central.",
+   "source_url": "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572",
+   "published_date": "2026-10-26",
+   "company": "Google DeepMind and Springer Nature",
+   "category": "partnership/deal",
+   "citations": [
+    "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-10-26",
+   "id": "43c19fc536e1"
+  },
+  {
+   "title": "Gemini API enables request storage by default for new paid-tier projects",
+   "summary": "Starting October 26, new paid-tier projects using the Gemini Generate Content API store requests by default (`store=true`); existing projects retain their current setting. Developers can opt out by setting `store=false` per request or turning off API logging in AI Studio.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-10-26",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-10-26",
+   "id": "80a567fdb16f"
+  },
+  {
+   "title": "Meta plans up to $95 billion equity raise to fund AI expansion",
+   "summary": "Meta announced a plan to raise up to $95 billion through equity offerings to support its AI infrastructure and superintelligence investments. The plan combines an initial offering with a potential at-the-market program, underscoring the scale of capital required to expand AI computing capacity.",
+   "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+   "published_date": "2026-10-26",
+   "company": "Meta",
+   "category": "partnership/deal",
+   "citations": [
+    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-26",
+   "id": "1587a7383cd5"
+  },
+  {
+   "title": "Oracle updates Private Agent Factory with Deep NL2SQL and expanded agent integration",
+   "summary": "Oracle released version 26.10 of Private Agent Factory, adding Deep NL2SQL to let business users ask questions about enterprise data using maintained business context. The update also adds developer integration options, reusable knowledge ingestion, expanded agent-to-agent support, and observability, strengthening the platform’s enterprise-agent capabilities.",
+   "source_url": "https://blogs.oracle.com/database/announcing-private-agent-factory-26-10-featuring-deep-nl2sql",
+   "published_date": "2026-10-26",
+   "company": "Oracle",
+   "category": "feature update",
+   "citations": [
+    "https://blogs.oracle.com/database/announcing-private-agent-factory-26-10-featuring-deep-nl2sql"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-26",
+   "id": "9953fc88b1d1"
+  },
+  {
+   "title": "Anthropic publicly files S-1 registration statement for IPO",
+   "summary": "Anthropic publicly filed an S-1 registration statement, moving its planned IPO a step closer to a public offering. The filing provides investors with new details about the Claude maker’s business, including reported first-half 2026 revenue of $16.29 billion.",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "published_date": "2026-10-26",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "citations": [
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-26",
+   "id": "d7b6b5fce56b"
+  }
+ ]
+}

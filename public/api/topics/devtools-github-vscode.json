@@ -2,6 +2,35 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 0,
- "items": []
+ "count": 2,
+ "items": [
+  {
+   "id": "4fce6c0cab66",
+   "title": "Visual Studio adds resumable, unsaved Markdown investigation notes",
+   "summary": "Visual Studio 2026 version 18.11 can create standalone Markdown notes, and the opt-in Hot Exit preview can restore unsaved notes after Visual Studio is closed and reopened. This helps developers resume investigations without having to save the note or add it to a project first.",
+   "source_url": "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "824328fb685c",
+   "title": "GitHub Agentic Workflows weekly update highlights hardening and safer credential handling",
+   "summary": "GitHub Agentic Workflows’ October 26 weekly update recaps six hardening releases, emphasizing stronger static analysis, safer credential handling, and clearer diagnostics. Highlighted changes include network credentials for safe-output integration jobs and secret-safe error diagnostics for engine-driver crashes.",
+   "source_url": "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/",
+   "published_date": "2026-10-26",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/"
+   ],
+   "briefing": "2026-10-27"
+  }
+ ]
 }

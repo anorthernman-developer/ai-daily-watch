@@ -2,8 +2,23 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 1,
+ "count": 2,
  "items": [
+  {
+   "id": "8f27fc3fa97c",
+   "title": "OpenAI and Fanatics launch AI-powered Shop the Look",
+   "summary": "Fanatics launched Shop the Look, an OpenAI-powered feature that recommends coordinated, in-stock merchandise to sports fans. OpenAI says its team and Fanatics used Codex to develop recommendation tools, and testing across roughly 30,000 MLB products produced 10% higher engagement than the previous experience.",
+   "source_url": "https://openai.com/index/fanatics-streamline-fan-experience/",
+   "published_date": "2026-10-26",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/fanatics-streamline-fan-experience/",
+    "https://openai.com/news/rss.xml"
+   ],
+   "briefing": "2026-10-27"
+  },
   {
    "id": "15c1f8ef7a58",
    "title": "OpenAI and Poland’s NASK partner on AI safety and security",

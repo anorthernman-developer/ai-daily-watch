@@ -6,6 +6,150 @@
  "language": "en-GB",
  "items": [
   {
+   "id": "aidw-2e1100c55c69",
+   "url": "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio",
+   "title": "Microsoft details mobilezone’s deployment of three Copilot Studio agents",
+   "content_text": "Microsoft reported that mobilezone built three Copilot Studio agents for store monitoring, sales order creation, and product creation. The store-monitoring agent helps a four-person IT support team query device information and investigate errors proactively, illustrating a live operational use of Copilot Studio agents.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "Microsoft Copilot & Microsoft 365",
+    "Microsoft and mobilezone",
+    "other"
+   ]
+  },
+  {
+   "id": "aidw-eaefdf86a566",
+   "url": "https://techcommunity.microsoft.com/blog/viva_glint_blog/news-to-know-%E2%80%93-volume-3-edition-11-october-2026/4567238",
+   "title": "Viva Glint previews Copilot Results Summarization for early November",
+   "content_text": "Microsoft announced a planned private preview of Results Summarization in Viva Glint Copilot Chat for early November. The experience brings survey scores and comment analysis together conversationally, with permissions and confidentiality safeguards continuing to apply.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "Microsoft Copilot & Microsoft 365",
+    "Microsoft",
+    "roadmap/preview"
+   ]
+  },
+  {
+   "id": "aidw-d0b4344f8d59",
+   "url": "https://msrc.microsoft.com/update-guide/releaseNote/2026-Oct",
+   "title": "Microsoft publishes its October 2026 security update release, including Windows updates",
+   "content_text": "Microsoft’s Security Update Guide lists its October 2026 security release as released on October 26 and includes cumulative updates for Windows. The release page reports 1,105 Windows vulnerabilities addressed and flags a Windows Shell security feature bypass vulnerability with exploitation detected.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "Windows, Autopilot & Intune",
+    "Microsoft",
+    "security"
+   ]
+  },
+  {
+   "id": "aidw-4fce6c0cab66",
+   "url": "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/",
+   "title": "Visual Studio adds resumable, unsaved Markdown investigation notes",
+   "content_text": "Visual Studio 2026 version 18.11 can create standalone Markdown notes, and the opt-in Hot Exit preview can restore unsaved notes after Visual Studio is closed and reopened. This helps developers resume investigations without having to save the note or add it to a project first.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-824328fb685c",
+   "url": "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/",
+   "title": "GitHub Agentic Workflows weekly update highlights hardening and safer credential handling",
+   "content_text": "GitHub Agentic Workflows’ October 26 weekly update recaps six hardening releases, emphasizing stronger static analysis, safer credential handling, and clearer diagnostics. Highlighted changes include network credentials for safe-output integration jobs and secret-safe error diagnostics for engine-driver crashes.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-8f27fc3fa97c",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience/",
+   "title": "OpenAI and Fanatics launch AI-powered Shop the Look",
+   "content_text": "Fanatics launched Shop the Look, an OpenAI-powered feature that recommends coordinated, in-stock merchandise to sports fans. OpenAI says its team and Fanatics used Codex to develop recommendation tools, and testing across roughly 30,000 MLB products produced 10% higher engagement than the previous experience.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-43c19fc536e1",
+   "url": "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572",
+   "title": "Google DeepMind and Springer Nature partner to develop an AI peer-review assistant",
+   "content_text": "Google DeepMind and Springer Nature announced a research partnership to co-design an AI assistant for peer reviewers. The prototype is intended to help researchers navigate manuscripts and analyze text, charts, and figures while keeping expert human judgment central.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google DeepMind and Springer Nature",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-80a567fdb16f",
+   "url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "title": "Gemini API enables request storage by default for new paid-tier projects",
+   "content_text": "Starting October 26, new paid-tier projects using the Gemini Generate Content API store requests by default (`store=true`); existing projects retain their current setting. Developers can opt out by setting `store=false` per request or turning off API logging in AI Studio.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-1587a7383cd5",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+   "title": "Meta plans up to $95 billion equity raise to fund AI expansion",
+   "content_text": "Meta announced a plan to raise up to $95 billion through equity offerings to support its AI infrastructure and superintelligence investments. The plan combines an initial offering with a potential at-the-market program, underscoring the scale of capital required to expand AI computing capacity.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Meta",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-9953fc88b1d1",
+   "url": "https://blogs.oracle.com/database/announcing-private-agent-factory-26-10-featuring-deep-nl2sql",
+   "title": "Oracle updates Private Agent Factory with Deep NL2SQL and expanded agent integration",
+   "content_text": "Oracle released version 26.10 of Private Agent Factory, adding Deep NL2SQL to let business users ask questions about enterprise data using maintained business context. The update also adds developer integration options, reusable knowledge ingestion, expanded agent-to-agent support, and observability, strengthening the platform’s enterprise-agent capabilities.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Oracle",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-d7b6b5fce56b",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "title": "Anthropic publicly files S-1 registration statement for IPO",
+   "content_text": "Anthropic publicly filed an S-1 registration statement, moving its planned IPO a step closer to a public offering. The filing provides investors with new details about the Claude maker’s business, including reported first-half 2026 revenue of $16.29 billion.",
+   "date_published": "2026-10-26T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Anthropic",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-499f4f0b2ff2",
+   "url": "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic-governance-with-na/4567557",
+   "title": "Microsoft introduces the Power Platform Admin plugin for Copilot Cowork",
+   "content_text": "Microsoft introduced the Power Platform Admin plugin for Copilot Cowork, letting IT administrators ask natural-language questions grounded in tenant-specific Power Platform data. The post describes using those findings to produce audience-specific summaries and governance reports.",
+   "date_published": "2026-10-25T07:00:00Z",
+   "tags": [
+    "Microsoft Copilot & Microsoft 365",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
    "id": "aidw-572d1db872ef",
    "url": "https://x.com/trq212/status/2113844051938054167",
    "title": "Claude Code contributor Thariq says he has left Anthropic",

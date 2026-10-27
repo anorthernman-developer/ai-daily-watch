@@ -2,8 +2,50 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 3,
+ "count": 6,
  "items": [
+  {
+   "id": "1587a7383cd5",
+   "title": "Meta plans up to $95 billion equity raise to fund AI expansion",
+   "summary": "Meta announced a plan to raise up to $95 billion through equity offerings to support its AI infrastructure and superintelligence investments. The plan combines an initial offering with a potential at-the-market program, underscoring the scale of capital required to expand AI computing capacity.",
+   "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+   "published_date": "2026-10-26",
+   "company": "Meta",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "9953fc88b1d1",
+   "title": "Oracle updates Private Agent Factory with Deep NL2SQL and expanded agent integration",
+   "summary": "Oracle released version 26.10 of Private Agent Factory, adding Deep NL2SQL to let business users ask questions about enterprise data using maintained business context. The update also adds developer integration options, reusable knowledge ingestion, expanded agent-to-agent support, and observability, strengthening the platform’s enterprise-agent capabilities.",
+   "source_url": "https://blogs.oracle.com/database/announcing-private-agent-factory-26-10-featuring-deep-nl2sql",
+   "published_date": "2026-10-26",
+   "company": "Oracle",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://blogs.oracle.com/database/announcing-private-agent-factory-26-10-featuring-deep-nl2sql"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "d7b6b5fce56b",
+   "title": "Anthropic publicly files S-1 registration statement for IPO",
+   "summary": "Anthropic publicly filed an S-1 registration statement, moving its planned IPO a step closer to a public offering. The filing provides investors with new details about the Claude maker’s business, including reported first-half 2026 revenue of $16.29 billion.",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "published_date": "2026-10-26",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+   ],
+   "briefing": "2026-10-27"
+  },
   {
    "id": "09a5dda45158",
    "title": "Pennsylvania adopts disclosure labels for qualifying AI-generated ads",

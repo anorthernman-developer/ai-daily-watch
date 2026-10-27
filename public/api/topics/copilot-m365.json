@@ -2,6 +2,49 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 0,
- "items": []
+ "count": 3,
+ "items": [
+  {
+   "id": "2e1100c55c69",
+   "title": "Microsoft details mobilezone’s deployment of three Copilot Studio agents",
+   "summary": "Microsoft reported that mobilezone built three Copilot Studio agents for store monitoring, sales order creation, and product creation. The store-monitoring agent helps a four-person IT support team query device information and investigate errors proactively, illustrating a live operational use of Copilot Studio agents.",
+   "source_url": "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio",
+   "published_date": "2026-10-26",
+   "company": "Microsoft and mobilezone",
+   "category": "other",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "eaefdf86a566",
+   "title": "Viva Glint previews Copilot Results Summarization for early November",
+   "summary": "Microsoft announced a planned private preview of Results Summarization in Viva Glint Copilot Chat for early November. The experience brings survey scores and comment analysis together conversationally, with permissions and confidentiality safeguards continuing to apply.",
+   "source_url": "https://techcommunity.microsoft.com/blog/viva_glint_blog/news-to-know-%E2%80%93-volume-3-edition-11-october-2026/4567238",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/viva_glint_blog/news-to-know-%E2%80%93-volume-3-edition-11-october-2026/4567238"
+   ],
+   "briefing": "2026-10-27"
+  },
+  {
+   "id": "499f4f0b2ff2",
+   "title": "Microsoft introduces the Power Platform Admin plugin for Copilot Cowork",
+   "summary": "Microsoft introduced the Power Platform Admin plugin for Copilot Cowork, letting IT administrators ask natural-language questions grounded in tenant-specific Power Platform data. The post describes using those findings to produce audience-specific summaries and governance reports.",
+   "source_url": "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic-governance-with-na/4567557",
+   "published_date": "2026-10-25",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/copilot-studio-blog/introducing-the-power-platform-admin-plugin-in-cowork-agentic-governance-with-na/4567557"
+   ],
+   "briefing": "2026-10-27"
+  }
+ ]
 }
