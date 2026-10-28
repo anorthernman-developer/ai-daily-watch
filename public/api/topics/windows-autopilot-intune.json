@@ -2,8 +2,36 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "21f7741d6a06",
+   "title": "Microsoft releases KB5134133 certificate trust update for Windows 11 24H2–26H2",
+   "summary": "Microsoft published KB5134133, a cumulative non-security out-of-band update for Windows 11 versions 24H2, 25H2, and 26H2. It is intended for devices that do not receive current certificate trust list updates, such as disconnected devices or devices unable to access Microsoft’s certificate-update service.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5134133-windows-11-24h2-25h2-26h2-update",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5134133-windows-11-24h2-25h2-26h2-update"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "a49f81574cf6",
+   "title": "Microsoft outlines trust-list changes after eMudhra certificate key compromise",
+   "summary": "Microsoft described its response to compromised eMudhra certificate authority keys, including an October 26 out-of-band Windows update removing seven related certificates from the Windows trust list. Microsoft also said it planned to remove those certificates from the Edge trust list on October 27 and advised administrators to check disconnected devices.",
+   "source_url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys"
+   ],
+   "briefing": "2026-10-28"
+  },
   {
    "id": "d0b4344f8d59",
    "title": "Microsoft publishes its October 2026 security update release, including Windows updates",

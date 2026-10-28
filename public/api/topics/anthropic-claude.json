@@ -2,8 +2,36 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "24f8c924a60c",
+   "title": "Anthropic releases Claude for Nonprofits plugin",
+   "summary": "Anthropic released a Claude for Nonprofits plugin, built with about 30 nonprofit organizations, with skills and connectors for fundraising, marketing, hiring, and related operational work. It is included at no additional cost for nonprofits on Team and Enterprise plans; Anthropic also plans to extend its Claude Corps program through a Taproot partnership.",
+   "source_url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+   "published_date": "2026-10-26",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/expanding-claude-for-nonprofits"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "38313c82af26",
+   "title": "Claude Code v2.1.311 adds self-hosted runner controls and reliability fixes",
+   "summary": "Anthropic published Claude Code v2.1.311 with new `--hold-idle-file` and `--max-hold-min` controls for self-hosted runners, alongside fixes spanning startup freezes, context handling, MCP tools, and background sessions. The release also changes `ultrathink` to run at xhigh effort on specified Claude models through Anthropic’s API.",
+   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
+   "published_date": "2026-10-26",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.311"
+   ],
+   "briefing": "2026-10-28"
+  },
   {
    "id": "572d1db872ef",
    "title": "Claude Code contributor Thariq says he has left Anthropic",

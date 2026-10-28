@@ -2,8 +2,65 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 3,
+ "count": 7,
  "items": [
+  {
+   "id": "896502d1436c",
+   "title": "Gemini Robotics ER 2 enters public preview on Google Cloud",
+   "summary": "Google made Gemini Robotics Embodied Reasoning 2 available in public preview through Model Garden in the Gemini platform on Google Cloud. The model is designed to support robotics with spatial and temporal video understanding, long-horizon planning, and safety guardrails, bringing the research model into an enterprise cloud environment.",
+   "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
+   "published_date": "2026-10-27",
+   "company": "Google",
+   "category": "roadmap/preview",
+   "topic": "google-gemini",
+   "citations": [
+    "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "ab4bae5b2a4c",
+   "title": "Google showcases eight examples of Gemini 4 Argon in action",
+   "summary": "Google published eight demonstrations of Gemini 4 Argon, spanning deep research, complex tasks, interactive tools, and 3D design. The post highlights the model's reasoning, coding, and multimodal workflow capabilities, providing concrete examples of how Google says Argon can be used.",
+   "source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+   "published_date": "2026-10-27",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "d17d13a0006a",
+   "title": "Google DeepMind announces Genie 4, a new world-simulation model",
+   "summary": "Google DeepMind announced Genie 4, a multimodal world model for realistic, real-time interactive simulation that can generate environmental sounds and dialogue alongside the world. It is currently a research preview for trusted testers, with access planned for Google AI Ultra subscribers in Project Genie and early-access partners through the Gemini API and Google AI Studio.",
+   "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "published_date": "2026-10-27",
+   "company": "Google DeepMind",
+   "category": "roadmap/preview",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "64546af8772d",
+   "title": "Google DeepMind launches Gemini API CLI for agents",
+   "summary": "Google DeepMind team member Philipp Schmid announced the Gemini API CLI, a stateless command-line tool that lets developers call Gemini API capabilities from agents they already use. The post lists media generation, file and media analysis, transcription, and background Deep Research among its tasks.",
+   "source_url": "https://x.com/_philschmid/status/2114773524787187804",
+   "published_date": "2026-10-26",
+   "company": "Google DeepMind",
+   "category": "product launch",
+   "topic": "google-gemini",
+   "citations": [
+    "https://x.com/_philschmid/status/2114773524787187804",
+    "https://api.xgo.ing/rss/user/ce352bbf72e44033985bc756db2ee0e2"
+   ],
+   "briefing": "2026-10-28"
+  },
   {
    "id": "43c19fc536e1",
    "title": "Google DeepMind and Springer Nature partner to develop an AI peer-review assistant",

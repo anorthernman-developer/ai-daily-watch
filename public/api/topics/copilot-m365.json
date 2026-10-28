@@ -2,8 +2,36 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 3,
+ "count": 5,
  "items": [
+  {
+   "id": "71f6d4810e3c",
+   "title": "Microsoft details five new Copilot in Excel capabilities",
+   "summary": "Microsoft’s October Excel update adds five Copilot capabilities, including tools to clean and retrieve data, create reusable skills, and work with an interactive canvas. Availability varies: some skills are rolling out generally, while the interactive canvas remains an Insider feature for Windows.",
+   "source_url": "https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-october-2026/4549758",
+   "published_date": "2026-10-27",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-october-2026/4549758"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "633aaad25d61",
+   "title": "Microsoft expands Frontier previews to Outlook, OneDrive, SharePoint, and Teams",
+   "summary": "Starting in November, Frontier will offer eligible public previews across Copilot, new Outlook for Windows, OneDrive, SharePoint, and Teams through one optional, admin-controlled enrollment program. This gives organizations a centralized way to test preview features and provide feedback; users still need licenses for the products they access.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/frontier-expands-to-more-microsoft-365-public-previews/4567243",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/frontier-expands-to-more-microsoft-365-public-previews/4567243"
+   ],
+   "briefing": "2026-10-28"
+  },
   {
    "id": "2e1100c55c69",
    "title": "Microsoft details mobilezone’s deployment of three Copilot Studio agents",

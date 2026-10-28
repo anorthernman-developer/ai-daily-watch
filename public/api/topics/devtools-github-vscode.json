@@ -2,8 +2,78 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 2,
+ "count": 7,
  "items": [
+  {
+   "id": "3fda17e9b5fa",
+   "title": "GitHub Agentic Workflows introduces a pre-run admission gate",
+   "summary": "GitHub Agentic Workflows now documents an opt-in admission gate that can consult a separately deployed authority before an agent session starts. The authority can approve or deny activation and return AI-credit allowances, enabling centralized policy and budgeting; the post emphasizes this is cooperative, not a hard quota.",
+   "source_url": "https://github.github.com/gh-aw/blog/2026-10-27-activation-gate/",
+   "published_date": "2026-10-27",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.github.com/gh-aw/blog/2026-10-27-activation-gate/"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "7ed80feb6b88",
+   "title": "GitHub Copilot CLI 1.0.104 changes Auto model selection and Autopilot task waiting",
+   "summary": "Copilot CLI 1.0.104 changes managed fusion sessions to start on Auto and apply fusionTier settings. Interactive and SDK Autopilot sessions now continue waiting for attached background tasks instead of stopping at the configured timeout; `-p --autopilot` still honors that timeout.",
+   "source_url": "https://github.com/github/copilot-cli/releases/tag/v1.0.104",
+   "published_date": "2026-10-27",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.com/github/copilot-cli/releases/tag/v1.0.104"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "89676eaabfde",
+   "title": "VS Code adds configurable eagerness for GitHub Copilot inline suggestions",
+   "summary": "VS Code now lets paid GitHub Copilot subscribers choose low, medium, or high eagerness for inline suggestions. The settings let developers tune how proactively Copilot offers suggestions and how large its proposed edits are.",
+   "source_url": "https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness",
+   "published_date": "2026-10-26",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "c4ecf8540b6d",
+   "title": "GitHub Copilot assisted permissions reach general availability",
+   "summary": "GitHub made Copilot assisted permissions generally available in Copilot CLI, the Copilot app, and VS Code. The mode automatically proceeds with requests judged clearly safe and requires user approval for other requests; enterprise administrators can manage access to the mode.",
+   "source_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available/",
+   "published_date": "2026-10-26",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available/"
+   ],
+   "briefing": "2026-10-28"
+  },
+  {
+   "id": "c9f248786f3c",
+   "title": "GPT-6.1 Terra becomes generally available in GitHub Copilot",
+   "summary": "GPT-6.1 Terra is now generally available in GitHub Copilot for Pro, Pro+, Max, Business, and Enterprise users, with rollout across VS Code, Visual Studio, CLI, the cloud agent, and other clients. GitHub positions it for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol; usage-based billing follows provider list pricing.",
+   "source_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/",
+   "published_date": "2026-10-26",
+   "company": "GitHub",
+   "category": "model release",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/"
+   ],
+   "briefing": "2026-10-28"
+  },
   {
    "id": "4fce6c0cab66",
    "title": "Visual Studio adds resumable, unsaved Markdown investigation notes",

@@ -2,6 +2,21 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 0,
- "items": []
+ "count": 1,
+ "items": [
+  {
+   "id": "093296a219e1",
+   "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash reach general availability in Microsoft Foundry",
+   "summary": "MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry. The announcement highlights multi-reference editing with up to five images for MAI-Image-2.6 and lists starting prices: $5/$8/$38 per million text-input/image-input/image-output tokens for 2.6, and $1.75/$2.50/$19 for Flash.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/mai-image-2-6-and-mai-image-2-6-flash-are-now-generally-available-in-microsoft-f/4566327",
+   "published_date": "2026-10-27",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/mai-image-2-6-and-mai-image-2-6-flash-are-now-generally-available-in-microsoft-f/4566327"
+   ],
+   "briefing": "2026-10-28"
+  }
+ ]
 }
