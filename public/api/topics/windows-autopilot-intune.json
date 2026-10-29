@@ -2,8 +2,36 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 3,
+ "count": 4,
  "items": [
+  {
+   "id": "8f6b4327a5e9",
+   "title": "Microsoft releases Windows 11 preview KB5127936 for versions 25H2 and 26H2",
+   "summary": "Microsoft’s October 28 preview update KB5127936 applies to Windows 11 versions 25H2 and 26H2. It includes changes such as refreshed Gaming Task View and Wi-Fi profile reuse in Windows Recovery Environment, alongside other feature and quality improvements.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "a49f81574cf6",
+   "title": "Microsoft confirms removal of seven eMudhra certificates from Edge trust list",
+   "summary": "Microsoft updated its eMudhra response to confirm that it removed the seven affected certificates from the Microsoft Edge trust list on October 27. The update also explains the impersonation and malicious-code-signing risks and warns organizations to assess carefully before restoring local trust.",
+   "source_url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
+   "published_date": "2026-10-27",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys"
+   ],
+   "briefing": "2026-10-29"
+  },
   {
    "id": "21f7741d6a06",
    "title": "Microsoft releases KB5134133 certificate trust update for Windows 11 24H2–26H2",
@@ -15,20 +43,6 @@
    "topic": "windows-autopilot-intune",
    "citations": [
     "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5134133-windows-11-24h2-25h2-26h2-update"
-   ],
-   "briefing": "2026-10-28"
-  },
-  {
-   "id": "a49f81574cf6",
-   "title": "Microsoft outlines trust-list changes after eMudhra certificate key compromise",
-   "summary": "Microsoft described its response to compromised eMudhra certificate authority keys, including an October 26 out-of-band Windows update removing seven related certificates from the Windows trust list. Microsoft also said it planned to remove those certificates from the Edge trust list on October 27 and advised administrators to check disconnected devices.",
-   "source_url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
-   "published_date": "2026-10-26",
-   "company": "Microsoft",
-   "category": "security",
-   "topic": "windows-autopilot-intune",
-   "citations": [
-    "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys"
    ],
    "briefing": "2026-10-28"
   },

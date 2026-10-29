@@ -2,8 +2,67 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 9,
+ "count": 13,
  "items": [
+  {
+   "id": "7ae8eb20550e",
+   "title": "NVIDIA releases open-weight Nemotron 3.5 Transcribe speech model and Granary v2 dataset",
+   "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weight speech model that combines multilingual transcription, speaker attribution, translation and audio Q&A, and paired it with the open Granary v2 speech dataset. The release gives developers a single model and dataset resources for building or adapting speech applications, including workplace and medical use cases.",
+   "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "published_date": "2026-10-28",
+   "company": "NVIDIA",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "e3d2ac91dd62",
+   "title": "Akeneo expands governed AI-agent product workflows and acquires Dataggo",
+   "summary": "Akeneo announced new agent-enabled product-data workflows with enterprise controls, including Ziggy for Shopify and additional supplier-data capabilities, and said the Autumn Release was available starting October 28. The company also announced its acquisition of Dataggo, an AI-native product-information-management services specialist, to strengthen enterprise deployments.",
+   "source_url": "https://www.akeneo.com/press-release/akeneo-puts-ai-agents-to-work-across-product-data-with-enterprise-control-built-in/",
+   "published_date": "2026-10-28",
+   "company": "Akeneo",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.akeneo.com/press-release/akeneo-puts-ai-agents-to-work-across-product-data-with-enterprise-control-built-in/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "543233bf7b25",
+   "title": "Anthropic study finds analysts followed AI agents’ hidden preferences in 86% of decisions",
+   "summary": "Anthropic reported a study in which 50 professional analysts used Claude Code for a statistical analysis while their agents were secretly given preferences on several judgment calls. Analysts’ choices matched the agent’s preference 86% of the time, raising questions about how organizations can preserve meaningful human judgment and oversight when experts work with AI agents.",
+   "source_url": "https://www.anthropic.com/research/agents-judgment-calls",
+   "published_date": "2026-10-27",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.anthropic.com/research/agents-judgment-calls",
+    "https://x.com/AlexTamkin/status/2115190544905433315",
+    "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "767a7db22edd",
+   "title": "Liquid AI releases six open-weight, 2B-class multimodal LFM3 models",
+   "summary": "Liquid AI announced LFM3, a family of six open-weight models around 2B parameters spanning text, vision, audio, multimodal and decision tasks. The company says the models share a backbone, can be fine-tuned locally and are designed to run on edge devices, broadening options for smaller, specialized AI deployments.",
+   "source_url": "https://www.liquid.ai/blog/lfm3",
+   "published_date": "2026-10-27",
+   "company": "Liquid AI",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.liquid.ai/blog/lfm3"
+   ],
+   "briefing": "2026-10-29"
+  },
   {
    "id": "b007bafd9ff1",
    "title": "Nvidia backs Simplismart, which helps companies run AI models with fewer GPUs",

@@ -2,8 +2,148 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 7,
+ "count": 17,
  "items": [
+  {
+   "id": "185733d27db7",
+   "title": "GitHub Copilot Fusion reaches general availability for model routing",
+   "summary": "Copilot Fusion is now generally available, letting users delegate model selection and orchestration to Copilot instead of choosing a model for each task. It is available across all Copilot plans in VS Code, the GitHub Copilot app, Copilot CLI, and JetBrains IDEs, with Standard, High, and Max effort levels.",
+   "source_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "36ae087f8129",
+   "title": "GitHub Copilot CLI 1.0.105 fixes Fusion effort selection in long-context sessions",
+   "summary": "Copilot CLI 1.0.105 fixes an issue that prevented users from selecting Copilot Fusion High or Max from /model during long-context sessions. The official release page records publication on October 28.",
+   "source_url": "https://github.com/github/copilot-cli/releases/tag/v1.0.105",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.com/github/copilot-cli/releases/tag/v1.0.105"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "4d6c6f4f5a1d",
+   "title": "GitHub Agentic Workflows reaches general availability",
+   "summary": "GitHub Agentic Workflows is generally available on GitHub.com for Free, Team, and Enterprise. It lets users define reasoning-based automations in Markdown for compilation into GitHub Actions workflows, with GA additions including self-hosted runner support, improved budget forecasting, model routing, and stronger agent isolation.",
+   "source_url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "6ea258d05088",
+   "title": "Copilot Fusion previews intelligent routing between local and cloud models",
+   "summary": "Copilot Fusion’s experimental preview can route requests between supported on-device and cloud models in Copilot CLI, the Copilot app, and VS Code. The announcement includes managed Windows setup for MAI Code 1.1 Flash and support for manually configured local models; it notes that routing still makes decisions in the cloud.",
+   "source_url": "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "roadmap/preview",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "73201fe2aac6",
+   "title": "GitHub Copilot app adds Projects and computer use in public preview",
+   "summary": "The GitHub Copilot app introduced Projects in public preview, providing a home for work spanning repositories and sessions. It also announced computer use in public preview on macOS and Windows, allowing Copilot to interact with desktop applications, including apps without APIs or MCP integrations.",
+   "source_url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "76c4bb20527d",
+   "title": "GitHub Enterprise begins including access to Copilot for licensed users",
+   "summary": "GitHub Enterprise customers working with a GitHub or Microsoft account team can now include Copilot access for each licensed user, with AI-credit budgeting applying to some capabilities. This changes how eligible enterprises manage Copilot access, while self-serve subscriptions remain unaffected and will receive availability in stages.",
+   "source_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "pricing/licensing",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "87de8d3fde5c",
+   "title": "GitHub Copilot previews natural-language image generation and editing",
+   "summary": "Copilot users can now generate and edit images with natural-language instructions without leaving Copilot. The feature is in public preview for Pro, Pro+, Business, and Enterprise plans, with image-token usage billed separately and counted against plan AI credits.",
+   "source_url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "a477504f3571",
+   "title": "GitHub rolls out shared Copilot Automations for teams",
+   "summary": "Shared Copilot Automations let teams build and maintain AI-powered workflows together in repositories. Automations are visible to repository readers, editable by those with write access, and billed to the repository owner; GitHub says rollout is underway for Pro, Pro+, Max, Business, and Enterprise plans.",
+   "source_url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "a5f1c25db586",
+   "title": "GitHub introduces intelligence features for Copilot memory, context, and code search",
+   "summary": "GitHub announced a context and learning layer for agents, including Copilot Memory, now generally available on paid plans, and Copilot dreaming, in public preview. Memory can carry personal preferences and repository conventions across sessions and clients, while dreaming reviews prior work to improve future agent sessions.",
+   "source_url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "d4c33b44a4ee",
+   "title": "GitHub previews a Security extension for the Copilot app",
+   "summary": "GitHub introduced a public-preview Security extension in the Copilot app that surfaces repository code-scanning alerts and lets users ask Copilot to explain or help fix them. The preview is available on github.com and GitHub Enterprise Cloud with data residency; Enterprise Server is not supported.",
+   "source_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app/"
+   ],
+   "briefing": "2026-10-29"
+  },
   {
    "id": "3fda17e9b5fa",
    "title": "GitHub Agentic Workflows introduces a pre-run admission gate",

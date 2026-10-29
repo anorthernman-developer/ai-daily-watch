@@ -2,8 +2,80 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 3,
+ "count": 8,
  "items": [
+  {
+   "id": "3cfd7e486253",
+   "title": "Anthropic adds ready-to-use legal artifacts to Claude for Legal",
+   "summary": "Anthropic added a gallery of ready-to-use interactive artifacts for Claude for Legal, including tools for contract review, regulatory tracking, and routing legal requests. Legal teams can adapt and share the tools using their own data and connectors, extending Claude Enterprise’s workflow options for legal work.",
+   "source_url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+   "published_date": "2026-10-28",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "277d5156ec35",
+   "title": "Anthropic reports Claude-assisted vulnerability discoveries in widely used software",
+   "summary": "Anthropic’s Frontier Red Team reported that an internal research model helped identify serious vulnerabilities across widely used software. Anthropic says the findings were reported to affected vendors, and that 62 Google-assigned CVEs had been patched as of Chrome 156; the report highlights the growing relevance of AI-assisted defensive security research.",
+   "source_url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+   "published_date": "2026-10-27",
+   "company": "Anthropic",
+   "category": "security",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+    "https://cellcog.ai/blog/claude-finds-chrome-safari-exploits/"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "3fa83c67bd72",
+   "title": "Claude Code v2.1.312 adds gateway identity-claim support and improvements",
+   "summary": "Anthropic published Claude Code v2.1.312, adding an OIDC user-ID claim setting for the Claude apps gateway, including support for claims such as Microsoft Entra ID’s `oid`. The release also includes usability, settings, and reliability fixes across Claude Code, VS Code, and cloud sessions.",
+   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
+   "published_date": "2026-10-27",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.312"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "7e8eb7c474c4",
+   "title": "Anthropic expands Claude for Financial Advisors with partner connectors",
+   "summary": "Anthropic updated Claude for Financial Advisors with additional partner integrations and workflow skills for advisors. One announced addition brings J.P. Morgan Asset Management subsidiary 55ip’s tax-aware portfolio technology into Claude through a new connector.",
+   "source_url": "https://claude.com/resources/articles/claude-for-financial-advisors",
+   "published_date": "2026-10-27",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/claude-for-financial-advisors"
+   ],
+   "briefing": "2026-10-29"
+  },
+  {
+   "id": "fdf27bf9960b",
+   "title": "Anthropic shares early Claude-assisted drug-development progress",
+   "summary": "Anthropic reported early results from Claude-related work with six life-sciences organizations: BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group. It also described in-house drug-discovery efforts, including programs focused on rare forms of muscular dystrophy, illustrating an expansion of Claude’s use into biomedical research.",
+   "source_url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "published_date": "2026-10-27",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/early-progress-drug-development",
+    "https://x.com/AnthropicAI/status/2115178675050307942"
+   ],
+   "briefing": "2026-10-29"
+  },
   {
    "id": "24f8c924a60c",
    "title": "Anthropic releases Claude for Nonprofits plugin",

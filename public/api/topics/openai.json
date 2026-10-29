@@ -2,8 +2,22 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 3,
+ "count": 4,
  "items": [
+  {
+   "id": "6ec292c94d2f",
+   "title": "OpenAI spotlights Legora’s legal-work AI platform and use of OpenAI products",
+   "summary": "OpenAI profiled Legora’s legal AI platform, which uses OpenAI models for workflows including agentic legal work and document review. The article also notes Legora’s use of ChatGPT Work, Codex, and dots, illustrating the company’s products across both customer-facing software and internal operations.",
+   "source_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work/",
+   "published_date": "2026-10-28",
+   "company": "OpenAI",
+   "category": "other",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work/"
+   ],
+   "briefing": "2026-10-29"
+  },
   {
    "id": "5837bd0cc25a",
    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
