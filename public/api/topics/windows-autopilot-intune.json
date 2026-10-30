@@ -2,8 +2,23 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 4,
+ "count": 5,
  "items": [
+  {
+   "id": "fa0f0e85d2ac",
+   "title": "Windows 11 26H1 preview adds WinRE remote-management support for MDM providers",
+   "summary": "Microsoft’s October 28 preview update KB5127653 for Windows 11 version 26H1 adds a recovery remote-management plug-in that extends Windows Recovery Environment management capabilities for MDM providers. The update also includes other Windows improvements, but this new MDM recovery capability is the notable endpoint-management change.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127653-windows-11-26h1-update",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127653-windows-11-26h1-update",
+    "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "8f6b4327a5e9",
    "title": "Microsoft releases Windows 11 preview KB5127936 for versions 25H2 and 26H2",

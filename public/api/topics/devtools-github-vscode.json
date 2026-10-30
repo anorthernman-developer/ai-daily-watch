@@ -2,8 +2,107 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 17,
+ "count": 24,
  "items": [
+  {
+   "id": "c2d304ac403d",
+   "title": "Microsoft and Syncfusion collaborate on open-source Blazor toolkit and contributions",
+   "summary": "Microsoft announced a collaboration with Syncfusion to advance Blazor. Syncfusion has released a free, MIT-licensed component toolkit and contributed fixes and tests to ASP.NET Core and .NET scaffolding, adding reusable components while contributing directly to the platform.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/",
+   "published_date": "2026-10-29",
+   "company": "Microsoft and Syncfusion",
+   "category": "partnership/deal",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "3238a6c24ea1",
+   "title": "Microsoft Copilot harness enters public preview in Foundry Agent Service",
+   "summary": "Microsoft introduced the Copilot harness in Foundry Agent Service as a public preview, giving developers a managed way to build agents that reason, use tools, and complete complex, long-running tasks. The post also announced general availability of long-running resilience for hosted agents.",
+   "source_url": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+    "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "440929e31451",
+   "title": "Visual Studio Marketplace adds secretless Trusted Publishing for extensions",
+   "summary": "Microsoft announced Trusted Publishing for Visual Studio Marketplace extensions. GitHub Actions and Azure Pipelines can use verified federated identity to publish without storing a long-lived personal access token or publishing secret; existing PAT-based publishing remains available.",
+   "source_url": "https://developer.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://developer.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "547970974d98",
+   "title": "Microsoft makes Copilot UX components generally available with SPFx 1.24",
+   "summary": "Microsoft made Copilot UX components generally available worldwide with SharePoint Framework 1.24, allowing developers to bring interactive dashboards, forms, and business actions into Copilot conversations. Components can also be reused in SharePoint, Teams, and Outlook; users need a Microsoft Copilot add-on license to render them in Copilot.",
+   "source_url": "https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "a0d53d4c36e3",
+   "title": "Copilot code review adds Max effort preview and generally available approvals",
+   "summary": "GitHub added a Max effort level for Copilot code review in public preview and made Copilot approvals generally available. The combination is intended to provide a deeper review and an approval assessment within the pull-request review workflow.",
+   "source_url": "https://github.blog/changelog/2026-10-28-copilot-code-review-merge-with-confidence-with-max-and-approvals/",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-copilot-code-review-merge-with-confidence-with-max-and-approvals/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "da0e4aeadd91",
+   "title": "Visual Studio Code 1.144 stable release expands agent workflows and continuity",
+   "summary": "VS Code 1.144 shipped in the stable channel with expanded agent workflows, including agent sessions that continue across environments and client continuity supported by the Agent Host Protocol. The release also brings agent management and model-selection updates, making it a substantial IDE update for developers using Copilot agents.",
+   "source_url": "https://code.visualstudio.com/updates/v1_144",
+   "published_date": "2026-10-28",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://code.visualstudio.com/updates/v1_144"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "dad6fffd86d6",
+   "title": "GitHub brings Copilot Agent Merge into cloud pull requests",
+   "summary": "GitHub integrated Agent Merge into pull requests on GitHub.com. Copilot can watch for blockers such as failing Actions workflows and merge conflicts and attempt to fix them; the cloud feature is available to paid Copilot users subject to organization and enterprise policies.",
+   "source_url": "https://github.blog/changelog/2026-10-28-agent-merge-watches-and-fixes-pull-requests-in-the-cloud",
+   "published_date": "2026-10-28",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-28-agent-merge-watches-and-fixes-pull-requests-in-the-cloud"
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "185733d27db7",
    "title": "GitHub Copilot Fusion reaches general availability for model routing",

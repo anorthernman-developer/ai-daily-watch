@@ -5,18 +5,18 @@
  "count": 6,
  "items": [
   {
-   "id": "547970974d98",
-   "title": "Microsoft makes Copilot UX components generally available",
-   "summary": "Copilot UX components are now generally available worldwide with SharePoint Framework 1.24, allowing organizations to place interactive experiences such as dashboards, forms, and business actions directly in the Copilot conversation. Users need a Microsoft Copilot add-on license; mobile support and additional Copilot surfaces are planned for later.",
-   "source_url": "https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/",
-   "published_date": "2026-10-28",
+   "id": "36dae457560e",
+   "title": "Copilot in SharePoint adds generally available image, analytics, and metadata tools",
+   "summary": "Microsoft says advanced Copilot in SharePoint capabilities are now generally available, including image generation and editing, AI-generated site analytics reports, and near-real-time metadata autofill. The features use Copilot Credits and are available to Copilot-licensed users, adding new AI-assisted workflows across SharePoint sites and document libraries.",
+   "source_url": "https://techcommunity.microsoft.com/blog/spblog/sharepoint-showcase-refreshed-sharepoint-mobile-app/4535415",
+   "published_date": "2026-10-29",
    "company": "Microsoft",
    "category": "feature update",
    "topic": "copilot-m365",
    "citations": [
-    "https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-are-generally-available-bring-interactive-experiences-into-copilot/"
+    "https://techcommunity.microsoft.com/blog/spblog/sharepoint-showcase-refreshed-sharepoint-mobile-app/4535415"
    ],
-   "briefing": "2026-10-29"
+   "briefing": "2026-10-30"
   },
   {
    "id": "71f6d4810e3c",

@@ -2,8 +2,66 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 8,
+ "count": 12,
  "items": [
+  {
+   "id": "106678985d59",
+   "title": "SentinelOne plans to add Claude Mythos 5.1 to its Wayfinder security service",
+   "summary": "SentinelOne announced plans to add Anthropic’s Claude Mythos 5.1 to Wayfinder Frontier AI Services, where it will be used alongside security experts to help identify and assess software risks. The announcement is a new security-services partnership development; SentinelOne described the addition as upcoming rather than already available.",
+   "source_url": "https://www.sentinelone.com/press/sentinelone-to-add-anthropic-s-claude-mythos-5-1-to-wayfinder-frontier-ai-services/",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.sentinelone.com/press/sentinelone-to-add-anthropic-s-claude-mythos-5-1-to-wayfinder-frontier-ai-services/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "ad10900db6cd",
+   "title": "Anthropic expands AI for Science support to foundations and research institutions",
+   "summary": "Anthropic expanded its AI for Science program beyond individual researchers, partnering with 20 scientific foundations, institutions, and research groups and providing Claude credits for research. The announcement also highlights collaborations on safe lab-instrument use and AI-assisted analysis of scientific datasets, broadening the program’s institutional reach.",
+   "source_url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/AnthropicAI/status/2115825653539025142",
+    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "064f3e7c0304",
+   "title": "IDC brings its Quanta research platform into Claude and adopts Claude company-wide",
+   "summary": "Anthropic and IDC brought IDC Quanta into Claude, letting IDC customers query the research platform’s forecasts, market data, and analysis through Claude. IDC also rolled Claude out across its own business, combining a customer-facing research integration with a significant enterprise adoption.",
+   "source_url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+   "published_date": "2026-10-28",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "cba4e4e6bf9f",
+   "title": "Anthropic makes smart reports, surveys, and pooled budgets generally available for Claude Enterprise",
+   "summary": "Anthropic made smart reports, in-app surveys, and pooled group budgets generally available for Claude Enterprise. The features give organizations new ways to understand Claude usage and outcomes, gather employee feedback, and set shared team spending limits.",
+   "source_url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+   "published_date": "2026-10-28",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+    "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "3cfd7e486253",
    "title": "Anthropic adds ready-to-use legal artifacts to Claude for Legal",

@@ -2,8 +2,38 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 4,
+ "count": 6,
  "items": [
+  {
+   "id": "3193c52fb6f1",
+   "title": "ChatGPT begins beta texting for dot agents via iMessage and RCS",
+   "summary": "OpenAI began rolling out texting for its dot agent through iMessage and RCS, allowing users to send text, photos, and voice messages and receive proactive updates. The beta preview is for ChatGPT Pro users in the U.S., extending access to the agent beyond the ChatGPT app.",
+   "source_url": "https://x.com/ChatGPT/status/2115496387613786374",
+   "published_date": "2026-10-28",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://x.com/ChatGPT/status/2115496387613786374",
+    "https://learn.chatgpt.com/docs/whats-new/dots-october-28-2026"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "337afc339ead",
+   "title": "OpenAI offers eligible ChatGPT Pro and Business subscribers up to $500 monthly in API credits",
+   "summary": "Eligible ChatGPT Pro and Business subscribers can claim monthly OpenAI API credits to build apps and agents, with the benefit reaching up to $500 per month. Pro allowances vary by tier, while Business credits are pooled by workspace and capped at $500 per monthly billing period.",
+   "source_url": "https://developers.openai.com/api/docs/changelog",
+   "published_date": "2026-10-28",
+   "company": "OpenAI",
+   "category": "pricing/licensing",
+   "topic": "openai",
+   "citations": [
+    "https://developers.openai.com/api/docs/changelog",
+    "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions"
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "6ec292c94d2f",
    "title": "OpenAI spotlights Legora’s legal-work AI platform and use of OpenAI products",

@@ -2,8 +2,80 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 13,
+ "count": 18,
  "items": [
+  {
+   "id": "779b541ff77b",
+   "title": "Mistral releases open weights for its 1-trillion-parameter Large 4 model",
+   "summary": "Mistral released the weights for its improved Large 4 (Le Chonk), a one-trillion-parameter multimodal model, after additional training beyond its earlier public preview. The release emphasizes agentic coding, defensive cybersecurity, and self-hosting; the model is available under Mistral’s Ecosystem Open-Weight license, which includes a separate-license condition for some model-as-a-service uses.",
+   "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "published_date": "2026-10-29",
+   "company": "Mistral",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://mistral.ai/news/mistral-large-4-oss/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "792ced339c73",
+   "title": "Deepgram to acquire Daily, makers of open-source voice-agent framework Pipecat",
+   "summary": "Deepgram announced it is acquiring Daily, the company behind the open-source Pipecat voice-agent framework, to combine it with Deepgram’s voice AI infrastructure. The companies say Pipecat will remain open source and vendor neutral; they did not disclose the deal amount.",
+   "source_url": "https://deepgram.com/blog/daily-pipecat-deepgram",
+   "published_date": "2026-10-29",
+   "company": "Deepgram",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://deepgram.com/blog/daily-pipecat-deepgram",
+    "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "a9f23971a567",
+   "title": "Cohere announces initial Series E close targeting up to CAD $7 billion",
+   "summary": "Cohere announced the initial close of a Series E round targeting up to CAD $7 billion, a figure the company says would imply a CAD $35.7 billion valuation. Schwarz Group is the lead investor; Cohere says the financing will support compute infrastructure, frontier models, and AI products for enterprises and governments, but the target is not the same as the amount already committed.",
+   "source_url": "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html",
+   "published_date": "2026-10-29",
+   "company": "Cohere",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "c7e8a69752d9",
+   "title": "Digital Science acquires Jenni AI, bringing its AI research-writing platform into its scholarly-data ecosystem",
+   "summary": "Digital Science acquired Jenni AI, an AI-native research and writing platform used by more than 8 million students and researchers in 189 countries. The planned integration with Digital Science’s research data, starting with its Dimensions database, aims to connect AI-assisted discovery and writing with published research sources and citation checking.",
+   "source_url": "https://www.digital-science.com/press-releases/digital-science-acquires-jenni-ai/",
+   "published_date": "2026-10-29",
+   "company": "Digital Science",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.digital-science.com/press-releases/digital-science-acquires-jenni-ai/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "9bf07d8bafb0",
+   "title": "FuriosaAI raises $620 million in Series D at $2.9 billion valuation",
+   "summary": "South Korean AI-chip company FuriosaAI announced a $620 million Series D at a $2.9 billion post-money valuation. It said the funding will support production and deployment of its RNGD inference accelerator, software development, and work on a third-generation accelerator.",
+   "source_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+   "published_date": "2026-10-28",
+   "company": "FuriosaAI",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+    "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase"
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "7ae8eb20550e",
    "title": "NVIDIA releases open-weight Nemotron 3.5 Transcribe speech model and Granary v2 dataset",

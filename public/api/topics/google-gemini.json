@@ -2,8 +2,51 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 7,
+ "count": 10,
  "items": [
+  {
+   "id": "40ee4ff935a1",
+   "title": "Gemini adds in-chat document creation, preview, and editing",
+   "summary": "Gemini now lets users create, preview, and edit documents, PDFs, presentations, spreadsheets, code, and other files within a chat. Google says PDF preview and editing are available on web and mobile, while other listed formats are currently web-only; the capabilities are available to all Gemini app users in supported regions and languages.",
+   "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+   "published_date": "2026-10-29",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "b61f46e0ec2d",
+   "title": "Google reports Gemini classroom-study findings from the UK and Italy",
+   "summary": "Google shared findings from studies in the UK and Italy on Gemini’s use in classrooms. The UK trial found AI tutoring provided math support comparable to human tutors for many students; the Italy study reported higher participation and more student-led collaboration when teachers used Gemini to co-design lessons.",
+   "source_url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+   "published_date": "2026-10-29",
+   "company": "Google",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/"
+   ],
+   "briefing": "2026-10-30"
+  },
+  {
+   "id": "185e559c77b9",
+   "title": "Google announces Gemini 4 Carbon, its next frontier model",
+   "summary": "Google announced Gemini 4 Carbon, describing it as its strongest model, with advances in cybersecurity and long-horizon capabilities. Access starts with a subset of cyber defenders and is planned to expand to trusted partners through the Fairwind Program before broader availability.",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "published_date": "2026-10-28",
+   "company": "Google",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+   ],
+   "briefing": "2026-10-30"
+  },
   {
    "id": "896502d1436c",
    "title": "Gemini Robotics ER 2 enters public preview on Google Cloud",

@@ -2,22 +2,8 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 2,
+ "count": 1,
  "items": [
-  {
-   "id": "3238a6c24ea1",
-   "title": "Microsoft Copilot harness enters public preview in Foundry Agent Service; hosted-agent resilience reaches GA",
-   "summary": "Microsoft introduced the Microsoft Copilot harness in Foundry Agent Service as a public preview for building managed agents that reason, use tools, and handle complex, long-running tasks. The announcement also makes long-running resilience for hosted agents generally available; harness runtime billing is scheduled to begin December 1, 2026.",
-   "source_url": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-   "published_date": "2026-10-28",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "azure-foundry",
-   "citations": [
-    "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/"
-   ],
-   "briefing": "2026-10-29"
-  },
   {
    "id": "093296a219e1",
    "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash reach general availability in Microsoft Foundry",
