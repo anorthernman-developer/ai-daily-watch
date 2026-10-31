@@ -2,8 +2,36 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 6,
+ "count": 8,
  "items": [
+  {
+   "id": "10a0378f9f2a",
+   "title": "Microsoft’s October Copilot roundup details product and admin updates",
+   "summary": "Microsoft’s October Copilot roundup highlights updates across Cowork, SharePoint, Excel, Word, PowerPoint, Teams, and administration. Among the changes are role-based Cowork plugins and a task catalog, a SharePoint knowledge base, Excel accounting skills, and Insights Agent capabilities for analyzing agent usage and feedback; some features are rolling out globally in November.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "856434b54769",
+   "title": "Microsoft expands Copilot with finance skills and partner-built plugins",
+   "summary": "Microsoft announced more than 25 finance skills and partner-built plugins for accounting, capital markets, and other finance work. Accounting capabilities in Copilot in Excel and Cowork are available in Frontier, while the Capital Markets and Finance plugins for Cowork are generally available; Dynamics 365 ERP and partner plugins are beginning to roll out.",
+   "source_url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/?output=1",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/?output=1"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "36dae457560e",
    "title": "Copilot in SharePoint adds generally available image, analytics, and metadata tools",

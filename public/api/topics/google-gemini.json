@@ -2,8 +2,22 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 10,
+ "count": 9,
  "items": [
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini API Computer Use reaches general availability",
+   "summary": "Google made the Computer Use tool generally available across the Gemini Interactions API and GenerateContent API. This moves the capability beyond its earlier preview status and makes it available for production use through both API surfaces.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-10-30",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "40ee4ff935a1",
    "title": "Gemini adds in-chat document creation, preview, and editing",
@@ -29,21 +43,6 @@
    "topic": "google-gemini",
    "citations": [
     "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/"
-   ],
-   "briefing": "2026-10-30"
-  },
-  {
-   "id": "185e559c77b9",
-   "title": "Google announces Gemini 4 Carbon, its next frontier model",
-   "summary": "Google announced Gemini 4 Carbon, describing it as its strongest model, with advances in cybersecurity and long-horizon capabilities. Access starts with a subset of cyber defenders and is planned to expand to trusted partners through the Fairwind Program before broader availability.",
-   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "published_date": "2026-10-28",
-   "company": "Google",
-   "category": "model release",
-   "topic": "google-gemini",
-   "citations": [
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
    ],
    "briefing": "2026-10-30"
   },
@@ -115,20 +114,6 @@
    "topic": "google-gemini",
    "citations": [
     "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572"
-   ],
-   "briefing": "2026-10-27"
-  },
-  {
-   "id": "80a567fdb16f",
-   "title": "Gemini API enables request storage by default for new paid-tier projects",
-   "summary": "Starting October 26, new paid-tier projects using the Gemini Generate Content API store requests by default (`store=true`); existing projects retain their current setting. Developers can opt out by setting `store=false` per request or turning off API logging in AI Studio.",
-   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-10-26",
-   "company": "Google",
-   "category": "feature update",
-   "topic": "google-gemini",
-   "citations": [
-    "https://ai.google.dev/gemini-api/docs/changelog"
    ],
    "briefing": "2026-10-27"
   },

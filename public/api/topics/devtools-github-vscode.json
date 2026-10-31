@@ -2,8 +2,50 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 24,
+ "count": 27,
  "items": [
+  {
+   "id": "8c966532a030",
+   "title": "Visual Studio 2026 version 18.11.3 addresses security advisories",
+   "summary": "Microsoft released Visual Studio 2026 version 18.11.3 on October 29 with security advisory fixes. The listed issues include a libcurl HTTP/2 upload use-after-free, a Brotli decoder out-of-bounds write, and a Visual Studio certificate-validation vulnerability.",
+   "source_url": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "97c2d4777b7d",
+   "title": "GitHub adds webhook delivery IP ranges to the Meta API",
+   "summary": "GitHub added three webhook delivery IP ranges to the Meta API’s `hooks` field. Operators maintaining static allowlists should add the prefixes to avoid rejecting deliveries; the change applies across GitHub.com plans, including Enterprise Cloud.",
+   "source_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api/",
+   "published_date": "2026-10-29",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api/"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "c2a71d80393e",
+   "title": "Microsoft details vcpkg’s October update, including configurable cache compression",
+   "summary": "Microsoft summarized October changes to vcpkg, including a configurable binary-cache compression level, improved cache diagnostics and reliability, and updated ports such as Boost 1.92.0. The compression option lets developers trade ZIP archive size against cache submission time.",
+   "source_url": "https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-oct-2026/",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-oct-2026/"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "c2d304ac403d",
    "title": "Microsoft and Syncfusion collaborate on open-source Blazor toolkit and contributions",

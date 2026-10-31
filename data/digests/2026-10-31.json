@@ -1,0 +1,264 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T07:04:24+00:00",
+ "count": 18,
+ "items": [
+  {
+   "title": "Microsoft expands Copilot with finance skills and partner-built plugins",
+   "summary": "Microsoft announced more than 25 finance skills and partner-built plugins for accounting, capital markets, and other finance work. Accounting capabilities in Copilot in Excel and Cowork are available in Frontier, while the Capital Markets and Finance plugins for Cowork are generally available; Dynamics 365 ERP and partner plugins are beginning to roll out.",
+   "source_url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/?output=1",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/?output=1"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-30",
+   "id": "856434b54769"
+  },
+  {
+   "title": "Microsoft’s October Copilot roundup details product and admin updates",
+   "summary": "Microsoft’s October Copilot roundup highlights updates across Cowork, SharePoint, Excel, Word, PowerPoint, Teams, and administration. Among the changes are role-based Cowork plugins and a task catalog, a SharePoint knowledge base, Excel accounting skills, and Insights Agent capabilities for analyzing agent usage and feedback; some features are rolling out globally in November.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-30",
+   "id": "10a0378f9f2a"
+  },
+  {
+   "title": "Microsoft Intune October updates add security baselines, EPM network controls, and Autopatch scheduling",
+   "summary": "Microsoft’s October Intune updates add a Windows 365 for Agents security baseline and let standard users make IT-approved network-setting changes through Endpoint Privilege Management without broad admin rights. Windows Autopatch also gains expanded approval and scheduling controls for quality updates, including independent management of different update types.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-october/4537396",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-october/4537396"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-10-30",
+   "id": "01d7a9a47fc4"
+  },
+  {
+   "title": "Microsoft updates KB5127936 notes with modernized AutoPlay details and a Windows 11 24H2 update clarification",
+   "summary": "Microsoft’s KB5127936 notes were updated on October 29 to detail a modernized AutoPlay experience, including dark mode, improved text scaling, and notifications in Notification Center. The notes also clarify that Windows 11 24H2 no longer receives non-security preview updates starting with the October 2026 release; Enterprise and Education editions continue to receive monthly security updates.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-10-30",
+   "id": "8f6b4327a5e9"
+  },
+  {
+   "title": "Microsoft Edge adds accelerated app launches on Windows 11",
+   "summary": "Microsoft announced that Edge is the first browser to support Windows accelerated app launches, with a stated 15% launch-speed improvement for most users and up to 33% under heavy multitasking. The capability is supported with Edge 150 or later on Windows 11 versions 25H2, 26H2, and 26H1 when KB5127936 or a later update is installed.",
+   "source_url": "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-10-30",
+   "id": "e2d2f49bd715"
+  },
+  {
+   "title": "Visual Studio 2026 version 18.11.3 addresses security advisories",
+   "summary": "Microsoft released Visual Studio 2026 version 18.11.3 on October 29 with security advisory fixes. The listed issues include a libcurl HTTP/2 upload use-after-free, a Brotli decoder out-of-bounds write, and a Visual Studio certificate-validation vulnerability.",
+   "source_url": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "security",
+   "citations": [
+    "https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-30",
+   "id": "8c966532a030"
+  },
+  {
+   "title": "GitHub adds webhook delivery IP ranges to the Meta API",
+   "summary": "GitHub added three webhook delivery IP ranges to the Meta API’s `hooks` field. Operators maintaining static allowlists should add the prefixes to avoid rejecting deliveries; the change applies across GitHub.com plans, including Enterprise Cloud.",
+   "source_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api/",
+   "published_date": "2026-10-29",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-30",
+   "id": "97c2d4777b7d"
+  },
+  {
+   "title": "Microsoft details vcpkg’s October update, including configurable cache compression",
+   "summary": "Microsoft summarized October changes to vcpkg, including a configurable binary-cache compression level, improved cache diagnostics and reliability, and updated ports such as Boost 1.92.0. The compression option lets developers trade ZIP archive size against cache submission time.",
+   "source_url": "https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-oct-2026/",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-oct-2026/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-30",
+   "id": "c2a71d80393e"
+  },
+  {
+   "title": "Anthropic describes Claude’s self-assessment system for flagging potential misuse",
+   "summary": "Anthropic publicly described Claude’s “self-assessment” mechanism, which produces a preliminary safety assessment after a response and can flag potential misuse. The company said it had used the technique since June and that it had surfaced misuse not caught by other safeguards; it is described as one safety signal, not as a replacement for broader safeguards.",
+   "source_url": "https://x.com/AnthropicAI/status/2115871889549865429",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "citations": [
+    "https://x.com/AnthropicAI/status/2115871889549865429"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-10-30",
+   "id": "7a6e601678eb"
+  },
+  {
+   "title": "Claude API request-size limit increases from 32 MB to 128 MB",
+   "summary": "Anthropic increased the first-party Claude API’s maximum request size for Messages and Token Counting from 32 MB to 128 MB, giving image-heavy requests such as large PDFs and computer-use sessions more headroom. For requests with more than 20 images, it also raised the per-image limit from 2,000 to 3,000 pixels; cloud-hosted platforms have separate limits.",
+   "source_url": "https://x.com/ClaudeDevs/status/2115923971279614171",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "feature update",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2115923971279614171"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-10-30",
+   "id": "820e626c493a"
+  },
+  {
+   "title": "Claude announces mobile-app upgrades, multi-account switching, and 24 additional languages",
+   "summary": "Claude announced several app improvements, including a side-by-side/full-screen experience on iPad and iPhone Duo, multiple-account switching on iOS and Android, and laptop-style Android support on Chromebooks and foldables. Claude also added 24 languages across web, desktop, iOS, and Android, bringing the total to 33.",
+   "source_url": "https://x.com/claudeai/status/2115859377488072879",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "feature update",
+   "citations": [
+    "https://x.com/claudeai/status/2115859377488072879",
+    "https://x.com/claudeai/status/2115859380143030507",
+    "https://x.com/claudeai/status/2115859382152122787",
+    "https://x.com/claudeai/status/2115859384110915893"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-10-30",
+   "id": "9ab95042c76e"
+  },
+  {
+   "title": "Codex CLI 0.166.0 adds transcript search and model catalog support",
+   "summary": "Codex CLI 0.166.0 adds keyboard-driven transcript selection with integrated search and configurable shortcuts, adds GPT-6.1 Terra to bundled, Vertex AI, and Amazon Bedrock catalogs, and introduces clearer safety-block explanations plus network-only diagnostics. These changes improve transcript navigation and broaden model/provider and troubleshooting support for Codex users.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "feature update",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+    "https://learn.chatgpt.com/docs/changelog?type=codex-cli"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-30",
+   "id": "05bd4a8e7e9f"
+  },
+  {
+   "title": "OpenAI updates its Model Spec around five core values",
+   "summary": "OpenAI reorganized its public model-behavior guidance around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The update also adds guidance on context, oversight, and agency and adjusts some behavioral defaults, making it a substantive change to OpenAI’s stated approach to model behavior.",
+   "source_url": "https://openai.com/index/updated-model-spec/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "citations": [
+    "https://openai.com/index/updated-model-spec/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-30",
+   "id": "c314aa5d07e8"
+  },
+  {
+   "title": "OpenAI details expanded monitoring for frontier-model misalignment",
+   "summary": "OpenAI published details of its expanded system for monitoring frontier models for misalignment and potentially unauthorized agent behavior. The company says it evaluates monitoring performance against recorded incidents and simulated attacks, and tracks recall before deploying changes; the disclosure matters because it explains how OpenAI aims to identify and investigate concerning model behavior.",
+   "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "citations": [
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-30",
+   "id": "c8c8e00a23a7"
+  },
+  {
+   "title": "Ropes & Gray develops transactional-diligence AI with OpenAI",
+   "summary": "Ropes & Gray is developing a proprietary OpenAI-powered tool for the first pass of commercial contract diligence. It reviews and groups documents, generates summaries and a report in the firm’s format, and is intended to help lawyers move from document review to client advice more quickly while preserving lawyer judgment.",
+   "source_url": "https://openai.com/index/ropes-gray-ai-diligence/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "citations": [
+    "https://openai.com/index/ropes-gray-ai-diligence/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-30",
+   "id": "d599c2fd0137"
+  },
+  {
+   "title": "Gemini API Computer Use reaches general availability",
+   "summary": "Google made the Computer Use tool generally available across the Gemini Interactions API and GenerateContent API. This moves the capability beyond its earlier preview status and makes it available for production use through both API surfaces.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-10-30",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-10-30",
+   "id": "80a567fdb16f"
+  },
+  {
+   "title": "Google announces Gemini 4 Carbon, a frontier model focused on cybersecurity and long-horizon capabilities",
+   "summary": "Google announced Gemini 4 Carbon, a frontier model it says improves coding, agentic work, and cybersecurity defense, including vulnerability detection and patching. The company says access will initially focus on cyber defenders, making this a notable release of advanced AI capabilities with a restricted initial audience.",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "published_date": "2026-10-28",
+   "company": "Google",
+   "category": "model release",
+   "citations": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-29",
+   "id": "185e559c77b9"
+  },
+  {
+   "title": "UK CMA investigates Meta’s commercial terms for using publishers’ content in AI products",
+   "summary": "The UK CMA opened an investigation into whether Meta’s commercial terms for businesses and publishers could breach competition law by allowing Meta to collect and use their website content in its products, including AI features. The regulator has not made a finding that Meta broke the law; it will gather evidence from Meta and affected third parties.",
+   "source_url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+   "published_date": "2026-10-30",
+   "company": "Meta",
+   "category": "policy/safety",
+   "citations": [
+    "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-30",
+   "id": "0e4f9b6f09be"
+  }
+ ]
+}

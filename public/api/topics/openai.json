@@ -2,8 +2,65 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 6,
+ "count": 10,
  "items": [
+  {
+   "id": "05bd4a8e7e9f",
+   "title": "Codex CLI 0.166.0 adds transcript search and model catalog support",
+   "summary": "Codex CLI 0.166.0 adds keyboard-driven transcript selection with integrated search and configurable shortcuts, adds GPT-6.1 Terra to bundled, Vertex AI, and Amazon Bedrock catalogs, and introduces clearer safety-block explanations plus network-only diagnostics. These changes improve transcript navigation and broaden model/provider and troubleshooting support for Codex users.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+    "https://learn.chatgpt.com/docs/changelog?type=codex-cli"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "c314aa5d07e8",
+   "title": "OpenAI updates its Model Spec around five core values",
+   "summary": "OpenAI reorganized its public model-behavior guidance around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The update also adds guidance on context, oversight, and agency and adjusts some behavioral defaults, making it a substantive change to OpenAI’s stated approach to model behavior.",
+   "source_url": "https://openai.com/index/updated-model-spec/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/updated-model-spec/"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "c8c8e00a23a7",
+   "title": "OpenAI details expanded monitoring for frontier-model misalignment",
+   "summary": "OpenAI published details of its expanded system for monitoring frontier models for misalignment and potentially unauthorized agent behavior. The company says it evaluates monitoring performance against recorded incidents and simulated attacks, and tracks recall before deploying changes; the disclosure matters because it explains how OpenAI aims to identify and investigate concerning model behavior.",
+   "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "d599c2fd0137",
+   "title": "Ropes & Gray develops transactional-diligence AI with OpenAI",
+   "summary": "Ropes & Gray is developing a proprietary OpenAI-powered tool for the first pass of commercial contract diligence. It reviews and groups documents, generates summaries and a report in the firm’s format, and is intended to help lawyers move from document review to client advice more quickly while preserving lawyer judgment.",
+   "source_url": "https://openai.com/index/ropes-gray-ai-diligence/",
+   "published_date": "2026-10-29",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/ropes-gray-ai-diligence/"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "3193c52fb6f1",
    "title": "ChatGPT begins beta texting for dot agents via iMessage and RCS",

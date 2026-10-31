@@ -2,8 +2,37 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 18,
+ "count": 20,
  "items": [
+  {
+   "id": "0e4f9b6f09be",
+   "title": "UK CMA investigates Meta’s commercial terms for using publishers’ content in AI products",
+   "summary": "The UK CMA opened an investigation into whether Meta’s commercial terms for businesses and publishers could breach competition law by allowing Meta to collect and use their website content in its products, including AI features. The regulator has not made a finding that Meta broke the law; it will gather evidence from Meta and affected third parties.",
+   "source_url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+   "published_date": "2026-10-30",
+   "company": "Meta",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "185e559c77b9",
+   "title": "Google announces Gemini 4 Carbon, a frontier model focused on cybersecurity and long-horizon capabilities",
+   "summary": "Google announced Gemini 4 Carbon, a frontier model it says improves coding, agentic work, and cybersecurity defense, including vulnerability detection and patching. The company says access will initially focus on cyber defenders, making this a notable release of advanced AI capabilities with a restricted initial audience.",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "published_date": "2026-10-28",
+   "company": "Google",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "779b541ff77b",
    "title": "Mistral releases open weights for its 1-trillion-parameter Large 4 model",

@@ -2,8 +2,50 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 5,
+ "count": 7,
  "items": [
+  {
+   "id": "01d7a9a47fc4",
+   "title": "Microsoft Intune October updates add security baselines, EPM network controls, and Autopatch scheduling",
+   "summary": "Microsoft’s October Intune updates add a Windows 365 for Agents security baseline and let standard users make IT-approved network-setting changes through Endpoint Privilege Management without broad admin rights. Windows Autopatch also gains expanded approval and scheduling controls for quality updates, including independent management of different update types.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-october/4537396",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-october/4537396"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "8f6b4327a5e9",
+   "title": "Microsoft updates KB5127936 notes with modernized AutoPlay details and a Windows 11 24H2 update clarification",
+   "summary": "Microsoft’s KB5127936 notes were updated on October 29 to detail a modernized AutoPlay experience, including dark mode, improved text scaling, and notifications in Notification Center. The notes also clarify that Windows 11 24H2 no longer receives non-security preview updates starting with the October 2026 release; Enterprise and Education editions continue to receive monthly security updates.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "e2d2f49bd715",
+   "title": "Microsoft Edge adds accelerated app launches on Windows 11",
+   "summary": "Microsoft announced that Edge is the first browser to support Windows accelerated app launches, with a stated 15% launch-speed improvement for most users and up to 33% under heavy multitasking. The capability is supported with Edge 150 or later on Windows 11 versions 25H2, 26H2, and 26H1 when KB5127936 or a later update is installed.",
+   "source_url": "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/",
+   "published_date": "2026-10-29",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/msedgedev/2026/10/29/edge-is-faster-on-windows-with-accelerated-app-launches/"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "fa0f0e85d2ac",
    "title": "Windows 11 26H1 preview adds WinRE remote-management support for MDM providers",
@@ -18,20 +60,6 @@
     "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
    ],
    "briefing": "2026-10-30"
-  },
-  {
-   "id": "8f6b4327a5e9",
-   "title": "Microsoft releases Windows 11 preview KB5127936 for versions 25H2 and 26H2",
-   "summary": "Microsoft’s October 28 preview update KB5127936 applies to Windows 11 versions 25H2 and 26H2. It includes changes such as refreshed Gaming Task View and Wi-Fi profile reuse in Windows Recovery Environment, alongside other feature and quality improvements.",
-   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update",
-   "published_date": "2026-10-28",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "windows-autopilot-intune",
-   "citations": [
-    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/10/kb5127936-windows-11-25h2-26h2-update"
-   ],
-   "briefing": "2026-10-29"
   },
   {
    "id": "a49f81574cf6",

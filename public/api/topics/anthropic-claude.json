@@ -2,8 +2,53 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 12,
+ "count": 15,
  "items": [
+  {
+   "id": "7a6e601678eb",
+   "title": "Anthropic describes Claude’s self-assessment system for flagging potential misuse",
+   "summary": "Anthropic publicly described Claude’s “self-assessment” mechanism, which produces a preliminary safety assessment after a response and can flag potential misuse. The company said it had used the technique since June and that it had surfaced misuse not caught by other safeguards; it is described as one safety signal, not as a replacement for broader safeguards.",
+   "source_url": "https://x.com/AnthropicAI/status/2115871889549865429",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/AnthropicAI/status/2115871889549865429"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "820e626c493a",
+   "title": "Claude API request-size limit increases from 32 MB to 128 MB",
+   "summary": "Anthropic increased the first-party Claude API’s maximum request size for Messages and Token Counting from 32 MB to 128 MB, giving image-heavy requests such as large PDFs and computer-use sessions more headroom. For requests with more than 20 images, it also raised the per-image limit from 2,000 to 3,000 pixels; cloud-hosted platforms have separate limits.",
+   "source_url": "https://x.com/ClaudeDevs/status/2115923971279614171",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2115923971279614171"
+   ],
+   "briefing": "2026-10-31"
+  },
+  {
+   "id": "9ab95042c76e",
+   "title": "Claude announces mobile-app upgrades, multi-account switching, and 24 additional languages",
+   "summary": "Claude announced several app improvements, including a side-by-side/full-screen experience on iPad and iPhone Duo, multiple-account switching on iOS and Android, and laptop-style Android support on Chromebooks and foldables. Claude also added 24 languages across web, desktop, iOS, and Android, bringing the total to 33.",
+   "source_url": "https://x.com/claudeai/status/2115859377488072879",
+   "published_date": "2026-10-29",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/claudeai/status/2115859377488072879",
+    "https://x.com/claudeai/status/2115859380143030507",
+    "https://x.com/claudeai/status/2115859382152122787",
+    "https://x.com/claudeai/status/2115859384110915893"
+   ],
+   "briefing": "2026-10-31"
+  },
   {
    "id": "106678985d59",
    "title": "SentinelOne plans to add Claude Mythos 5.1 to its Wayfinder security service",
