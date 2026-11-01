@@ -2,8 +2,37 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 15,
+ "count": 17,
  "items": [
+  {
+   "id": "1ac62f843edf",
+   "title": "Claude Code 2.1.316 adds subagent and gateway controls and deprecates Opus 4.8 fast mode",
+   "summary": "Claude Code 2.1.316 adds configurable subagent effort, an option to disable the “ultrathink” keyword, and pooled group budgets and policy controls for the Claude apps gateway. It also deprecates Opus 4.8 fast mode as of October 30, with removal scheduled for November 30, 2026.",
+   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+   "published_date": "2026-10-31",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "1ae0e05bec22",
+   "title": "Claude renames its Max plans and removes the five-hour limit for verified Ultra accounts",
+   "summary": "Anthropic renamed Max 5x to Max and Max 20x to Ultra without changing their $100 and $200 monthly prices. Verified Ultra accounts no longer have a five-hour usage limit, while weekly limits remain; the plans also include monthly Claude Platform API credits.",
+   "source_url": "https://x.com/claudeai/status/2116220869479428500",
+   "published_date": "2026-10-30",
+   "company": "Anthropic",
+   "category": "pricing/licensing",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/claudeai/status/2116220869479428500",
+    "https://claude.com/pricing"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "7a6e601678eb",
    "title": "Anthropic describes Claude’s self-assessment system for flagging potential misuse",

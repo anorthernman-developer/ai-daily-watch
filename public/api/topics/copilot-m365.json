@@ -2,8 +2,22 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 8,
+ "count": 9,
  "items": [
+  {
+   "id": "83cb302dd5ef",
+   "title": "Estée Lauder expands Copilot access to more than 14,000 employees",
+   "summary": "Estée Lauder expanded Microsoft Copilot access across its office-based global workforce of more than 14,000 people. The deployment is part of a broader effort to bring Microsoft AI and cloud tools into the company’s business operations.",
+   "source_url": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business/",
+   "published_date": "2026-10-30",
+   "company": "Estée Lauder Companies",
+   "category": "other",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business/"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "10a0378f9f2a",
    "title": "Microsoft’s October Copilot roundup details product and admin updates",

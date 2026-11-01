@@ -2,8 +2,22 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 27,
+ "count": 28,
  "items": [
+  {
+   "id": "b3ee5f6a4684",
+   "title": "GitHub app in Microsoft Teams reaches general availability",
+   "summary": "The GitHub app in Microsoft Teams is now generally available, letting teams work with GitHub and Copilot in the context of their chats, channels, and meeting chats. Users can ask in natural language to select or switch repositories and choose which Copilot model to use for a task.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-github-app-in-microsoft-teams-is-now-generally-available/4569136",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-github-app-in-microsoft-teams-is-now-generally-available/4569136"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "8c966532a030",
    "title": "Visual Studio 2026 version 18.11.3 addresses security advisories",

@@ -2,8 +2,65 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 10,
+ "count": 13,
  "items": [
+  {
+   "id": "0dcf95bbc34e",
+   "title": "OpenAI highlights support for fair use in AI training",
+   "summary": "OpenAI published a collection of arguments from authors, academics, legal experts, and other groups supporting the application of fair use to AI training. The post presents this as support for OpenAI’s position in ongoing copyright debates; it is advocacy and commentary, not a new court decision.",
+   "source_url": "https://openai.com/index/fair-use-benefits-everyone/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "other",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/fair-use-benefits-everyone/",
+    "https://openai.com/news/rss.xml"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "337afc339ead",
+   "title": "OpenAI releases GPT-6 Rosalind for specialized life-sciences research",
+   "summary": "OpenAI released GPT-6 Rosalind, a model for specialized biological reasoning and scientific tool use in life-sciences research. OpenAI says it has additional deployment controls for advanced research and retains trusted-access eligibility requirements, rather than broadening access.",
+   "source_url": "https://developers.openai.com/api/docs/changelog",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "model release",
+   "topic": "openai",
+   "citations": [
+    "https://developers.openai.com/api/docs/changelog"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "66bcdf3a5917",
+   "title": "OpenAI announces new community-safety reporting and protections for teens",
+   "summary": "OpenAI announced tighter ChatGPT restrictions on firearms-related content for minors and a Community Safety Report covering violence prevention and other community-safety issues. The first report is planned for early 2027, with updates every six months, making this a substantive update to both product safeguards and public reporting.",
+   "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens/"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "971afab381c0",
+   "title": "OpenAI commits to honoring a shared AI-training preference signal in robots.txt",
+   "summary": "OpenAI said it will honor a shared signal in robots.txt that lets websites communicate preferences about using their content to train generative AI models across participating providers. The company said it aims to implement the signal in the coming months; this is a new commitment, not a statement that implementation is already live.",
+   "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "other",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/helping-websites-express-ai-training-preferences/"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "05bd4a8e7e9f",
    "title": "Codex CLI 0.166.0 adds transcript search and model catalog support",
@@ -73,21 +130,6 @@
    "citations": [
     "https://x.com/ChatGPT/status/2115496387613786374",
     "https://learn.chatgpt.com/docs/whats-new/dots-october-28-2026"
-   ],
-   "briefing": "2026-10-30"
-  },
-  {
-   "id": "337afc339ead",
-   "title": "OpenAI offers eligible ChatGPT Pro and Business subscribers up to $500 monthly in API credits",
-   "summary": "Eligible ChatGPT Pro and Business subscribers can claim monthly OpenAI API credits to build apps and agents, with the benefit reaching up to $500 per month. Pro allowances vary by tier, while Business credits are pooled by workspace and capped at $500 per monthly billing period.",
-   "source_url": "https://developers.openai.com/api/docs/changelog",
-   "published_date": "2026-10-28",
-   "company": "OpenAI",
-   "category": "pricing/licensing",
-   "topic": "openai",
-   "citations": [
-    "https://developers.openai.com/api/docs/changelog",
-    "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions"
    ],
    "briefing": "2026-10-30"
   },

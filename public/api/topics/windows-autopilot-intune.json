@@ -2,8 +2,24 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 7,
+ "count": 8,
  "items": [
+  {
+   "id": "becaa839c139",
+   "title": "Microsoft announces new Windows 11 Insider builds and private Feedback Hub policy",
+   "summary": "Microsoft released new Windows 11 Insider builds to the Beta and Experimental channels and introduced an Intune policy that can keep tenant users’ Feedback Hub submissions private. The accompanying previews include expanded Windows Search actions and, in a Future Platforms build, app-by-app camera, microphone, and location permissions for desktop apps.",
+   "source_url": "https://blogs.windows.com/windows-insider/2026/10/30/announcing-new-builds-for-30-october-2026/",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/windows-insider/2026/10/30/announcing-new-builds-for-30-october-2026/",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental/preview-build-26340-9843",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental-future-platforms/preview-build-29698-1000"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "01d7a9a47fc4",
    "title": "Microsoft Intune October updates add security baselines, EPM network controls, and Autopatch scheduling",

@@ -2,8 +2,65 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 20,
+ "count": 24,
  "items": [
+  {
+   "id": "2c75f48ca2a5",
+   "title": "Google DeepMind and WRI create AI-based global forest map",
+   "summary": "Google DeepMind and the World Resources Institute developed ForTy, a global map that classifies 2020 land cover into six categories at 10-meter resolution using satellite data and AI. The reported overall accuracy was 90.2%, though the article notes weaker identification of some tree crops and plantations, relevant limitations for land-use monitoring.",
+   "source_url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+   "published_date": "2026-10-31",
+   "company": "Google DeepMind; World Resources Institute",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "9e1171f2fe11",
+   "title": "Claude-based AI agent selects gene therapy and performs a mouse-brain procedure",
+   "summary": "A Claude Sonnet 5 agent reportedly selected a gene therapy, brain target, and injection coordinates, then controlled a motorized rig during a procedure on a mouse. The agent stopped after detecting a calibration error; the account was attributed to Exin Therapeutics’ co-founder, and the report noted that the results had not been peer-reviewed.",
+   "source_url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+   "published_date": "2026-10-30",
+   "company": "Anthropic; Exin Therapeutics",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "b112e6ada6a0",
+   "title": "OpenAI’s latest funding round falls short of its initial $30 billion target",
+   "summary": "The Wall Street Journal reported that OpenAI had secured roughly $11 billion in commitments toward an initially planned $30 billion funding round, at a reported $1.25 trillion valuation versus an earlier $1.4 trillion target. TechCrunch, citing the Financial Times and WSJ, said OpenAI lowered its fundraising target to $20 billion and that the initial close may fall below that amount.",
+   "source_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+   ],
+   "briefing": "2026-11-01"
+  },
+  {
+   "id": "c6fdf6f3ceac",
+   "title": "OpenAI introduces restricted GPT-Rosalind-6 for life-sciences research",
+   "summary": "OpenAI published GPT-Rosalind-6, a reasoning model for biology, drug discovery, and translational medicine, for qualified research organizations through a trusted-access program. The model is intended to be more useful for legitimate advanced biological research, including some dual-use topics, while retaining access review and deployment safeguards.",
+   "source_url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://deploymentsafety.openai.com/gpt-rosalind-6"
+   ],
+   "briefing": "2026-11-01"
+  },
   {
    "id": "0e4f9b6f09be",
    "title": "UK CMA investigates Meta’s commercial terms for using publishers’ content in AI products",

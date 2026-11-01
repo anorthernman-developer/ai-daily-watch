@@ -1,0 +1,208 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T07:12:35+00:00",
+ "count": 14,
+ "items": [
+  {
+   "title": "Estée Lauder expands Copilot access to more than 14,000 employees",
+   "summary": "Estée Lauder expanded Microsoft Copilot access across its office-based global workforce of more than 14,000 people. The deployment is part of a broader effort to bring Microsoft AI and cloud tools into the company’s business operations.",
+   "source_url": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business/",
+   "published_date": "2026-10-30",
+   "company": "Estée Lauder Companies",
+   "category": "other",
+   "citations": [
+    "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business/"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-10-31",
+   "id": "83cb302dd5ef"
+  },
+  {
+   "title": "Azure Developer CLI adds deployment previews for AI endpoints and other Azure services",
+   "summary": "Microsoft’s October Azure Developer CLI release introduces `azd deploy --preview`, allowing developers to inspect resolved deployment operations before deploying, including for AI endpoints. The release also adds support for image-based deployments to Azure Container Apps express environments.",
+   "source_url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-10-31",
+   "id": "259cbe6c63f7"
+  },
+  {
+   "title": "Microsoft announces new Windows 11 Insider builds and private Feedback Hub policy",
+   "summary": "Microsoft released new Windows 11 Insider builds to the Beta and Experimental channels and introduced an Intune policy that can keep tenant users’ Feedback Hub submissions private. The accompanying previews include expanded Windows Search actions and, in a Future Platforms build, app-by-app camera, microphone, and location permissions for desktop apps.",
+   "source_url": "https://blogs.windows.com/windows-insider/2026/10/30/announcing-new-builds-for-30-october-2026/",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "citations": [
+    "https://blogs.windows.com/windows-insider/2026/10/30/announcing-new-builds-for-30-october-2026/",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental/preview-build-26340-9843",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental-future-platforms/preview-build-29698-1000"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-10-31",
+   "id": "becaa839c139"
+  },
+  {
+   "title": "GitHub app in Microsoft Teams reaches general availability",
+   "summary": "The GitHub app in Microsoft Teams is now generally available, letting teams work with GitHub and Copilot in the context of their chats, channels, and meeting chats. Users can ask in natural language to select or switch repositories and choose which Copilot model to use for a task.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-github-app-in-microsoft-teams-is-now-generally-available/4569136",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "product launch",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-github-app-in-microsoft-teams-is-now-generally-available/4569136"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-10-31",
+   "id": "b3ee5f6a4684"
+  },
+  {
+   "title": "Claude renames its Max plans and removes the five-hour limit for verified Ultra accounts",
+   "summary": "Anthropic renamed Max 5x to Max and Max 20x to Ultra without changing their $100 and $200 monthly prices. Verified Ultra accounts no longer have a five-hour usage limit, while weekly limits remain; the plans also include monthly Claude Platform API credits.",
+   "source_url": "https://x.com/claudeai/status/2116220869479428500",
+   "published_date": "2026-10-30",
+   "company": "Anthropic",
+   "category": "pricing/licensing",
+   "citations": [
+    "https://x.com/claudeai/status/2116220869479428500",
+    "https://claude.com/pricing"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-10-31",
+   "id": "1ae0e05bec22"
+  },
+  {
+   "title": "Claude Code 2.1.316 adds subagent and gateway controls and deprecates Opus 4.8 fast mode",
+   "summary": "Claude Code 2.1.316 adds configurable subagent effort, an option to disable the “ultrathink” keyword, and pooled group budgets and policy controls for the Claude apps gateway. It also deprecates Opus 4.8 fast mode as of October 30, with removal scheduled for November 30, 2026.",
+   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+   "published_date": "2026-10-31",
+   "company": "Anthropic",
+   "category": "feature update",
+   "citations": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-10-31",
+   "id": "1ac62f843edf"
+  },
+  {
+   "title": "OpenAI highlights support for fair use in AI training",
+   "summary": "OpenAI published a collection of arguments from authors, academics, legal experts, and other groups supporting the application of fair use to AI training. The post presents this as support for OpenAI’s position in ongoing copyright debates; it is advocacy and commentary, not a new court decision.",
+   "source_url": "https://openai.com/index/fair-use-benefits-everyone/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "other",
+   "citations": [
+    "https://openai.com/index/fair-use-benefits-everyone/",
+    "https://openai.com/news/rss.xml"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-31",
+   "id": "0dcf95bbc34e"
+  },
+  {
+   "title": "OpenAI releases GPT-6 Rosalind for specialized life-sciences research",
+   "summary": "OpenAI released GPT-6 Rosalind, a model for specialized biological reasoning and scientific tool use in life-sciences research. OpenAI says it has additional deployment controls for advanced research and retains trusted-access eligibility requirements, rather than broadening access.",
+   "source_url": "https://developers.openai.com/api/docs/changelog",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "model release",
+   "citations": [
+    "https://developers.openai.com/api/docs/changelog"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-31",
+   "id": "337afc339ead"
+  },
+  {
+   "title": "OpenAI announces new community-safety reporting and protections for teens",
+   "summary": "OpenAI announced tighter ChatGPT restrictions on firearms-related content for minors and a Community Safety Report covering violence prevention and other community-safety issues. The first report is planned for early 2027, with updates every six months, making this a substantive update to both product safeguards and public reporting.",
+   "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "citations": [
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-31",
+   "id": "66bcdf3a5917"
+  },
+  {
+   "title": "OpenAI commits to honoring a shared AI-training preference signal in robots.txt",
+   "summary": "OpenAI said it will honor a shared signal in robots.txt that lets websites communicate preferences about using their content to train generative AI models across participating providers. The company said it aims to implement the signal in the coming months; this is a new commitment, not a statement that implementation is already live.",
+   "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "other",
+   "citations": [
+    "https://openai.com/index/helping-websites-express-ai-training-preferences/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-10-31",
+   "id": "971afab381c0"
+  },
+  {
+   "title": "Claude-based AI agent selects gene therapy and performs a mouse-brain procedure",
+   "summary": "A Claude Sonnet 5 agent reportedly selected a gene therapy, brain target, and injection coordinates, then controlled a motorized rig during a procedure on a mouse. The agent stopped after detecting a calibration error; the account was attributed to Exin Therapeutics’ co-founder, and the report noted that the results had not been peer-reviewed.",
+   "source_url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+   "published_date": "2026-10-30",
+   "company": "Anthropic; Exin Therapeutics",
+   "category": "research",
+   "citations": [
+    "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-31",
+   "id": "9e1171f2fe11"
+  },
+  {
+   "title": "OpenAI’s latest funding round falls short of its initial $30 billion target",
+   "summary": "The Wall Street Journal reported that OpenAI had secured roughly $11 billion in commitments toward an initially planned $30 billion funding round, at a reported $1.25 trillion valuation versus an earlier $1.4 trillion target. TechCrunch, citing the Financial Times and WSJ, said OpenAI lowered its fundraising target to $20 billion and that the initial close may fall below that amount.",
+   "source_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "citations": [
+    "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+    "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-31",
+   "id": "b112e6ada6a0"
+  },
+  {
+   "title": "OpenAI introduces restricted GPT-Rosalind-6 for life-sciences research",
+   "summary": "OpenAI published GPT-Rosalind-6, a reasoning model for biology, drug discovery, and translational medicine, for qualified research organizations through a trusted-access program. The model is intended to be more useful for legitimate advanced biological research, including some dual-use topics, while retaining access review and deployment safeguards.",
+   "source_url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+   "published_date": "2026-10-30",
+   "company": "OpenAI",
+   "category": "model release",
+   "citations": [
+    "https://deploymentsafety.openai.com/gpt-rosalind-6"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-31",
+   "id": "c6fdf6f3ceac"
+  },
+  {
+   "title": "Google DeepMind and WRI create AI-based global forest map",
+   "summary": "Google DeepMind and the World Resources Institute developed ForTy, a global map that classifies 2020 land cover into six categories at 10-meter resolution using satellite data and AI. The reported overall accuracy was 90.2%, though the article notes weaker identification of some tree crops and plantations, relevant limitations for land-use monitoring.",
+   "source_url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+   "published_date": "2026-10-31",
+   "company": "Google DeepMind; World Resources Institute",
+   "category": "research",
+   "citations": [
+    "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-10-31",
+   "id": "2c75f48ca2a5"
+  }
+ ]
+}
