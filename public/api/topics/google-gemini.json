@@ -2,8 +2,36 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 9,
+ "count": 11,
  "items": [
+  {
+   "id": "094c331a98fa",
+   "title": "Google DeepMind expands Gemini-powered PlanAssist to 12 more councils",
+   "summary": "Google DeepMind is expanding its Gemini-powered PlanAssist tool to 12 additional local planning authorities in England, bringing the total involved to 15 for a 12-month beta using live applications. Early pilots reported a 58% reduction in time spent on householder application assessments, while qualified planning officers retain final approval.",
+   "source_url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "published_date": "2026-10-31",
+   "company": "Google DeepMind",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "4b2909d0621b",
+   "title": "Google showcases Gemini 4 Argon agents building a dancing robot from a prompt",
+   "summary": "Google highlighted a Google DeepMind robotics project in which AI agents powered by Gemini 4 Argon and Antigravity helped create a physical, dancing 12-degree-of-freedom robot from a plain-English prompt. The demonstration is a notable example of Gemini-powered agents being used in a real-world robotics workflow without manual CAD.",
+   "source_url": "https://x.com/Google/status/2116522684154585227",
+   "published_date": "2026-10-31",
+   "company": "Google",
+   "category": "other",
+   "topic": "google-gemini",
+   "citations": [
+    "https://x.com/Google/status/2116522684154585227"
+   ],
+   "briefing": "2026-11-02"
+  },
   {
    "id": "80a567fdb16f",
    "title": "Gemini API Computer Use reaches general availability",

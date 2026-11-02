@@ -2,8 +2,22 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 28,
+ "count": 29,
  "items": [
+  {
+   "id": "259cbe6c63f7",
+   "title": "Microsoft summarizes October Azure Developer CLI releases and features",
+   "summary": "Microsoft’s October Azure Developer CLI roundup covers releases 1.35.0 through 1.37.2. Highlights include deployment previews across multiple Azure services, Container Apps express deployments, a beta command for removing stored environment values, and support for extension-defined infrastructure providers in generated pipelines.",
+   "source_url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/"
+   ],
+   "briefing": "2026-11-02"
+  },
   {
    "id": "b3ee5f6a4684",
    "title": "GitHub app in Microsoft Teams reaches general availability",

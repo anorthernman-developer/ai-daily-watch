@@ -2,7 +2,7 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 13,
+ "count": 12,
  "items": [
   {
    "id": "0dcf95bbc34e",
@@ -44,20 +44,6 @@
    "topic": "openai",
    "citations": [
     "https://openai.com/index/community-safety-report-and-new-protections-for-teens/"
-   ],
-   "briefing": "2026-11-01"
-  },
-  {
-   "id": "971afab381c0",
-   "title": "OpenAI commits to honoring a shared AI-training preference signal in robots.txt",
-   "summary": "OpenAI said it will honor a shared signal in robots.txt that lets websites communicate preferences about using their content to train generative AI models across participating providers. The company said it aims to implement the signal in the coming months; this is a new commitment, not a statement that implementation is already live.",
-   "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-   "published_date": "2026-10-30",
-   "company": "OpenAI",
-   "category": "other",
-   "topic": "openai",
-   "citations": [
-    "https://openai.com/index/helping-websites-express-ai-training-preferences/"
    ],
    "briefing": "2026-11-01"
   },

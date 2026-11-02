@@ -2,8 +2,52 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 24,
+ "count": 27,
  "items": [
+  {
+   "id": "6f9a62584ae9",
+   "title": "Salesforce adds agent evaluations and cost controls to Agent Fabric",
+   "summary": "Salesforce expanded Agent Fabric with Agent Evals and API Evals to test agent quality and API changes, plus cost controls that can impose hard budget limits and reduce token usage. The additions are aimed at catching silent failures and overspending as organizations put more agents into production; Agent Evals and API Evals are scheduled for beta in November 2026 and general availability in January 2027.",
+   "source_url": "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/",
+   "published_date": "2026-11-01",
+   "company": "Salesforce",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "76e502c4ebad",
+   "title": "DeepSeek releases open-source Super-Agent coding prototype",
+   "summary": "DeepSeek published dsh-superagent, an MIT-licensed research prototype that can work on a GitHub repository and optionally listen to Feishu. The project is explicitly labeled as reference research code—not an official DeepSeek product or production-ready software—while its proactive, low-attention agent design reflects growing competition in AI coding tools.",
+   "source_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "published_date": "2026-10-31",
+   "company": "DeepSeek",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "971afab381c0",
+   "title": "OpenAI and Google back a shared website signal for AI-training preferences",
+   "summary": "OpenAI and Google announced support for a shared robots.txt signal through which publishers and website operators can communicate AI-training preferences to multiple participating providers at once. The initiative is voluntary and still being implemented; OpenAI says its existing crawler controls will remain in place.",
+   "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI, Google, Microsoft, and Anthropic",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+    "https://developers.google.com/search/blog/2026/10/ai-training-control"
+   ],
+   "briefing": "2026-11-02"
+  },
   {
    "id": "2c75f48ca2a5",
    "title": "Google DeepMind and WRI create AI-based global forest map",

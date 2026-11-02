@@ -6,6 +6,78 @@
  "language": "en-GB",
  "items": [
   {
+   "id": "aidw-6f9a62584ae9",
+   "url": "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/",
+   "title": "Salesforce adds agent evaluations and cost controls to Agent Fabric",
+   "content_text": "Salesforce expanded Agent Fabric with Agent Evals and API Evals to test agent quality and API changes, plus cost controls that can impose hard budget limits and reduce token usage. The additions are aimed at catching silent failures and overspending as organizations put more agents into production; Agent Evals and API Evals are scheduled for beta in November 2026 and general availability in January 2027.",
+   "date_published": "2026-11-01T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Salesforce",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-094c331a98fa",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "title": "Google DeepMind expands Gemini-powered PlanAssist to 12 more councils",
+   "content_text": "Google DeepMind is expanding its Gemini-powered PlanAssist tool to 12 additional local planning authorities in England, bringing the total involved to 15 for a 12-month beta using live applications. Early pilots reported a 58% reduction in time spent on householder application assessments, while qualified planning officers retain final approval.",
+   "date_published": "2026-10-31T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google DeepMind",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-4b2909d0621b",
+   "url": "https://x.com/Google/status/2116522684154585227",
+   "title": "Google showcases Gemini 4 Argon agents building a dancing robot from a prompt",
+   "content_text": "Google highlighted a Google DeepMind robotics project in which AI agents powered by Gemini 4 Argon and Antigravity helped create a physical, dancing 12-degree-of-freedom robot from a plain-English prompt. The demonstration is a notable example of Gemini-powered agents being used in a real-world robotics workflow without manual CAD.",
+   "date_published": "2026-10-31T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "other"
+   ]
+  },
+  {
+   "id": "aidw-76e502c4ebad",
+   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "title": "DeepSeek releases open-source Super-Agent coding prototype",
+   "content_text": "DeepSeek published dsh-superagent, an MIT-licensed research prototype that can work on a GitHub repository and optionally listen to Feishu. The project is explicitly labeled as reference research code—not an official DeepSeek product or production-ready software—while its proactive, low-attention agent design reflects growing competition in AI coding tools.",
+   "date_published": "2026-10-31T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "DeepSeek",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-259cbe6c63f7",
+   "url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
+   "title": "Microsoft summarizes October Azure Developer CLI releases and features",
+   "content_text": "Microsoft’s October Azure Developer CLI roundup covers releases 1.35.0 through 1.37.2. Highlights include deployment previews across multiple Azure services, Container Apps express deployments, a beta command for removing stored environment values, and support for extension-defined infrastructure providers in generated pipelines.",
+   "date_published": "2026-10-30T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-971afab381c0",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "title": "OpenAI and Google back a shared website signal for AI-training preferences",
+   "content_text": "OpenAI and Google announced support for a shared robots.txt signal through which publishers and website operators can communicate AI-training preferences to multiple participating providers at once. The initiative is voluntary and still being implemented; OpenAI says its existing crawler controls will remain in place.",
+   "date_published": "2026-10-30T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "OpenAI, Google, Microsoft, and Anthropic",
+    "policy/safety"
+   ]
+  },
+  {
    "id": "aidw-1ac62f843edf",
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
    "title": "Claude Code 2.1.316 adds subagent and gateway controls and deprecates Opus 4.8 fast mode",
@@ -39,18 +111,6 @@
     "Microsoft Copilot & Microsoft 365",
     "Estée Lauder Companies",
     "other"
-   ]
-  },
-  {
-   "id": "aidw-259cbe6c63f7",
-   "url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
-   "title": "Azure Developer CLI adds deployment previews for AI endpoints and other Azure services",
-   "content_text": "Microsoft’s October Azure Developer CLI release introduces `azd deploy --preview`, allowing developers to inspect resolved deployment operations before deploying, including for AI endpoints. The release also adds support for image-based deployments to Azure Container Apps express environments.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "Azure AI & Microsoft Foundry",
-    "Microsoft",
-    "feature update"
    ]
   },
   {
@@ -123,18 +183,6 @@
     "OpenAI",
     "OpenAI",
     "policy/safety"
-   ]
-  },
-  {
-   "id": "aidw-971afab381c0",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-   "title": "OpenAI commits to honoring a shared AI-training preference signal in robots.txt",
-   "content_text": "OpenAI said it will honor a shared signal in robots.txt that lets websites communicate preferences about using their content to train generative AI models across participating providers. The company said it aims to implement the signal in the coming months; this is a new commitment, not a statement that implementation is already live.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "other"
    ]
   },
   {
@@ -1155,54 +1203,6 @@
     "Windows, Autopilot & Intune",
     "Microsoft",
     "security"
-   ]
-  },
-  {
-   "id": "aidw-4fce6c0cab66",
-   "url": "https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/",
-   "title": "Visual Studio adds resumable, unsaved Markdown investigation notes",
-   "content_text": "Visual Studio 2026 version 18.11 can create standalone Markdown notes, and the opt-in Hot Exit preview can restore unsaved notes after Visual Studio is closed and reopened. This helps developers resume investigations without having to save the note or add it to a project first.",
-   "date_published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "Microsoft",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-824328fb685c",
-   "url": "https://github.github.com/gh-aw/blog/2026-10-26-weekly-update/",
-   "title": "GitHub Agentic Workflows weekly update highlights hardening and safer credential handling",
-   "content_text": "GitHub Agentic Workflows’ October 26 weekly update recaps six hardening releases, emphasizing stronger static analysis, safer credential handling, and clearer diagnostics. Highlighted changes include network credentials for safe-output integration jobs and secret-safe error diagnostics for engine-driver crashes.",
-   "date_published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "GitHub",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-8f27fc3fa97c",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience/",
-   "title": "OpenAI and Fanatics launch AI-powered Shop the Look",
-   "content_text": "Fanatics launched Shop the Look, an OpenAI-powered feature that recommends coordinated, in-stock merchandise to sports fans. OpenAI says its team and Fanatics used Codex to develop recommendation tools, and testing across roughly 30,000 MLB products produced 10% higher engagement than the previous experience.",
-   "date_published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "partnership/deal"
-   ]
-  },
-  {
-   "id": "aidw-43c19fc536e1",
-   "url": "https://group.springernature.com/gp/group/media/press-releases/research-partnership-with-googledeepmind-to-support-peer-review/53891572",
-   "title": "Google DeepMind and Springer Nature partner to develop an AI peer-review assistant",
-   "content_text": "Google DeepMind and Springer Nature announced a research partnership to co-design an AI assistant for peer reviewers. The prototype is intended to help researchers navigate manuscripts and analyze text, charts, and figures while keeping expert human judgment central.",
-   "date_published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google DeepMind and Springer Nature",
-    "partnership/deal"
    ]
   }
  ]

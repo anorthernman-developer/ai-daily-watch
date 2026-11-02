@@ -2,22 +2,8 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 2,
+ "count": 1,
  "items": [
-  {
-   "id": "259cbe6c63f7",
-   "title": "Azure Developer CLI adds deployment previews for AI endpoints and other Azure services",
-   "summary": "Microsoft’s October Azure Developer CLI release introduces `azd deploy --preview`, allowing developers to inspect resolved deployment operations before deploying, including for AI endpoints. The release also adds support for image-based deployments to Azure Container Apps express environments.",
-   "source_url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
-   "published_date": "2026-10-30",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "azure-foundry",
-   "citations": [
-    "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/"
-   ],
-   "briefing": "2026-11-01"
-  },
   {
    "id": "093296a219e1",
    "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash reach general availability in Microsoft Foundry",

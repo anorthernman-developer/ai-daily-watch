@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T07:05:04+00:00",
+ "count": 6,
+ "items": [
+  {
+   "id": "259cbe6c63f7",
+   "title": "Microsoft summarizes October Azure Developer CLI releases and features",
+   "summary": "Microsoft’s October Azure Developer CLI roundup covers releases 1.35.0 through 1.37.2. Highlights include deployment previews across multiple Azure services, Container Apps express deployments, a beta command for removing stored environment values, and support for extension-defined infrastructure providers in generated pipelines.",
+   "source_url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
+   "published_date": "2026-10-30",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "094c331a98fa",
+   "title": "Google DeepMind expands Gemini-powered PlanAssist to 12 more councils",
+   "summary": "Google DeepMind is expanding its Gemini-powered PlanAssist tool to 12 additional local planning authorities in England, bringing the total involved to 15 for a 12-month beta using live applications. Early pilots reported a 58% reduction in time spent on householder application assessments, while qualified planning officers retain final approval.",
+   "source_url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "published_date": "2026-10-31",
+   "company": "Google DeepMind",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "4b2909d0621b",
+   "title": "Google showcases Gemini 4 Argon agents building a dancing robot from a prompt",
+   "summary": "Google highlighted a Google DeepMind robotics project in which AI agents powered by Gemini 4 Argon and Antigravity helped create a physical, dancing 12-degree-of-freedom robot from a plain-English prompt. The demonstration is a notable example of Gemini-powered agents being used in a real-world robotics workflow without manual CAD.",
+   "source_url": "https://x.com/Google/status/2116522684154585227",
+   "published_date": "2026-10-31",
+   "company": "Google",
+   "category": "other",
+   "topic": "google-gemini",
+   "citations": [
+    "https://x.com/Google/status/2116522684154585227"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "971afab381c0",
+   "title": "OpenAI and Google back a shared website signal for AI-training preferences",
+   "summary": "OpenAI and Google announced support for a shared robots.txt signal through which publishers and website operators can communicate AI-training preferences to multiple participating providers at once. The initiative is voluntary and still being implemented; OpenAI says its existing crawler controls will remain in place.",
+   "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+   "published_date": "2026-10-30",
+   "company": "OpenAI, Google, Microsoft, and Anthropic",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+    "https://developers.google.com/search/blog/2026/10/ai-training-control"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "76e502c4ebad",
+   "title": "DeepSeek releases open-source Super-Agent coding prototype",
+   "summary": "DeepSeek published dsh-superagent, an MIT-licensed research prototype that can work on a GitHub repository and optionally listen to Feishu. The project is explicitly labeled as reference research code—not an official DeepSeek product or production-ready software—while its proactive, low-attention agent design reflects growing competition in AI coding tools.",
+   "source_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+   "published_date": "2026-10-31",
+   "company": "DeepSeek",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic"
+   ],
+   "briefing": "2026-11-02"
+  },
+  {
+   "id": "6f9a62584ae9",
+   "title": "Salesforce adds agent evaluations and cost controls to Agent Fabric",
+   "summary": "Salesforce expanded Agent Fabric with Agent Evals and API Evals to test agent quality and API changes, plus cost controls that can impose hard budget limits and reduce token usage. The additions are aimed at catching silent failures and overspending as organizations put more agents into production; Agent Evals and API Evals are scheduled for beta in November 2026 and general availability in January 2027.",
+   "source_url": "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/",
+   "published_date": "2026-11-01",
+   "company": "Salesforce",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/"
+   ],
+   "briefing": "2026-11-02"
+  }
+ ]
+}
