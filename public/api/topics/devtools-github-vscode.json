@@ -2,8 +2,36 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 29,
+ "count": 31,
  "items": [
+  {
+   "id": "7eb59a8ea284",
+   "title": "GitHub security risk assessments now show repository protection status",
+   "summary": "GitHub’s code security and secret risk assessments now indicate whether findings are in protected or unprotected repositories, helping organizations spot where to extend security coverage. The improvement is available in GitHub Enterprise Cloud and GitHub Team; secret risk assessment support is slated for GitHub Enterprise Server 3.24.",
+   "source_url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status/",
+   "published_date": "2026-11-02",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status/"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "c4529b23507c",
+   "title": "GitHub Agentic Workflows weekly update highlights hardening and cost-aware routing",
+   "summary": "GitHub’s November 2 Agentic Workflows roundup describes safer pull-request outputs, optional actions-lock integration, guided remediation, and additional workflows adopting model routing to keep lower-cost work economical. The post reports these project updates and notes that release v1.0.1 itself was published October 27.",
+   "source_url": "https://github.github.com/gh-aw/blog/2026-11-02-weekly-update/",
+   "published_date": "2026-11-02",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.github.com/gh-aw/blog/2026-11-02-weekly-update/"
+   ],
+   "briefing": "2026-11-03"
+  },
   {
    "id": "259cbe6c63f7",
    "title": "Microsoft summarizes October Azure Developer CLI releases and features",

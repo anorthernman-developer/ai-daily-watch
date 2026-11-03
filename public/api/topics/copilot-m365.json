@@ -2,8 +2,22 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 9,
+ "count": 10,
  "items": [
+  {
+   "id": "eb7ead76cb77",
+   "title": "Microsoft plans locked-down Copilot Chat mode for Study and Learn",
+   "summary": "Microsoft is preparing an IT-controlled mode that locks Copilot Chat to the Study and Learn Agent, designed for educational settings. Students would not be able to switch to general Copilot Chat or other agents, while still being able to add their own files as references.",
+   "source_url": "https://techcommunity.microsoft.com/blog/educationblog/webinar-study-and-learn-limitslocks-down-copilot-chat/4569599",
+   "published_date": "2026-11-02",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/educationblog/webinar-study-and-learn-limitslocks-down-copilot-chat/4569599"
+   ],
+   "briefing": "2026-11-03"
+  },
   {
    "id": "83cb302dd5ef",
    "title": "Estée Lauder expands Copilot access to more than 14,000 employees",

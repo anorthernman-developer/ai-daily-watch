@@ -2,8 +2,79 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 27,
+ "count": 32,
  "items": [
+  {
+   "id": "23d8a0c9a4e1",
+   "title": "Omen AI acquires Aquatic Labs for $16 million to advance data-center cooling",
+   "summary": "Omen AI announced a $16 million cash-and-stock acquisition of Aquatic Labs, adding its sensor research and expertise to Omen’s AI data-center cooling systems. The companies plan to combine fluid-monitoring capabilities to help operators detect cooling problems earlier and reduce disruption.",
+   "source_url": "https://www.prnewswire.com/news-releases/omen-ai-acquires-aquatic-labs-bringing-ocean-sensing-expertise-to-automate-data-center-cooling-302926594.html",
+   "published_date": "2026-11-02",
+   "company": "Omen AI",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.prnewswire.com/news-releases/omen-ai-acquires-aquatic-labs-bringing-ocean-sensing-expertise-to-automate-data-center-cooling-302926594.html"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "3059ef1574cb",
+   "title": "Grok Bot usage limits tightened amid high operating costs",
+   "summary": "Grok Bot users reported reaching usage limits sooner, and Elon Musk said the cost of serving the AI agent was “unsustainably high relative to revenue.” The episode points to the operational and commercial costs of running always-on agents, though the exact changes to limits were not detailed in the cited report.",
+   "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "published_date": "2026-11-02",
+   "company": "SpaceX",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "6e11dddc7a7c",
+   "title": "42AI emerges from stealth with $62.5 million for behavioral world model",
+   "summary": "Israeli startup 42AI came out of stealth with $62.5 million in seed funding to develop a model intended to predict human behavior. The company says its system is already being used at some financial brokerages, though its performance claims remain early-stage and company-reported.",
+   "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "published_date": "2026-11-02",
+   "company": "42AI",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "7f6f2bc0a104",
+   "title": "SemiAnalysis launches GDPx benchmark for agentic AI capabilities",
+   "summary": "SemiAnalysis introduced GDPx, a benchmark for agentic capabilities across domains including software engineering, finance, law, biology, and chip design. The release adds a new evaluation framework for comparing AI agents on high-value professional work.",
+   "source_url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+   "published_date": "2026-11-02",
+   "company": "SemiAnalysis",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+    "https://x.com/SemiAnalysis_/status/2117075900575477855"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "869219a7f133",
+   "title": "OpenAI merges ChatGPT’s Chat and Work tabs while sharing usage allowance with Codex",
+   "summary": "OpenAI is merging ChatGPT’s Chat and Work tabs and moving ChatGPT and Codex to a shared token allowance pool, while keeping Codex separate in the desktop app. The change may affect how often some users need to wait for usage resets.",
+   "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+   ],
+   "briefing": "2026-11-03"
+  },
   {
    "id": "6f9a62584ae9",
    "title": "Salesforce adds agent evaluations and cost controls to Agent Fabric",

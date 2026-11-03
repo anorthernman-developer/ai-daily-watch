@@ -1,14 +1,14 @@
 {
  "name": "AI Daily Watch",
  "site": "https://ai-daily-watch.netlify.app",
- "updated": "2026-11-02T07:05:04+00:00",
- "latest_briefing": "2026-11-02",
- "items_total": 114,
+ "updated": "2026-11-03T07:11:18+00:00",
+ "latest_briefing": "2026-11-03",
+ "items_total": 125,
  "topics": [
   {
    "key": "copilot-m365",
    "name": "Microsoft Copilot & Microsoft 365",
-   "count": 9,
+   "count": 10,
    "json": "https://ai-daily-watch.netlify.app/api/topics/copilot-m365.json",
    "rss": "https://ai-daily-watch.netlify.app/feeds/copilot-m365.xml",
    "page": "https://ai-daily-watch.netlify.app/topics/copilot-m365/"
@@ -32,7 +32,7 @@
   {
    "key": "devtools-github-vscode",
    "name": "VS Code, GitHub & developer tools",
-   "count": 29,
+   "count": 31,
    "json": "https://ai-daily-watch.netlify.app/api/topics/devtools-github-vscode.json",
    "rss": "https://ai-daily-watch.netlify.app/feeds/devtools-github-vscode.xml",
    "page": "https://ai-daily-watch.netlify.app/topics/devtools-github-vscode/"
@@ -48,7 +48,7 @@
   {
    "key": "openai",
    "name": "OpenAI",
-   "count": 12,
+   "count": 15,
    "json": "https://ai-daily-watch.netlify.app/api/topics/openai.json",
    "rss": "https://ai-daily-watch.netlify.app/feeds/openai.xml",
    "page": "https://ai-daily-watch.netlify.app/topics/openai/"
@@ -64,13 +64,19 @@
   {
    "key": "ai-trends",
    "name": "AI news, innovation & trends",
-   "count": 27,
+   "count": 32,
    "json": "https://ai-daily-watch.netlify.app/api/topics/ai-trends.json",
    "rss": "https://ai-daily-watch.netlify.app/feeds/ai-trends.xml",
    "page": "https://ai-daily-watch.netlify.app/topics/ai-trends/"
   }
  ],
  "briefings": [
+  {
+   "date": "2026-11-03",
+   "count": 11,
+   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-03.json",
+   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-03/"
+  },
   {
    "date": "2026-11-02",
    "count": 6,

@@ -2,8 +2,50 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 12,
+ "count": 15,
  "items": [
+  {
+   "id": "2fce0ae3d77a",
+   "title": "OpenAI launches Grid Protectors program to support strained power grids",
+   "summary": "OpenAI launched Grid Protectors, a national program to work with utilities, regulators, and policymakers on reducing electricity demand at its future campuses during periods of grid strain. In Georgia, the company says its planned Effingham County campus agreement includes up to 1,000 megawatts of flexible demand response; additional arrangements will vary by location.",
+   "source_url": "https://openai.com/index/grid-protectors-program/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "other",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/grid-protectors-program/"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "59d1f02ea11e",
+   "title": "OpenAI signs Abu Dhabi agreements on AI investment and UAE-wide adoption",
+   "summary": "Abu Dhabi announced new agreements involving OpenAI, including an AI investment-analysis arrangement with Mubadala and Inception42, and a five-year agreement with Inception42 to support frontier AI adoption across government, enterprise, and education. The announcement signals a wider regional expansion of OpenAI’s institutional partnerships beyond the separate ADNOC energy deal.",
+   "source_url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/"
+   ],
+   "briefing": "2026-11-03"
+  },
+  {
+   "id": "a067f6e160df",
+   "title": "ADNOC partners with OpenAI and G42 to deploy Frontier across its energy operations",
+   "summary": "ADNOC, OpenAI, and G42 announced a multi-year partnership to deploy OpenAI Frontier across ADNOC’s energy operations, making ADNOC the first energy company to deploy the platform. The partners plan to combine OpenAI models with ADNOC’s industrial data on G42’s sovereign UAE infrastructure to support planning and connected business decisions, with human experts overseeing consequential decisions.",
+   "source_url": "https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI"
+   ],
+   "briefing": "2026-11-03"
+  },
   {
    "id": "0dcf95bbc34e",
    "title": "OpenAI highlights support for fair use in AI training",
