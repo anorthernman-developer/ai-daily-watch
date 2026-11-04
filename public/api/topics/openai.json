@@ -2,8 +2,64 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 15,
+ "count": 19,
  "items": [
+  {
+   "id": "58ed7cdb781d",
+   "title": "OpenAI introduces LifeVal, a benchmark for AI assistance with everyday tasks",
+   "summary": "OpenAI introduced LifeVal, a benchmark intended to measure AI performance on practical everyday tasks, extending evaluation beyond conventional question-answering. Its task selection draws on U.S. and international time-use datasets and a demographically representative survey of 3,995 respondents.",
+   "source_url": "https://openai.com/index/lifeval/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/lifeval/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "8379d1104977",
+   "title": "OpenAI plans a security sprint with Cathedral Systems to test and strengthen its defenses",
+   "summary": "OpenAI said it is planning an internal security sprint with Cathedral Systems, whose researchers will work alongside OpenAI teams using OpenAI models to test and strengthen the company’s systems. The announcement describes the effort as a way to challenge defenses and help protect its platforms.",
+   "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "security",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "941e4cbe8142",
+   "title": "OpenAI increases Security Bug Bounty rewards, with exceptional critical findings eligible for up to $172,000",
+   "summary": "OpenAI raised rewards in its Security Bug Bounty program to encourage independent researchers to report vulnerabilities. It says exceptional critical findings affecting core products such as ChatGPT, Codex, or the API Platform can now be eligible for up to $172,000 when bonuses are included.",
+   "source_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "security",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "af3c9bab0a5b",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "summary": "OpenAI appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization. He will advise OpenAI leaders and external partners on responsible AI use to strengthen national and cyber security, including work with U.S. allies.",
+   "source_url": "https://openai.com/index/dan-driscoll-joins-openai/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "leadership",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/dan-driscoll-joins-openai/"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "2fce0ae3d77a",
    "title": "OpenAI launches Grid Protectors program to support strained power grids",

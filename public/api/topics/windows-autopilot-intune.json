@@ -2,8 +2,22 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 8,
+ "count": 9,
  "items": [
+  {
+   "id": "2eaacc869a1c",
+   "title": "Report: leaked Microsoft roadmap outlines four tiers of Windows AI hardware",
+   "summary": "Windows Central reported that slides attributed to Microsoft outline four tiers of Windows AI hardware, spanning consumer PCs to systems intended for demanding local AI workloads. The roadmap reportedly combines local processing with cloud AI, but the information comes from slides shared by an X user and is not a confirmed Microsoft announcement.",
+   "source_url": "https://www.windowscentral.com/microsoft/windows-11/microsofts-ai-future-has-room-for-everything-from-8gb-windows-pcs-to-supercomputers-running-frontier-models",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://www.windowscentral.com/microsoft/windows-11/microsofts-ai-future-has-room-for-everything-from-8gb-windows-pcs-to-supercomputers-running-frontier-models"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "becaa839c139",
    "title": "Microsoft announces new Windows 11 Insider builds and private Feedback Hub policy",

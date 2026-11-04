@@ -2,8 +2,36 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 17,
+ "count": 19,
  "items": [
+  {
+   "id": "62ae9381c5a0",
+   "title": "Anthropic opens Messages API message threads beta to speed up long-running agents",
+   "summary": "Anthropic launched message threads in public beta for the Messages API: after the initial conversation, developers can send only new messages rather than resending the full history. Anthropic says requests of 500,000 to 1 million tokens see about 35% lower median time to first token; the beta is available on Claude Platform, AWS, Microsoft Foundry, and Anthropic-managed Claude on Google Cloud.",
+   "source_url": "https://claude.com/resources/articles/message-threads",
+   "published_date": "2026-11-02",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/message-threads"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "d94c9f77ddaf",
+   "title": "Anthropic releases FlashProve, an open-source prototype for provable inference",
+   "summary": "Anthropic published research on FlashProve, an open-source prototype for cryptographically verifying model inference while keeping model weights hidden. It released code, Lean formalization, and protocol documentation; the work advances inference verification research, though Anthropic identifies it as an intermediate prototype with technical limitations.",
+   "source_url": "https://www.anthropic.com/research/provable-inference",
+   "published_date": "2026-11-02",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/provable-inference"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "1ac62f843edf",
    "title": "Claude Code 2.1.316 adds subagent and gateway controls and deprecates Opus 4.8 fast mode",

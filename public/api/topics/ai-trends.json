@@ -2,8 +2,94 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 32,
+ "count": 38,
  "items": [
+  {
+   "id": "3e4d0e3c2142",
+   "title": "CrowdStrike to acquire Dreadnode for AI security testing",
+   "summary": "CrowdStrike agreed to acquire Dreadnode, whose automated testing is intended to identify weaknesses in AI models, applications, and agents before deployment. The deal would extend CrowdStrike’s security platform into testing and remediation for AI systems; the cited announcement does not disclose a purchase price.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver",
+   "published_date": "2026-11-03",
+   "company": "CrowdStrike",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "b501435d2b4a",
+   "title": "Snowflake adds governed business context and controls for enterprise AI agents",
+   "summary": "Snowflake announced new enterprise-agent capabilities, including Business Ontology for approved definitions of business terms and expanded Cortex AI Gateway controls. The updates are intended to give organizations more consistent business context and centralized governance as AI agents use company data and services.",
+   "source_url": "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/",
+   "published_date": "2026-11-03",
+   "company": "Snowflake",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/",
+    "https://investors.snowflake.com/news/news-details/2026/Snowflake-Helps-Enterprises-Deploy-AI-Agents-with-Trusted-Business-Context-and-Built-In-Controls/default.aspx"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "19ce29ebfa96",
+   "title": "Trajectory raises $45 million to broaden access to AI model training",
+   "summary": "Trajectory announced a $45 million Series A at a $300 million valuation, led by Sequoia with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. The company is also making its post-training platform public, aiming to help customers improve models using feedback and task-specific examples.",
+   "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "published_date": "2026-11-02",
+   "company": "Trajectory",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "5a11d5ac9aad",
+   "title": "Salesforce agrees to acquire voice-agent company Cresta",
+   "summary": "Salesforce agreed to acquire Cresta, whose platform combines voice agents for complex customer calls with real-time guidance for human representatives and conversation analysis. The deal would bring Cresta’s voice capabilities into Salesforce’s customer-service ecosystem; the official announcement did not disclose the transaction price.",
+   "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta",
+   "published_date": "2026-11-02",
+   "company": "Salesforce",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "7346341f9e24",
+   "title": "DeepSeek introduces Creator Mode for creating plugins in its Harness agent",
+   "summary": "DeepSeek announced Creator Mode for its Harness agent, letting users turn ideas into custom plugins, with examples including a design workspace, a sandbox game, and a 3D visualizer. It extends the agent’s customization capabilities and adds to DeepSeek’s push into agent products.",
+   "source_url": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+   "published_date": "2026-11-02",
+   "company": "DeepSeek",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://x.com/DeepSeekHarness/status/2117256196227019194",
+    "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "f99687762692",
+   "title": "Meituan releases LongCat-2.5 multimodal model for long-horizon agent tasks",
+   "summary": "Meituan released LongCat-2.5, a native multimodal model with 1.6 trillion total parameters and about 48 billion active per token, aimed at sustained agent work such as complex coding tasks. It was available through Meituan’s chat service and API, with GitHub and Hugging Face releases described as planned rather than already available.",
+   "source_url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+   "published_date": "2026-11-02",
+   "company": "Meituan",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "23d8a0c9a4e1",
    "title": "Omen AI acquires Aquatic Labs for $16 million to advance data-center cooling",

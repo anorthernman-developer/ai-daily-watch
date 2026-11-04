@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T07:10:44+00:00",
+ "count": 18,
+ "items": [
+  {
+   "id": "2eaacc869a1c",
+   "title": "Report: leaked Microsoft roadmap outlines four tiers of Windows AI hardware",
+   "summary": "Windows Central reported that slides attributed to Microsoft outline four tiers of Windows AI hardware, spanning consumer PCs to systems intended for demanding local AI workloads. The roadmap reportedly combines local processing with cloud AI, but the information comes from slides shared by an X user and is not a confirmed Microsoft announcement.",
+   "source_url": "https://www.windowscentral.com/microsoft/windows-11/microsofts-ai-future-has-room-for-everything-from-8gb-windows-pcs-to-supercomputers-running-frontier-models",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://www.windowscentral.com/microsoft/windows-11/microsofts-ai-future-has-room-for-everything-from-8gb-windows-pcs-to-supercomputers-running-frontier-models"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "3f6b3229362c",
+   "title": "GitHub REST API adds a cost-center lookup for resources",
+   "summary": "GitHub added a REST API endpoint to look up the cost center associated with a user, organization, repository, or enterprise team. The response returns the cost-center ID and name, simplifying billing and cost-center workflows that previously required scanning cost-center resource lists; access depends on the caller’s role.",
+   "source_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "441e3e5c734b",
+   "title": "GitHub Copilot becomes available in JetBrains Air",
+   "summary": "GitHub Copilot is now available in JetBrains Air, where users can delegate coding tasks, work across parallel agent sessions, and review results in context. Cloud tasks can run through Air Teams using the user’s existing Copilot subscription rather than JetBrains AI credits.",
+   "source_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "6ffd7b1b5278",
+   "title": "CodeQL 2.27.3 adds Python 3.15 and JSON data-extension support",
+   "summary": "CodeQL 2.27.3 adds support for Python 3.15 features, JSON syntax for data extensions, C23 bit-precise integers, and query-accuracy improvements. The update also changes the GitHub Actions control-flow graph implementation, which may require developers with custom queries to adjust them.",
+   "source_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "62ae9381c5a0",
+   "title": "Anthropic opens Messages API message threads beta to speed up long-running agents",
+   "summary": "Anthropic launched message threads in public beta for the Messages API: after the initial conversation, developers can send only new messages rather than resending the full history. Anthropic says requests of 500,000 to 1 million tokens see about 35% lower median time to first token; the beta is available on Claude Platform, AWS, Microsoft Foundry, and Anthropic-managed Claude on Google Cloud.",
+   "source_url": "https://claude.com/resources/articles/message-threads",
+   "published_date": "2026-11-02",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/message-threads"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "d94c9f77ddaf",
+   "title": "Anthropic releases FlashProve, an open-source prototype for provable inference",
+   "summary": "Anthropic published research on FlashProve, an open-source prototype for cryptographically verifying model inference while keeping model weights hidden. It released code, Lean formalization, and protocol documentation; the work advances inference verification research, though Anthropic identifies it as an intermediate prototype with technical limitations.",
+   "source_url": "https://www.anthropic.com/research/provable-inference",
+   "published_date": "2026-11-02",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/provable-inference"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "58ed7cdb781d",
+   "title": "OpenAI introduces LifeVal, a benchmark for AI assistance with everyday tasks",
+   "summary": "OpenAI introduced LifeVal, a benchmark intended to measure AI performance on practical everyday tasks, extending evaluation beyond conventional question-answering. Its task selection draws on U.S. and international time-use datasets and a demographically representative survey of 3,995 respondents.",
+   "source_url": "https://openai.com/index/lifeval/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/lifeval/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "8379d1104977",
+   "title": "OpenAI plans a security sprint with Cathedral Systems to test and strengthen its defenses",
+   "summary": "OpenAI said it is planning an internal security sprint with Cathedral Systems, whose researchers will work alongside OpenAI teams using OpenAI models to test and strengthen the company’s systems. The announcement describes the effort as a way to challenge defenses and help protect its platforms.",
+   "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "security",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "941e4cbe8142",
+   "title": "OpenAI increases Security Bug Bounty rewards, with exceptional critical findings eligible for up to $172,000",
+   "summary": "OpenAI raised rewards in its Security Bug Bounty program to encourage independent researchers to report vulnerabilities. It says exceptional critical findings affecting core products such as ChatGPT, Codex, or the API Platform can now be eligible for up to $172,000 when bonuses are included.",
+   "source_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "security",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "af3c9bab0a5b",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "summary": "OpenAI appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization. He will advise OpenAI leaders and external partners on responsible AI use to strengthen national and cyber security, including work with U.S. allies.",
+   "source_url": "https://openai.com/index/dan-driscoll-joins-openai/",
+   "published_date": "2026-11-02",
+   "company": "OpenAI",
+   "category": "leadership",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/dan-driscoll-joins-openai/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "479e397586a4",
+   "title": "Google deprecates Gemini 2.5 Pro and Flash, schedules API routing changes",
+   "summary": "Google deprecated Gemini 2.5 Pro and Gemini 2.5 Flash in the Gemini API and removed them from the AI Studio model picker. Starting December 1, 2026, requests to those model IDs will route to Gemini 3.8 Flash and Gemini 3.5 Flash-Lite, respectively.",
+   "source_url": "https://aistudio.google.com/docs/models",
+   "published_date": "2026-11-02",
+   "company": "Google",
+   "category": "other",
+   "topic": "google-gemini",
+   "citations": [
+    "https://aistudio.google.com/docs/models",
+    "https://neomanex.com/news/gemini-2-5-pro-flash-deprecated-auto-route-dec-1-avoid"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "05510ac468b5",
+   "title": "Google brings Guided Learning to Classroom and Search and updates K-12 AI controls",
+   "summary": "Google made Guided Learning globally available in Google Classroom and said it is bringing Guided Learning capabilities to Search, beginning with a pilot in select U.S. schools later in November. Google also plans to make Gemini, Gemini Notebook, Gemini in Classroom, and Search unavailable by default for K-12 student accounts until a school administrator turns them on.",
+   "source_url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+   "published_date": "2026-11-03",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "19ce29ebfa96",
+   "title": "Trajectory raises $45 million to broaden access to AI model training",
+   "summary": "Trajectory announced a $45 million Series A at a $300 million valuation, led by Sequoia with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. The company is also making its post-training platform public, aiming to help customers improve models using feedback and task-specific examples.",
+   "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "published_date": "2026-11-02",
+   "company": "Trajectory",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "5a11d5ac9aad",
+   "title": "Salesforce agrees to acquire voice-agent company Cresta",
+   "summary": "Salesforce agreed to acquire Cresta, whose platform combines voice agents for complex customer calls with real-time guidance for human representatives and conversation analysis. The deal would bring Cresta’s voice capabilities into Salesforce’s customer-service ecosystem; the official announcement did not disclose the transaction price.",
+   "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta",
+   "published_date": "2026-11-02",
+   "company": "Salesforce",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "7346341f9e24",
+   "title": "DeepSeek introduces Creator Mode for creating plugins in its Harness agent",
+   "summary": "DeepSeek announced Creator Mode for its Harness agent, letting users turn ideas into custom plugins, with examples including a design workspace, a sandbox game, and a 3D visualizer. It extends the agent’s customization capabilities and adds to DeepSeek’s push into agent products.",
+   "source_url": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+   "published_date": "2026-11-02",
+   "company": "DeepSeek",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://x.com/DeepSeekHarness/status/2117256196227019194",
+    "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "f99687762692",
+   "title": "Meituan releases LongCat-2.5 multimodal model for long-horizon agent tasks",
+   "summary": "Meituan released LongCat-2.5, a native multimodal model with 1.6 trillion total parameters and about 48 billion active per token, aimed at sustained agent work such as complex coding tasks. It was available through Meituan’s chat service and API, with GitHub and Hugging Face releases described as planned rather than already available.",
+   "source_url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+   "published_date": "2026-11-02",
+   "company": "Meituan",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "3e4d0e3c2142",
+   "title": "CrowdStrike to acquire Dreadnode for AI security testing",
+   "summary": "CrowdStrike agreed to acquire Dreadnode, whose automated testing is intended to identify weaknesses in AI models, applications, and agents before deployment. The deal would extend CrowdStrike’s security platform into testing and remediation for AI systems; the cited announcement does not disclose a purchase price.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver",
+   "published_date": "2026-11-03",
+   "company": "CrowdStrike",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "b501435d2b4a",
+   "title": "Snowflake adds governed business context and controls for enterprise AI agents",
+   "summary": "Snowflake announced new enterprise-agent capabilities, including Business Ontology for approved definitions of business terms and expanded Cortex AI Gateway controls. The updates are intended to give organizations more consistent business context and centralized governance as AI agents use company data and services.",
+   "source_url": "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/",
+   "published_date": "2026-11-03",
+   "company": "Snowflake",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/",
+    "https://investors.snowflake.com/news/news-details/2026/Snowflake-Helps-Enterprises-Deploy-AI-Agents-with-Trusted-Business-Context-and-Built-In-Controls/default.aspx"
+   ],
+   "briefing": "2026-11-04"
+  }
+ ]
+}

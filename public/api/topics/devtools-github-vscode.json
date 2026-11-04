@@ -2,8 +2,50 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 31,
+ "count": 34,
  "items": [
+  {
+   "id": "3f6b3229362c",
+   "title": "GitHub REST API adds a cost-center lookup for resources",
+   "summary": "GitHub added a REST API endpoint to look up the cost center associated with a user, organization, repository, or enterprise team. The response returns the cost-center ID and name, simplifying billing and cost-center workflows that previously required scanning cost-center resource lists; access depends on the caller’s role.",
+   "source_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "441e3e5c734b",
+   "title": "GitHub Copilot becomes available in JetBrains Air",
+   "summary": "GitHub Copilot is now available in JetBrains Air, where users can delegate coding tasks, work across parallel agent sessions, and review results in context. Cloud tasks can run through Air Teams using the user’s existing Copilot subscription rather than JetBrains AI credits.",
+   "source_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "6ffd7b1b5278",
+   "title": "CodeQL 2.27.3 adds Python 3.15 and JSON data-extension support",
+   "summary": "CodeQL 2.27.3 adds support for Python 3.15 features, JSON syntax for data extensions, C23 bit-precise integers, and query-accuracy improvements. The update also changes the GitHub Actions control-flow graph implementation, which may require developers with custom queries to adjust them.",
+   "source_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "7eb59a8ea284",
    "title": "GitHub security risk assessments now show repository protection status",

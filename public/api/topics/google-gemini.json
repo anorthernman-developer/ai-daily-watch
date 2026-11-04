@@ -2,8 +2,37 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 11,
+ "count": 13,
  "items": [
+  {
+   "id": "05510ac468b5",
+   "title": "Google brings Guided Learning to Classroom and Search and updates K-12 AI controls",
+   "summary": "Google made Guided Learning globally available in Google Classroom and said it is bringing Guided Learning capabilities to Search, beginning with a pilot in select U.S. schools later in November. Google also plans to make Gemini, Gemini Notebook, Gemini in Classroom, and Search unavailable by default for K-12 student accounts until a school administrator turns them on.",
+   "source_url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+   "published_date": "2026-11-03",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+   ],
+   "briefing": "2026-11-04"
+  },
+  {
+   "id": "479e397586a4",
+   "title": "Google deprecates Gemini 2.5 Pro and Flash, schedules API routing changes",
+   "summary": "Google deprecated Gemini 2.5 Pro and Gemini 2.5 Flash in the Gemini API and removed them from the AI Studio model picker. Starting December 1, 2026, requests to those model IDs will route to Gemini 3.8 Flash and Gemini 3.5 Flash-Lite, respectively.",
+   "source_url": "https://aistudio.google.com/docs/models",
+   "published_date": "2026-11-02",
+   "company": "Google",
+   "category": "other",
+   "topic": "google-gemini",
+   "citations": [
+    "https://aistudio.google.com/docs/models",
+    "https://neomanex.com/news/gemini-2-5-pro-flash-deprecated-auto-route-dec-1-avoid"
+   ],
+   "briefing": "2026-11-04"
+  },
   {
    "id": "094c331a98fa",
    "title": "Google DeepMind expands Gemini-powered PlanAssist to 12 more councils",

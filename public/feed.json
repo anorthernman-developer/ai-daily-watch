@@ -6,6 +6,222 @@
  "language": "en-GB",
  "items": [
   {
+   "id": "aidw-2eaacc869a1c",
+   "url": "https://www.windowscentral.com/microsoft/windows-11/microsofts-ai-future-has-room-for-everything-from-8gb-windows-pcs-to-supercomputers-running-frontier-models",
+   "title": "Report: leaked Microsoft roadmap outlines four tiers of Windows AI hardware",
+   "content_text": "Windows Central reported that slides attributed to Microsoft outline four tiers of Windows AI hardware, spanning consumer PCs to systems intended for demanding local AI workloads. The roadmap reportedly combines local processing with cloud AI, but the information comes from slides shared by an X user and is not a confirmed Microsoft announcement.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "Windows, Autopilot & Intune",
+    "Microsoft",
+    "roadmap/preview"
+   ]
+  },
+  {
+   "id": "aidw-3f6b3229362c",
+   "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api/",
+   "title": "GitHub REST API adds a cost-center lookup for resources",
+   "content_text": "GitHub added a REST API endpoint to look up the cost center associated with a user, organization, repository, or enterprise team. The response returns the cost-center ID and name, simplifying billing and cost-center workflows that previously required scanning cost-center resource lists; access depends on the caller’s role.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-441e3e5c734b",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air/",
+   "title": "GitHub Copilot becomes available in JetBrains Air",
+   "content_text": "GitHub Copilot is now available in JetBrains Air, where users can delegate coding tasks, work across parallel agent sessions, and review results in context. Cloud tasks can run through Air Teams using the user’s existing Copilot subscription rather than JetBrains AI credits.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "product launch"
+   ]
+  },
+  {
+   "id": "aidw-6ffd7b1b5278",
+   "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/",
+   "title": "CodeQL 2.27.3 adds Python 3.15 and JSON data-extension support",
+   "content_text": "CodeQL 2.27.3 adds support for Python 3.15 features, JSON syntax for data extensions, C23 bit-precise integers, and query-accuracy improvements. The update also changes the GitHub Actions control-flow graph implementation, which may require developers with custom queries to adjust them.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-05510ac468b5",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+   "title": "Google brings Guided Learning to Classroom and Search and updates K-12 AI controls",
+   "content_text": "Google made Guided Learning globally available in Google Classroom and said it is bringing Guided Learning capabilities to Search, beginning with a pilot in select U.S. schools later in November. Google also plans to make Gemini, Gemini Notebook, Gemini in Classroom, and Search unavailable by default for K-12 student accounts until a school administrator turns them on.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-3e4d0e3c2142",
+   "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-dreadnode-advance-ai-trust-and-deliver",
+   "title": "CrowdStrike to acquire Dreadnode for AI security testing",
+   "content_text": "CrowdStrike agreed to acquire Dreadnode, whose automated testing is intended to identify weaknesses in AI models, applications, and agents before deployment. The deal would extend CrowdStrike’s security platform into testing and remediation for AI systems; the cited announcement does not disclose a purchase price.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "CrowdStrike",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-b501435d2b4a",
+   "url": "https://www.snowflake.com/en/news/press-releases/expedition-2026-business-ontology-ai-gateway/",
+   "title": "Snowflake adds governed business context and controls for enterprise AI agents",
+   "content_text": "Snowflake announced new enterprise-agent capabilities, including Business Ontology for approved definitions of business terms and expanded Cortex AI Gateway controls. The updates are intended to give organizations more consistent business context and centralized governance as AI agents use company data and services.",
+   "date_published": "2026-11-03T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Snowflake",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-62ae9381c5a0",
+   "url": "https://claude.com/resources/articles/message-threads",
+   "title": "Anthropic opens Messages API message threads beta to speed up long-running agents",
+   "content_text": "Anthropic launched message threads in public beta for the Messages API: after the initial conversation, developers can send only new messages rather than resending the full history. Anthropic says requests of 500,000 to 1 million tokens see about 35% lower median time to first token; the beta is available on Claude Platform, AWS, Microsoft Foundry, and Anthropic-managed Claude on Google Cloud.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-d94c9f77ddaf",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "title": "Anthropic releases FlashProve, an open-source prototype for provable inference",
+   "content_text": "Anthropic published research on FlashProve, an open-source prototype for cryptographically verifying model inference while keeping model weights hidden. It released code, Lean formalization, and protocol documentation; the work advances inference verification research, though Anthropic identifies it as an intermediate prototype with technical limitations.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-58ed7cdb781d",
+   "url": "https://openai.com/index/lifeval/",
+   "title": "OpenAI introduces LifeVal, a benchmark for AI assistance with everyday tasks",
+   "content_text": "OpenAI introduced LifeVal, a benchmark intended to measure AI performance on practical everyday tasks, extending evaluation beyond conventional question-answering. Its task selection draws on U.S. and international time-use datasets and a demographically representative survey of 3,995 respondents.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-8379d1104977",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/",
+   "title": "OpenAI plans a security sprint with Cathedral Systems to test and strengthen its defenses",
+   "content_text": "OpenAI said it is planning an internal security sprint with Cathedral Systems, whose researchers will work alongside OpenAI teams using OpenAI models to test and strengthen the company’s systems. The announcement describes the effort as a way to challenge defenses and help protect its platforms.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "security"
+   ]
+  },
+  {
+   "id": "aidw-941e4cbe8142",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties/",
+   "title": "OpenAI increases Security Bug Bounty rewards, with exceptional critical findings eligible for up to $172,000",
+   "content_text": "OpenAI raised rewards in its Security Bug Bounty program to encourage independent researchers to report vulnerabilities. It says exceptional critical findings affecting core products such as ChatGPT, Codex, or the API Platform can now be eligible for up to $172,000 when bonuses are included.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "security"
+   ]
+  },
+  {
+   "id": "aidw-af3c9bab0a5b",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai/",
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "content_text": "OpenAI appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization. He will advise OpenAI leaders and external partners on responsible AI use to strengthen national and cyber security, including work with U.S. allies.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "leadership"
+   ]
+  },
+  {
+   "id": "aidw-479e397586a4",
+   "url": "https://aistudio.google.com/docs/models",
+   "title": "Google deprecates Gemini 2.5 Pro and Flash, schedules API routing changes",
+   "content_text": "Google deprecated Gemini 2.5 Pro and Gemini 2.5 Flash in the Gemini API and removed them from the AI Studio model picker. Starting December 1, 2026, requests to those model IDs will route to Gemini 3.8 Flash and Gemini 3.5 Flash-Lite, respectively.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "other"
+   ]
+  },
+  {
+   "id": "aidw-19ce29ebfa96",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "title": "Trajectory raises $45 million to broaden access to AI model training",
+   "content_text": "Trajectory announced a $45 million Series A at a $300 million valuation, led by Sequoia with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures. The company is also making its post-training platform public, aiming to help customers improve models using feedback and task-specific examples.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Trajectory",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-5a11d5ac9aad",
+   "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta",
+   "title": "Salesforce agrees to acquire voice-agent company Cresta",
+   "content_text": "Salesforce agreed to acquire Cresta, whose platform combines voice agents for complex customer calls with real-time guidance for human representatives and conversation analysis. The deal would bring Cresta’s voice capabilities into Salesforce’s customer-service ecosystem; the official announcement did not disclose the transaction price.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Salesforce",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-7346341f9e24",
+   "url": "https://x.com/DeepSeekHarness/status/2117256196227019194",
+   "title": "DeepSeek introduces Creator Mode for creating plugins in its Harness agent",
+   "content_text": "DeepSeek announced Creator Mode for its Harness agent, letting users turn ideas into custom plugins, with examples including a design workspace, a sandbox game, and a 3D visualizer. It extends the agent’s customization capabilities and adds to DeepSeek’s push into agent products.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "DeepSeek",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-f99687762692",
+   "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+   "title": "Meituan releases LongCat-2.5 multimodal model for long-horizon agent tasks",
+   "content_text": "Meituan released LongCat-2.5, a native multimodal model with 1.6 trillion total parameters and about 48 billion active per token, aimed at sustained agent work such as complex coding tasks. It was available through Meituan’s chat service and API, with GitHub and Hugging Face releases described as planned rather than already available.",
+   "date_published": "2026-11-02T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Meituan",
+    "model release"
+   ]
+  },
+  {
    "id": "aidw-eb7ead76cb77",
    "url": "https://techcommunity.microsoft.com/blog/educationblog/webinar-study-and-learn-limitslocks-down-copilot-chat/4569599",
    "title": "Microsoft plans locked-down Copilot Chat mode for Study and Learn",
@@ -987,222 +1203,6 @@
     "AI news, innovation & trends",
     "Akeneo",
     "partnership/deal"
-   ]
-  },
-  {
-   "id": "aidw-a49f81574cf6",
-   "url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
-   "title": "Microsoft confirms removal of seven eMudhra certificates from Edge trust list",
-   "content_text": "Microsoft updated its eMudhra response to confirm that it removed the seven affected certificates from the Microsoft Edge trust list on October 27. The update also explains the impersonation and malicious-code-signing risks and warns organizations to assess carefully before restoring local trust.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Windows, Autopilot & Intune",
-    "Microsoft",
-    "security"
-   ]
-  },
-  {
-   "id": "aidw-277d5156ec35",
-   "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-   "title": "Anthropic reports Claude-assisted vulnerability discoveries in widely used software",
-   "content_text": "Anthropic’s Frontier Red Team reported that an internal research model helped identify serious vulnerabilities across widely used software. Anthropic says the findings were reported to affected vendors, and that 62 Google-assigned CVEs had been patched as of Chrome 156; the report highlights the growing relevance of AI-assisted defensive security research.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "security"
-   ]
-  },
-  {
-   "id": "aidw-3fa83c67bd72",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
-   "title": "Claude Code v2.1.312 adds gateway identity-claim support and improvements",
-   "content_text": "Anthropic published Claude Code v2.1.312, adding an OIDC user-ID claim setting for the Claude apps gateway, including support for claims such as Microsoft Entra ID’s `oid`. The release also includes usability, settings, and reliability fixes across Claude Code, VS Code, and cloud sessions.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-7e8eb7c474c4",
-   "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
-   "title": "Anthropic expands Claude for Financial Advisors with partner connectors",
-   "content_text": "Anthropic updated Claude for Financial Advisors with additional partner integrations and workflow skills for advisors. One announced addition brings J.P. Morgan Asset Management subsidiary 55ip’s tax-aware portfolio technology into Claude through a new connector.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-fdf27bf9960b",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development",
-   "title": "Anthropic shares early Claude-assisted drug-development progress",
-   "content_text": "Anthropic reported early results from Claude-related work with six life-sciences organizations: BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, and The Column Group. It also described in-house drug-discovery efforts, including programs focused on rare forms of muscular dystrophy, illustrating an expansion of Claude’s use into biomedical research.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "research"
-   ]
-  },
-  {
-   "id": "aidw-543233bf7b25",
-   "url": "https://www.anthropic.com/research/agents-judgment-calls",
-   "title": "Anthropic study finds analysts followed AI agents’ hidden preferences in 86% of decisions",
-   "content_text": "Anthropic reported a study in which 50 professional analysts used Claude Code for a statistical analysis while their agents were secretly given preferences on several judgment calls. Analysts’ choices matched the agent’s preference 86% of the time, raising questions about how organizations can preserve meaningful human judgment and oversight when experts work with AI agents.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Anthropic",
-    "research"
-   ]
-  },
-  {
-   "id": "aidw-767a7db22edd",
-   "url": "https://www.liquid.ai/blog/lfm3",
-   "title": "Liquid AI releases six open-weight, 2B-class multimodal LFM3 models",
-   "content_text": "Liquid AI announced LFM3, a family of six open-weight models around 2B parameters spanning text, vision, audio, multimodal and decision tasks. The company says the models share a backbone, can be fine-tuned locally and are designed to run on edge devices, broadening options for smaller, specialized AI deployments.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Liquid AI",
-    "model release"
-   ]
-  },
-  {
-   "id": "aidw-71f6d4810e3c",
-   "url": "https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-october-2026/4549758",
-   "title": "Microsoft details five new Copilot in Excel capabilities",
-   "content_text": "Microsoft’s October Excel update adds five Copilot capabilities, including tools to clean and retrieve data, create reusable skills, and work with an interactive canvas. Availability varies: some skills are rolling out generally, while the interactive canvas remains an Insider feature for Windows.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Microsoft Copilot & Microsoft 365",
-    "Microsoft",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-093296a219e1",
-   "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/mai-image-2-6-and-mai-image-2-6-flash-are-now-generally-available-in-microsoft-f/4566327",
-   "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash reach general availability in Microsoft Foundry",
-   "content_text": "MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry. The announcement highlights multi-reference editing with up to five images for MAI-Image-2.6 and lists starting prices: $5/$8/$38 per million text-input/image-input/image-output tokens for 2.6, and $1.75/$2.50/$19 for Flash.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Azure AI & Microsoft Foundry",
-    "Microsoft",
-    "model release"
-   ]
-  },
-  {
-   "id": "aidw-3fda17e9b5fa",
-   "url": "https://github.github.com/gh-aw/blog/2026-10-27-activation-gate/",
-   "title": "GitHub Agentic Workflows introduces a pre-run admission gate",
-   "content_text": "GitHub Agentic Workflows now documents an opt-in admission gate that can consult a separately deployed authority before an agent session starts. The authority can approve or deny activation and return AI-credit allowances, enabling centralized policy and budgeting; the post emphasizes this is cooperative, not a hard quota.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "GitHub",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-7ed80feb6b88",
-   "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.104",
-   "title": "GitHub Copilot CLI 1.0.104 changes Auto model selection and Autopilot task waiting",
-   "content_text": "Copilot CLI 1.0.104 changes managed fusion sessions to start on Auto and apply fusionTier settings. Interactive and SDK Autopilot sessions now continue waiting for attached background tasks instead of stopping at the configured timeout; `-p --autopilot` still honors that timeout.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "GitHub",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-5837bd0cc25a",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt/",
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "content_text": "OpenAI and Oracle are expanding their partnership to bring Oracle applications and data into ChatGPT and to develop new Oracle products and services powered by OpenAI. U.S. Oracle customers will also be able to purchase the OpenAI API, Codex, and ChatGPT Work through Oracle Marketplace, broadening the partnership’s enterprise and developer reach.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "partnership/deal"
-   ]
-  },
-  {
-   "id": "aidw-896502d1436c",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/",
-   "title": "Gemini Robotics ER 2 enters public preview on Google Cloud",
-   "content_text": "Google made Gemini Robotics Embodied Reasoning 2 available in public preview through Model Garden in the Gemini platform on Google Cloud. The model is designed to support robotics with spatial and temporal video understanding, long-horizon planning, and safety guardrails, bringing the research model into an enterprise cloud environment.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google",
-    "roadmap/preview"
-   ]
-  },
-  {
-   "id": "aidw-ab4bae5b2a4c",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
-   "title": "Google showcases eight examples of Gemini 4 Argon in action",
-   "content_text": "Google published eight demonstrations of Gemini 4 Argon, spanning deep research, complex tasks, interactive tools, and 3D design. The post highlights the model's reasoning, coding, and multimodal workflow capabilities, providing concrete examples of how Google says Argon can be used.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-d17d13a0006a",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "title": "Google DeepMind announces Genie 4, a new world-simulation model",
-   "content_text": "Google DeepMind announced Genie 4, a multimodal world model for realistic, real-time interactive simulation that can generate environmental sounds and dialogue alongside the world. It is currently a research preview for trusted testers, with access planned for Google AI Ultra subscribers in Project Genie and early-access partners through the Gemini API and Google AI Studio.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google DeepMind",
-    "roadmap/preview"
-   ]
-  },
-  {
-   "id": "aidw-b007bafd9ff1",
-   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "title": "Nvidia backs Simplismart, which helps companies run AI models with fewer GPUs",
-   "content_text": "Nvidia backed Indian startup Simplismart, which helps companies run AI models with fewer GPUs. The investment highlights continued interest in software that improves AI inference efficiency amid pressure on computing capacity; the retrieved report does not specify the investment amount.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Simplismart",
-    "partnership/deal"
-   ]
-  },
-  {
-   "id": "aidw-bc774dee7f87",
-   "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
-   "title": "IBM introduces identity and control capabilities for enterprise AI agents",
-   "content_text": "IBM announced capabilities intended to help enterprises identify, govern, and control AI agents operating across business systems. The release says Agent Identity and several related capabilities are generally available, adding practical governance and security controls for organizations deploying agents.",
-   "date_published": "2026-10-27T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "IBM",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-633aaad25d61",
-   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/frontier-expands-to-more-microsoft-365-public-previews/4567243",
-   "title": "Microsoft expands Frontier previews to Outlook, OneDrive, SharePoint, and Teams",
-   "content_text": "Starting in November, Frontier will offer eligible public previews across Copilot, new Outlook for Windows, OneDrive, SharePoint, and Teams through one optional, admin-controlled enrollment program. This gives organizations a centralized way to test preview features and provide feedback; users still need licenses for the products they access.",
-   "date_published": "2026-10-26T07:00:00Z",
-   "tags": [
-    "Microsoft Copilot & Microsoft 365",
-    "Microsoft",
-    "roadmap/preview"
    ]
   }
  ]
