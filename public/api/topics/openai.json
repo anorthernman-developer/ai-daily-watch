@@ -2,8 +2,51 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 19,
+ "count": 22,
  "items": [
+  {
+   "id": "647d6f84febf",
+   "title": "OpenAI to acquire Pierre Computer Company to expand Codex’s developer tools",
+   "summary": "OpenAI announced plans to acquire Pierre Computer Company, whose Code Storage and other developer tools will expand Codex’s code-building, navigation, and review capabilities. The acquisition has not yet closed and remains subject to customary closing conditions, including regulatory approvals.",
+   "source_url": "https://openai.com/index/openai-to-acquire-pierre/",
+   "published_date": "2026-11-04",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/openai-to-acquire-pierre/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "75679f5aa60b",
+   "title": "Daybreak Red with GPT-5.6 Cyber becomes available in AWS GovCloud",
+   "summary": "OpenAI made GPT-5.6 Cyber available to approved customers in AWS GovCloud (US-East) through Daybreak Red and Amazon Bedrock. The expansion gives eligible government security teams a route to use the model in AWS environments supporting critical missions.",
+   "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "published_date": "2026-11-04",
+   "company": "OpenAI",
+   "category": "product launch",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/daybreak-red-aws-govcloud"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "5773ad34de5f",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "summary": "OpenAI appointed Jill Hazelbaker as Chief Corporate Affairs Officer, where she will lead global communications and corporate positioning. She will work with company leaders on public understanding of AI and trust in OpenAI’s mission.",
+   "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+   "published_date": "2026-11-03",
+   "company": "OpenAI",
+   "category": "leadership",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+    "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai?leadSource=uverify%20wall"
+   ],
+   "briefing": "2026-11-05"
+  },
   {
    "id": "58ed7cdb781d",
    "title": "OpenAI introduces LifeVal, a benchmark for AI assistance with everyday tasks",

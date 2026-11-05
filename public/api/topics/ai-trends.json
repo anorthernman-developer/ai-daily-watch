@@ -2,8 +2,115 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 38,
+ "count": 45,
  "items": [
+  {
+   "id": "07dbf5f156f1",
+   "title": "Tencent releases Hy4 with vision and long-horizon agent capabilities",
+   "summary": "Tencent released Hy4, adding vision, computer-use, and tool-calling capabilities alongside improvements to long-context understanding and long-horizon agent tasks. Tencent says model weights and system cards will be released in the coming days, so the announcement does not establish that weights are already available.",
+   "source_url": "https://hy.tencent.ai/research/hy4",
+   "published_date": "2026-11-04",
+   "company": "Tencent",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://hy.tencent.ai/research/hy4"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "3d4310f18308",
+   "title": "Ohio voters pass data-center bans or restrictions in at least 14 municipalities",
+   "summary": "At least 14 Ohio municipalities voted for data-center bans or other restrictions in November 3 local elections, according to preliminary reporting. The results signal growing local constraints on infrastructure expansion that may affect AI data-center development, though the reported figures are not final certified totals.",
+   "source_url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "published_date": "2026-11-04",
+   "company": "Not applicable — local election outcomes",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "a30e1356608b",
+   "title": "Harvey and Jus Mundi integrate arbitration research agent Jus AI into Harvey",
+   "summary": "Harvey and Jus Mundi announced a partnership integrating Jus Mundi’s specialized legal-research agent, Jus AI, into Harvey’s Assistant, Agents, Vault, and Workflows. The integration brings arbitration-focused research grounded in Jus Mundi’s database into Harvey’s enterprise legal AI tools.",
+   "source_url": "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership",
+   "published_date": "2026-11-04",
+   "company": "Harvey and Jus Mundi",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "a5fbc78bdcbf",
+   "title": "CrowdStrike adds detection for abnormal enterprise-agent behavior",
+   "summary": "CrowdStrike announced Agent Insider Threat Detection to identify abnormal enterprise-agent behavior, including deviations that do not violate an explicit rule, and route them into coordinated investigations. The release also says coordinated multi-agent investigations are now generally available, expanding security monitoring for autonomous agents.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider",
+   "published_date": "2026-11-04",
+   "company": "CrowdStrike",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "af27b2226122",
+   "title": "CrowdStrike announces an AI kill switch to stop rogue agents",
+   "summary": "CrowdStrike introduced an AI Kill Switch in Falcon Guardian to let defenders terminate agents that act outside their intended behavior, block them from relaunching, and cut off enterprise network access. The capability adds a runtime control aimed at keeping enterprise agent deployments under human oversight.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety",
+   "published_date": "2026-11-03",
+   "company": "CrowdStrike",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "d2730615b26e",
+   "title": "Traversal raises $120 million in Series B at a $1 billion valuation",
+   "summary": "Traversal announced a $120 million Series B at a $1 billion valuation to expand its AI site-reliability engineering work. The company says the funding will support its effort to automate incident investigation and move toward self-driving production systems, making this a substantial financing round in enterprise AI.",
+   "source_url": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+   "published_date": "2026-11-03",
+   "company": "Traversal",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "d4e825ae51fb",
+   "title": "Amdocs acquires EIS for about $340 million, adding insurance technology",
+   "summary": "Amdocs acquired EIS, an insurance-technology provider with a platform spanning policy administration, billing, claims, and customer engagement, for approximately $340 million in cash. The deal marks Amdocs’ entry into insurance and adds an agentic platform to its business portfolio.",
+   "source_url": "https://www.eisgroup.com/2026/11/03/amdocs-enters-insurance-industry-through-the-acquisition-of-eis-opening-a-strategic-growth-opportunity/",
+   "published_date": "2026-11-03",
+   "company": "Amdocs",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.eisgroup.com/2026/11/03/amdocs-enters-the-insurance-industry-through-the-acquisition-of-eis-opening-a-strategic-growth-opportunity/",
+    "https://aiweekly.co/alerts/ohio-voters-reject-data-centers-across-21-ballot-measures",
+    "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+    "https://dealroom.co/news/169307-e2e-raises-7m-to-build-open-source-testing-for-the-ai-coding-era/",
+    "https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/",
+    "https://www.dispatch.com/story/news/politics/elections/2026/11/03/many-ohio-areas-are-voting-on-limits-on-data-center-sizes-this-election/92475306007/",
+    "https://www.newsfromthestates.com/article/voters-across-country-reject-data-centers",
+    "https://www.unite.ai/traversal-raises-120m-series-b-at-1b-valuation-to-expand-ai-sre/",
+    "https://www.commondreams.org/news/data-center-ballot-measures",
+    "https://explainx.ai/blog/ohio-voters-pass-data-center-bans-14-municipalities-trenton-80-percent-grove-city-results-2026"
+   ],
+   "briefing": "2026-11-05"
+  },
   {
    "id": "3e4d0e3c2142",
    "title": "CrowdStrike to acquire Dreadnode for AI security testing",

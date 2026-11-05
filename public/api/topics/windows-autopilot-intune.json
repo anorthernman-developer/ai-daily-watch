@@ -2,8 +2,22 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 9,
+ "count": 10,
  "items": [
+  {
+   "id": "bba4d966c797",
+   "title": "Microsoft details Windows 11 performance and memory improvements for 8 GB PCs",
+   "summary": "Microsoft says Windows 11 has memory and performance improvements for 8 GB PCs, reporting up to 20% greater responsiveness and up to 40% faster multitasking in a lab test. The changes include reduced memory use for idle experiences; Microsoft says the latest improvements require Windows 11 version 26H2, build 26300.9818 or later, and notes that actual results and rollout timing may vary.",
+   "source_url": "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/"
+   ],
+   "briefing": "2026-11-05"
+  },
   {
    "id": "2eaacc869a1c",
    "title": "Report: leaked Microsoft roadmap outlines four tiers of Windows AI hardware",

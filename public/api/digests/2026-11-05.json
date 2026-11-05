@@ -1,0 +1,404 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T07:03:51+00:00",
+ "count": 27,
+ "items": [
+  {
+   "id": "314fc085f9f3",
+   "title": "Microsoft brings GPT-5.6 and expanded Copilot app integration to government clouds",
+   "summary": "Microsoft announced expanded Copilot capabilities for U.S. Government cloud customers, including GPT-5.6 in GCC, GCC-H, and DoD and editing with Copilot in Word, Excel, and PowerPoint across those environments. A simplified, chat-centered Copilot app design is available in GCC and GCC-H, with DoD availability to follow.",
+   "source_url": "https://techcommunity.microsoft.com/blog/publicsectorblog/copilot-for-us-government-delivers-advanced-models-app-integration/4569928",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/publicsectorblog/copilot-for-us-government-delivers-advanced-models-app-integration/4569928"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "443198113287",
+   "title": "Microsoft postpones default usage-based billing for new Copilot Business CSP subscriptions",
+   "summary": "Microsoft moved the planned default-on date for usage-based billing on new Microsoft 365 Copilot Business subscriptions purchased through CSP from December 1, 2026 to FY27 Q3 (January–March 2027). The delay gives partners additional preparation time and changes when new subscriptions may begin using pay-as-you-go billing by default.",
+   "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "pricing/licensing",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "aa98e16bf4f7",
+   "title": "SharePoint tools in Work IQ enter public preview for agents",
+   "summary": "Microsoft opened a public preview of more than 60 native SharePoint operations through Work IQ, allowing agents to find, understand, create, organize, and share SharePoint content. The tools are also rolling out to Copilot Studio, expanding the SharePoint work agents can perform.",
+   "source_url": "https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "bba4d966c797",
+   "title": "Microsoft details Windows 11 performance and memory improvements for 8 GB PCs",
+   "summary": "Microsoft says Windows 11 has memory and performance improvements for 8 GB PCs, reporting up to 20% greater responsiveness and up to 40% faster multitasking in a lab test. The changes include reduced memory use for idle experiences; Microsoft says the latest improvements require Windows 11 version 26H2, build 26300.9818 or later, and notes that actual results and rollout timing may vary.",
+   "source_url": "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "312818ffb3ea",
+   "title": "WinApp VS Code extension v0.4 previews project-aware WinUI XAML IntelliSense",
+   "summary": "Microsoft released WinApp VS Code extension v0.4, adding an experimental preview of project-aware IntelliSense for WinUI XAML, a command to create WinUI apps, and the ability to build and run projects from VS Code. The extension is available in public preview, with full project-aware support for C# WinUI projects requiring the .NET 10 SDK.",
+   "source_url": "https://devblogs.microsoft.com/ifdef-windows/xaml-intellisense-support-in-winapp-extension/",
+   "published_date": "2026-11-03",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/ifdef-windows/xaml-intellisense-support-in-winapp-extension/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "6d089825cbcc",
+   "title": "Dependabot version updates add support for Agent Package Manager",
+   "summary": "Dependabot now supports version updates for Agent Package Manager dependencies, opening pull requests for supported Git dependencies declared in apm.yml and regenerating apm.lock.yaml when present. The feature is generally available on github.com across plans; this update does not include security updates.",
+   "source_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "85239c697b5c",
+   "title": "Copilot usage API separates BYOK and enterprise custom-model usage",
+   "summary": "GitHub updated the Copilot usage metrics API to separately identify local BYOK activity and requests using enterprise custom models. The added reporting helps organizations review model usage and distinguish provider-billed or local-model use from Copilot-hosted usage; existing totals remain unchanged.",
+   "source_url": "https://github.blog/changelog/2026-11-04-byok-and-enterprise-custom-models-in-the-copilot-usage-api/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-04-byok-and-enterprise-custom-models-in-the-copilot-usage-api/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "e9c00f9aa43c",
+   "title": "Dependabot adds support for Python 3.15",
+   "summary": "Dependabot now supports Python 3.15, allowing projects using the new version to continue receiving updates. GitHub says support is available to all github.com users and will be included in GitHub Enterprise Server 3.24.",
+   "source_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15/",
+   "published_date": "2026-11-03",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "56787cc309ca",
+   "title": "Visual Studio Code 1.145 adds remote-agent previews, cron schedules, and chat controls",
+   "summary": "VS Code 1.145 adds the ability to preview apps and use canvases from remote agent sessions in the Agents window, along with cron-based automation schedules and chat-noise controls. The stable release was dated November 4, 2026.",
+   "source_url": "https://code.visualstudio.com/updates/v1_145",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://code.visualstudio.com/updates/v1_145"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "77acfe66a339",
+   "title": "Claude Code product lead Cat Wu announces her departure from Anthropic",
+   "summary": "Cat Wu announced that the previous Friday was her last day at Anthropic, where she led product for Claude Code. She thanked the teams and users and reflected on the product's growth; her post did not give a reason for leaving.",
+   "source_url": "https://x.com/_catwu/status/2117731934340337676",
+   "published_date": "2026-11-03",
+   "company": "Anthropic",
+   "category": "leadership",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/_catwu/status/2117731934340337676",
+    "https://aihot.news/items/abv1492kvkjfo2kba1wzbxf1y",
+    "https://x.com/dotey/status/2117739064455463086",
+    "https://cellcog.ai/blog/cat-wu-leaves-anthropic-claude-code/",
+    "https://fourweekmba.com/ai-3-of-anthropics-4-named-exits-in-60-days-were-claude-code",
+    "https://www.newsbytesapp.com/news/science/claude-code-team-sees-3-exits-as-anthropic-prepares-ipo/story",
+    "https://www.indiatoday.in/technology/news/story/anthropic-loses-3-claude-code-team-members-just-weeks-before-its-mega-ipo-3031942-2026-11-04",
+    "https://x.com/KinGao476942/status/2117832583711236160",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "https://x.com/AGTPinsights/status/2117854179418861786"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "7f63b77af962",
+   "title": "Claude adds auto-connect for plugins using Claude as a trusted issuer",
+   "summary": "Anthropic announced a beta that lets compatible MCP-server plugins auto-connect when users log in to Claude, reducing repeated sign-in and authorization steps. ClaudeDevs says the feature is in beta for Team and Enterprise plans.",
+   "source_url": "https://x.com/ClaudeDevs/status/2117680635561312732",
+   "published_date": "2026-11-03",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2117680635561312732"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "db8bf548d798",
+   "title": "Anthropic adds text watermarking for Claude Mythos 5, Opus 4.7, and Sonnet 4.6",
+   "summary": "Anthropic's November 3 platform notes say text generated by Claude Mythos 5, Opus 4.7, and Sonnet 4.6 carries its text watermark on supported platforms. The notes caution that Sonnet 4.6 outputs may not carry the watermark when temperature, top_p, or top_k is set to a non-default value.",
+   "source_url": "https://platform.claude.com/docs/en/release-notes/overview",
+   "published_date": "2026-11-03",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://platform.claude.com/docs/en/release-notes/overview"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "0abf6b77f0b5",
+   "title": "Adobe's CX Enterprise Coworker becomes available in Claude",
+   "summary": "Adobe announced that its CX Enterprise Coworker is now available within Claude, alongside other AI platforms, bringing customer-experience orchestration workflows into tools enterprises already use. Adobe also announced pre-built MCP connectors for integrating with partner systems.",
+   "source_url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms",
+   "published_date": "2026-11-04",
+   "company": "Adobe and Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "6385d8e47a02",
+   "title": "Claude Code v2.1.318 adds mod-consent records and sign-in expiry details",
+   "summary": "Claude Code v2.1.318 records users’ answers to prompts about enabling session-written mods and exposes stored sign-in expiry in `claude auth status` and `claude -p` JSON results, with warnings before expiry. It also adds `assume_role` support for certain Claude apps gateway AWS upstreams and an effort option for mod model forks.",
+   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.318"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "5773ad34de5f",
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "summary": "OpenAI appointed Jill Hazelbaker as Chief Corporate Affairs Officer, where she will lead global communications and corporate positioning. She will work with company leaders on public understanding of AI and trust in OpenAI’s mission.",
+   "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+   "published_date": "2026-11-03",
+   "company": "OpenAI",
+   "category": "leadership",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+    "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai?leadSource=uverify%20wall"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "647d6f84febf",
+   "title": "OpenAI to acquire Pierre Computer Company to expand Codex’s developer tools",
+   "summary": "OpenAI announced plans to acquire Pierre Computer Company, whose Code Storage and other developer tools will expand Codex’s code-building, navigation, and review capabilities. The acquisition has not yet closed and remains subject to customary closing conditions, including regulatory approvals.",
+   "source_url": "https://openai.com/index/openai-to-acquire-pierre/",
+   "published_date": "2026-11-04",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/openai-to-acquire-pierre/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "75679f5aa60b",
+   "title": "Daybreak Red with GPT-5.6 Cyber becomes available in AWS GovCloud",
+   "summary": "OpenAI made GPT-5.6 Cyber available to approved customers in AWS GovCloud (US-East) through Daybreak Red and Amazon Bedrock. The expansion gives eligible government security teams a route to use the model in AWS environments supporting critical missions.",
+   "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "published_date": "2026-11-04",
+   "company": "OpenAI",
+   "category": "product launch",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/daybreak-red-aws-govcloud"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "7b04a568c5ad",
+   "title": "DeepMind adds cheminformatics skills to Antigravity for drug discovery",
+   "summary": "Google DeepMind introduced Cheminformatics Skills for Google Antigravity, demonstrating an agent-assisted drug-discovery workflow involving compound searches, molecular analysis, potency modeling, and proposed macrocycles with synthesis routes. The post says the workflow can accelerate work that previously took multiple days, but stresses that computational designs remain hypotheses requiring experimental validation.",
+   "source_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "published_date": "2026-11-03",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "fac87606c7e9",
+   "title": "Google reports research findings on Guided Learning and student outcomes",
+   "summary": "Google reported two studies of Guided Learning in student and classroom settings. In a randomized trial with more than 300 University of Tokyo students, those with Guided Learning improved test scores by 8.1 percentage points versus 5.3 points for students using standard web tools, which Google described as 1.5× higher learning gains in one study session.",
+   "source_url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+   "published_date": "2026-11-03",
+   "company": "Google",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini API adds voice remixing for Gemini 3.8 TTS",
+   "summary": "Google released Voice remixing for Gemini 3.8 TTS. The feature lets users modify an existing prebuilt or designed voice with natural-language instructions, create an independent stored voice, and then use it for speech generation.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-04",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "af27b2226122",
+   "title": "CrowdStrike announces an AI kill switch to stop rogue agents",
+   "summary": "CrowdStrike introduced an AI Kill Switch in Falcon Guardian to let defenders terminate agents that act outside their intended behavior, block them from relaunching, and cut off enterprise network access. The capability adds a runtime control aimed at keeping enterprise agent deployments under human oversight.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety",
+   "published_date": "2026-11-03",
+   "company": "CrowdStrike",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "d2730615b26e",
+   "title": "Traversal raises $120 million in Series B at a $1 billion valuation",
+   "summary": "Traversal announced a $120 million Series B at a $1 billion valuation to expand its AI site-reliability engineering work. The company says the funding will support its effort to automate incident investigation and move toward self-driving production systems, making this a substantial financing round in enterprise AI.",
+   "source_url": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+   "published_date": "2026-11-03",
+   "company": "Traversal",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "d4e825ae51fb",
+   "title": "Amdocs acquires EIS for about $340 million, adding insurance technology",
+   "summary": "Amdocs acquired EIS, an insurance-technology provider with a platform spanning policy administration, billing, claims, and customer engagement, for approximately $340 million in cash. The deal marks Amdocs’ entry into insurance and adds an agentic platform to its business portfolio.",
+   "source_url": "https://www.eisgroup.com/2026/11/03/amdocs-enters-insurance-industry-through-the-acquisition-of-eis-opening-a-strategic-growth-opportunity/",
+   "published_date": "2026-11-03",
+   "company": "Amdocs",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.eisgroup.com/2026/11/03/amdocs-enters-the-insurance-industry-through-the-acquisition-of-eis-opening-a-strategic-growth-opportunity/",
+    "https://aiweekly.co/alerts/ohio-voters-reject-data-centers-across-21-ballot-measures",
+    "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+    "https://dealroom.co/news/169307-e2e-raises-7m-to-build-open-source-testing-for-the-ai-coding-era/",
+    "https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/",
+    "https://www.dispatch.com/story/news/politics/elections/2026/11/03/many-ohio-areas-are-voting-on-limits-on-data-center-sizes-this-election/92475306007/",
+    "https://www.newsfromthestates.com/article/voters-across-country-reject-data-centers",
+    "https://www.unite.ai/traversal-raises-120m-series-b-at-1b-valuation-to-expand-ai-sre/",
+    "https://www.commondreams.org/news/data-center-ballot-measures",
+    "https://explainx.ai/blog/ohio-voters-pass-data-center-bans-14-municipalities-trenton-80-percent-grove-city-results-2026"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "07dbf5f156f1",
+   "title": "Tencent releases Hy4 with vision and long-horizon agent capabilities",
+   "summary": "Tencent released Hy4, adding vision, computer-use, and tool-calling capabilities alongside improvements to long-context understanding and long-horizon agent tasks. Tencent says model weights and system cards will be released in the coming days, so the announcement does not establish that weights are already available.",
+   "source_url": "https://hy.tencent.ai/research/hy4",
+   "published_date": "2026-11-04",
+   "company": "Tencent",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://hy.tencent.ai/research/hy4"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "3d4310f18308",
+   "title": "Ohio voters pass data-center bans or restrictions in at least 14 municipalities",
+   "summary": "At least 14 Ohio municipalities voted for data-center bans or other restrictions in November 3 local elections, according to preliminary reporting. The results signal growing local constraints on infrastructure expansion that may affect AI data-center development, though the reported figures are not final certified totals.",
+   "source_url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "published_date": "2026-11-04",
+   "company": "Not applicable — local election outcomes",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "a30e1356608b",
+   "title": "Harvey and Jus Mundi integrate arbitration research agent Jus AI into Harvey",
+   "summary": "Harvey and Jus Mundi announced a partnership integrating Jus Mundi’s specialized legal-research agent, Jus AI, into Harvey’s Assistant, Agents, Vault, and Workflows. The integration brings arbitration-focused research grounded in Jus Mundi’s database into Harvey’s enterprise legal AI tools.",
+   "source_url": "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership",
+   "published_date": "2026-11-04",
+   "company": "Harvey and Jus Mundi",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership"
+   ],
+   "briefing": "2026-11-05"
+  },
+  {
+   "id": "a5fbc78bdcbf",
+   "title": "CrowdStrike adds detection for abnormal enterprise-agent behavior",
+   "summary": "CrowdStrike announced Agent Insider Threat Detection to identify abnormal enterprise-agent behavior, including deviations that do not violate an explicit rule, and route them into coordinated investigations. The release also says coordinated multi-agent investigations are now generally available, expanding security monitoring for autonomous agents.",
+   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider",
+   "published_date": "2026-11-04",
+   "company": "CrowdStrike",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider"
+   ],
+   "briefing": "2026-11-05"
+  }
+ ]
+}
