@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T07:03:50+00:00",
+ "count": 24,
+ "items": [
+  {
+   "title": "Microsoft announces fair-use limits for additional Copilot Chat features",
+   "summary": "Microsoft is introducing fair-use limits for additional Copilot Chat features for unlicensed users in commercial tenants, across web, desktop, and mobile. The change began November 2 for organizations with 2,000 or fewer Microsoft 365 seats and is scheduled to begin November 9 for larger organizations; Copilot Chat remains included with Microsoft 365 subscriptions, with no admin action required.",
+   "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "pricing/licensing",
+   "citations": [
+    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-11-05",
+   "id": "443198113287"
+  },
+  {
+   "title": "Azure AI Agents azd extension 1.0.0 adds local A2A execution and skill optimization",
+   "summary": "Version 1.0.0 of Microsoft's Azure AI Agents azd extension adds terminal-only local A2A 0.3 agent execution, including JSON or streaming output. It also adds trace-driven skill optimization and reporting, with generated skills requiring deliberate inspection rather than being automatically applied or deployed.",
+   "source_url": "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-11-05",
+   "id": "184f1511d9d0"
+  },
+  {
+   "title": "Microsoft brings local Qwen3.8-27B agentic coding to Foundry Local",
+   "summary": "Microsoft describes running Qwen3.8-27B locally with Foundry Local and connecting it to GitHub Copilot for on-device coding workflows. The announcement offers a local alternative emphasizing privacy, offline availability, and predictable inference costs, and includes instructions to load the model.",
+   "source_url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-11-05",
+   "id": "f4483e1a93dd"
+  },
+  {
+   "title": "Microsoft details local coding-AI advances for Windows PCs",
+   "summary": "Microsoft describes how low-bit quantization and systems optimizations make its MAI-Code-1.1-Flash model more practical for local coding workloads on Windows PCs. The post says the 53.0 GiB checkpoint is available through Microsoft Foundry and as a local model in GitHub Copilot on RTX Spark, enabling coding tasks to run on-device rather than relying entirely on per-token cloud usage.",
+   "source_url": "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "research",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-11-05",
+   "id": "bdafaee65f88"
+  },
+  {
+   "title": "CodeQL 2.27.4 improves query accuracy, metadata, and CLI security checks",
+   "summary": "CodeQL 2.27.4 improves query accuracy across several languages, corrects query metadata, and adds security checks when bundling or publishing packs. The CLI also directs JVM warnings and initialization errors to standard error, preventing interference with machine-readable output.",
+   "source_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-05",
+   "id": "03daee1e1f91"
+  },
+  {
+   "title": "GitHub Copilot plans to end support for JetBrains IDEs 2025.2.x",
+   "summary": "Microsoft announced that the GitHub Copilot plugin will end support for JetBrains IDEs version 2025.2.x in the coming months, moving the minimum supported version to 2025.3.x. Existing installations are not expected to be immediately disabled, but users on affected versions may lose compatibility with future plugin updates and will no longer receive new features, fixes, or performance improvements for that IDE version.",
+   "source_url": "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "policy/safety",
+   "citations": [
+    "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-05",
+   "id": "76eb37ed4a26"
+  },
+  {
+   "title": "Intelligent Terminal 0.3 adds agent-focused sidebar, session search, and headless mode",
+   "summary": "Intelligent Terminal 0.3 adds a sidebar for managing tabs and agent sessions, global search, agent filtering, and live status indicators. It can also keep selected tabs running in headless mode after the terminal window closes, and automatically detects supported agent CLIs for the new-tab menu.",
+   "source_url": "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-05",
+   "id": "ac59300a8940"
+  },
+  {
+   "title": "GitHub Copilot becomes available in Xcode’s built-in coding assistant",
+   "summary": "GitHub Copilot is now available in public preview within Xcode’s built-in coding assistant, starting with Xcode 27.3 beta. The separate GitHub Copilot for Xcode extension remains available, giving developers a native alternative rather than requiring migration.",
+   "source_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-05",
+   "id": "e7e6a9a6868c"
+  },
+  {
+   "title": "Claude Code reduces background subagent status-update usage",
+   "summary": "Claude Code now uses Haiku 5.5 to write background subagent status updates from short notes instead of rereading the full conversation, which Anthropic says makes each update cost about 99% less. Anthropic estimates sessions with background subagents use about 5% less of the usage limit overall; the change is available to most Pro, Max, and Ultra users and all Team and Enterprise users on v2.1.316 or later.",
+   "source_url": "https://x.com/ClaudeDevs/status/2118063143167693011",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "feature update",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2118063143167693011",
+    "https://x.com/ClaudeDevs/status/2118063144572772627"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-05",
+   "id": "080b2b11b196"
+  },
+  {
+   "title": "Anthropic reports first 3D structure of a prokaryotic vault particle with Claude",
+   "summary": "Anthropic’s biology team used Claude to help identify, produce, isolate, and map a vault particle derived from a bacteriophage, reporting the first 3D structure of a vault particle found in prokaryotic cells. The work demonstrates Claude’s role across several stages of a biology research project, although the biological function of vaults remains unknown.",
+   "source_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "research",
+   "citations": [
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-05",
+   "id": "14329e9984c2"
+  },
+  {
+   "title": "Anthropic adds partner agents and products to Claude Marketplace",
+   "summary": "Anthropic added partner agents and products to Claude Marketplace in security, developer infrastructure, creative work, and productivity. Eligible enterprise customers can apply part of their committed Anthropic spend to the offerings, and the marketplace now has more than 25 partner agents and products.",
+   "source_url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "citations": [
+    "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-05",
+   "id": "58a090b4c911"
+  },
+  {
+   "title": "Cat Wu joins OpenAI to lead Core Products product management",
+   "summary": "Cat Wu announced that she is joining OpenAI to lead product management for Core Products, following her departure from Anthropic. This adds a concrete destination and role to the previously reported exit of a Claude Code product leader.",
+   "source_url": "https://x.com/_catwu/status/2118137612577968402",
+   "published_date": "2026-11-05",
+   "company": "Anthropic and OpenAI",
+   "category": "leadership",
+   "citations": [
+    "https://x.com/_catwu/status/2118137612577968402"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-05",
+   "id": "6d367813eff2"
+  },
+  {
+   "title": "SpecterOps joins OpenAI Partner Network to bring Daybreak Red to enterprise security teams",
+   "summary": "SpecterOps announced that it has joined the OpenAI Partner Network and will bring Daybreak Red capabilities to enterprise customers through the Daybreak Defense Network. Its announced services combine OpenAI GPT Cyber Models with security practitioners’ expertise for authorized assessments and security testing.",
+   "source_url": "https://specterops.io/news/specterops-joins-openai-partner-network-to-bring-daybreak-red-capabilities-to-support-enterprise-security-teams/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI and SpecterOps",
+   "category": "partnership/deal",
+   "citations": [
+    "https://specterops.io/news/specterops-joins-openai-partner-network-to-bring-daybreak-red-capabilities-to-support-enterprise-security-teams/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-11-05",
+   "id": "06283e85a69d"
+  },
+  {
+   "title": "OpenAI sets out community commitments and a policy blueprint for AI infrastructure",
+   "summary": "OpenAI published a National Community Compact for future compute campuses it owns and operates and a policy blueprint proposing greater community input, protection from new costs, and broader sharing of AI infrastructure’s economic benefits. The commitments and proposals address local accountability and the impacts of building and powering data centers.",
+   "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "citations": [
+    "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-11-05",
+   "id": "358ae6ff989f"
+  },
+  {
+   "title": "Google introduces new Gemini capabilities for its Agentic Data Cloud",
+   "summary": "Google announced that Gemini can work directly on its borderless Lakehouse, allowing business users to query records across clouds using natural language. The post also describes Gemini agents that can generate and troubleshoot data-engineering workflows and create operational reports, extending Gemini’s enterprise data and analytics capabilities.",
+   "source_url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
+   "published_date": "2026-11-04",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-05",
+   "id": "b93e016ff630"
+  },
+  {
+   "title": "Google DeepMind and Singapore’s GovTech launch AntiScam Pango beta",
+   "summary": "Singapore’s GovTech launched the AntiScam Pango Android beta in collaboration with Google DeepMind, following their work on an on-device scam-detection model. The app flags suspicious messages while keeping private conversations on the user’s device, applying the research in a public-facing tool.",
+   "source_url": "https://www.tech.gov.sg/media/govtech-launches-antiscam-pango-beta-to-help-users-spot-suspicious-scam-messages-/",
+   "published_date": "2026-11-05",
+   "company": "Google DeepMind",
+   "category": "product launch",
+   "citations": [
+    "https://www.tech.gov.sg/media/govtech-launches-antiscam-pango-beta-to-help-users-spot-suspicious-scam-messages-/",
+    "https://www.straitstimes.com/tech/new-govtech-google-deepmind-app-flags-potential-scams-by-analysing-incoming-messages",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-05",
+   "id": "7f9adb8d6424"
+  },
+  {
+   "title": "Gemini API expands Office and OpenDocument inputs and function-response files",
+   "summary": "The Gemini API now accepts additional Office and OpenDocument inputs, including legacy PPT, ODP and ODS files, and adds page-image processing for legacy DOC files. Function responses can also return more document, audio and video types, and can use file URIs instead of inline bytes—expanding the file formats developers can use in multimodal workflows.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-05",
+   "id": "80a567fdb16f"
+  },
+  {
+   "title": "UK says EU AI Act will apply narrowly to AI-integrated goods in Northern Ireland",
+   "summary": "The UK Government stated that the EU AI Act will apply in Northern Ireland only in a limited, targeted manner, focused on physical products with closely integrated AI systems. The statement distinguishes this scope from wider standalone software and general-purpose AI regulation, which it says are not covered by the Northern Ireland application described.",
+   "source_url": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455",
+   "published_date": "2026-11-04",
+   "company": "UK Government",
+   "category": "policy/safety",
+   "citations": [
+    "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "f3c39a0cfade"
+  },
+  {
+   "title": "Preferred Networks releases open-weight PLaMo 3 Translate models",
+   "summary": "PFN released four open-weight PLaMo 3 Translate models, ranging from 0.8B to 31B parameters, for translation across 53 languages. They can run locally on devices or internal servers, supporting offline translation and keeping source text and output off external cloud servers; use is subject to the PLaMo Community License.",
+   "source_url": "https://www.preferred.jp/en/news/pr20261105",
+   "published_date": "2026-11-05",
+   "company": "Preferred Networks (PFN)",
+   "category": "model release",
+   "citations": [
+    "https://www.preferred.jp/en/news/pr20261105"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "5e2f66dde57f"
+  },
+  {
+   "title": "Mistral AI acquires AI coding-tools startup SkipLabs",
+   "summary": "Mistral AI acquired SkipLabs, a French startup whose tools aim to make AI code generation faster, more reliable, and more secure; the financial terms were not disclosed. Dealroom reports that SkipLabs' engineers and scientists will join a team led by Mistral co-founder and chief scientist Guillaume Lample, extending Mistral's push beyond model development alone.",
+   "source_url": "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026/",
+   "published_date": "2026-11-05",
+   "company": "Mistral AI and SkipLabs",
+   "category": "partnership/deal",
+   "citations": [
+    "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "8d264e597324"
+  },
+  {
+   "title": "Sand.ai raises $200 million in Series A extension",
+   "summary": "Video-generation startup Sand.ai raised $200 million in a Series A extension, bringing its 2026 fundraising total to $300 million over 10 months; Dealroom reports the round puts it in unicorn territory. The company plans to use the capital for video-model research, training and inference infrastructure, product development, and overseas expansion.",
+   "source_url": "https://dealroom.co/news/169818-sand-ai-raises-200m-series-a-extension-joins-unicorn-ranks/",
+   "published_date": "2026-11-05",
+   "company": "Sand.ai",
+   "category": "partnership/deal",
+   "citations": [
+    "https://dealroom.co/news/169818-sand-ai-raises-200m-series-a-extension-joins-unicorn-ranks/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "a04c6e266a4a"
+  },
+  {
+   "title": "Capgemini finds 59% of financial firms pilot or deploy multi-agent AI",
+   "summary": "Capgemini's World Cloud Report for Financial Services 2027 says 59% of financial institutions surveyed are piloting or deploying multi-agent AI in production, while only 10% have achieved enterprise-wide orchestration. The finding points to rapid experimentation and deployment, but also a substantial gap between pilots and coordinated autonomous operation at scale.",
+   "source_url": "https://www.capgemini.com/us-en/news/press-releases/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value/",
+   "published_date": "2026-11-05",
+   "company": "Capgemini Research Institute",
+   "category": "research",
+   "citations": [
+    "https://www.capgemini.com/us-en/news/press-releases/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "b194a1f97f2d"
+  },
+  {
+   "title": "Chai Discovery and Roche partner on AI-driven drug discovery",
+   "summary": "Chai Discovery and Roche announced a collaboration to use Chai's AI models and platform in multiple drug-discovery programs across Roche therapeutic areas. The announcement extends the use of AI-based molecular design in pharmaceutical research, although it does not specify financial terms or name the programs.",
+   "source_url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery",
+   "published_date": "2026-11-05",
+   "company": "Chai Discovery and Roche",
+   "category": "partnership/deal",
+   "citations": [
+    "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "bb4fd8313489"
+  },
+  {
+   "title": "Salesforce reports 21-fold Agentforce Coworker usage growth and expands the product",
+   "summary": "Salesforce announced an expansion of Agentforce Coworker after reporting 21-fold usage growth in three months. New capabilities include connections to Google Workspace and Microsoft 365, broader availability across work environments, and a $50-per-user monthly pricing option.",
+   "source_url": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/",
+   "published_date": "2026-11-05",
+   "company": "Salesforce",
+   "category": "feature update",
+   "citations": [
+    "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "c33cf8e11423"
+  }
+ ]
+}

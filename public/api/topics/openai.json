@@ -2,8 +2,36 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 22,
+ "count": 24,
  "items": [
+  {
+   "id": "06283e85a69d",
+   "title": "SpecterOps joins OpenAI Partner Network to bring Daybreak Red to enterprise security teams",
+   "summary": "SpecterOps announced that it has joined the OpenAI Partner Network and will bring Daybreak Red capabilities to enterprise customers through the Daybreak Defense Network. Its announced services combine OpenAI GPT Cyber Models with security practitioners’ expertise for authorized assessments and security testing.",
+   "source_url": "https://specterops.io/news/specterops-joins-openai-partner-network-to-bring-daybreak-red-capabilities-to-support-enterprise-security-teams/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI and SpecterOps",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://specterops.io/news/specterops-joins-openai-partner-network-to-bring-daybreak-red-capabilities-to-support-enterprise-security-teams/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "358ae6ff989f",
+   "title": "OpenAI sets out community commitments and a policy blueprint for AI infrastructure",
+   "summary": "OpenAI published a National Community Compact for future compute campuses it owns and operates and a policy blueprint proposing greater community input, protection from new costs, and broader sharing of AI infrastructure’s economic benefits. The commitments and proposals address local accountability and the impacts of building and powering data centers.",
+   "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI",
+   "category": "policy/safety",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "647d6f84febf",
    "title": "OpenAI to acquire Pierre Computer Company to expand Codex’s developer tools",

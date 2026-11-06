@@ -2,8 +2,36 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 1,
+ "count": 3,
  "items": [
+  {
+   "id": "184f1511d9d0",
+   "title": "Azure AI Agents azd extension 1.0.0 adds local A2A execution and skill optimization",
+   "summary": "Version 1.0.0 of Microsoft's Azure AI Agents azd extension adds terminal-only local A2A 0.3 agent execution, including JSON or streaming output. It also adds trace-driven skill optimization and reporting, with generated skills requiring deliberate inspection rather than being automatically applied or deployed.",
+   "source_url": "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "f4483e1a93dd",
+   "title": "Microsoft brings local Qwen3.8-27B agentic coding to Foundry Local",
+   "summary": "Microsoft describes running Qwen3.8-27B locally with Foundry Local and connecting it to GitHub Copilot for on-device coding workflows. The announcement offers a local alternative emphasizing privacy, offline availability, and predictable inference costs, and includes instructions to load the model.",
+   "source_url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "093296a219e1",
    "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash reach general availability in Microsoft Foundry",

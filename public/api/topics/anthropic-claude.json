@@ -2,8 +2,65 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 24,
+ "count": 28,
  "items": [
+  {
+   "id": "6d367813eff2",
+   "title": "Cat Wu joins OpenAI to lead Core Products product management",
+   "summary": "Cat Wu announced that she is joining OpenAI to lead product management for Core Products, following her departure from Anthropic. This adds a concrete destination and role to the previously reported exit of a Claude Code product leader.",
+   "source_url": "https://x.com/_catwu/status/2118137612577968402",
+   "published_date": "2026-11-05",
+   "company": "Anthropic and OpenAI",
+   "category": "leadership",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/_catwu/status/2118137612577968402"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "080b2b11b196",
+   "title": "Claude Code reduces background subagent status-update usage",
+   "summary": "Claude Code now uses Haiku 5.5 to write background subagent status updates from short notes instead of rereading the full conversation, which Anthropic says makes each update cost about 99% less. Anthropic estimates sessions with background subagents use about 5% less of the usage limit overall; the change is available to most Pro, Max, and Ultra users and all Team and Enterprise users on v2.1.316 or later.",
+   "source_url": "https://x.com/ClaudeDevs/status/2118063143167693011",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2118063143167693011",
+    "https://x.com/ClaudeDevs/status/2118063144572772627"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "14329e9984c2",
+   "title": "Anthropic reports first 3D structure of a prokaryotic vault particle with Claude",
+   "summary": "Anthropic’s biology team used Claude to help identify, produce, isolate, and map a vault particle derived from a bacteriophage, reporting the first 3D structure of a vault particle found in prokaryotic cells. The work demonstrates Claude’s role across several stages of a biology research project, although the biological function of vaults remains unknown.",
+   "source_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "58a090b4c911",
+   "title": "Anthropic adds partner agents and products to Claude Marketplace",
+   "summary": "Anthropic added partner agents and products to Claude Marketplace in security, developer infrastructure, creative work, and productivity. Eligible enterprise customers can apply part of their committed Anthropic spend to the offerings, and the marketplace now has more than 25 partner agents and products.",
+   "source_url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "0abf6b77f0b5",
    "title": "Adobe's CX Enterprise Coworker becomes available in Claude",

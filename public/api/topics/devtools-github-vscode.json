@@ -2,8 +2,64 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 39,
+ "count": 43,
  "items": [
+  {
+   "id": "03daee1e1f91",
+   "title": "CodeQL 2.27.4 improves query accuracy, metadata, and CLI security checks",
+   "summary": "CodeQL 2.27.4 improves query accuracy across several languages, corrects query metadata, and adds security checks when bundling or publishing packs. The CLI also directs JVM warnings and initialization errors to standard error, preventing interference with machine-readable output.",
+   "source_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "76eb37ed4a26",
+   "title": "GitHub Copilot plans to end support for JetBrains IDEs 2025.2.x",
+   "summary": "Microsoft announced that the GitHub Copilot plugin will end support for JetBrains IDEs version 2025.2.x in the coming months, moving the minimum supported version to 2025.3.x. Existing installations are not expected to be immediately disabled, but users on affected versions may lose compatibility with future plugin updates and will no longer receive new features, fixes, or performance improvements for that IDE version.",
+   "source_url": "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "policy/safety",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "ac59300a8940",
+   "title": "Intelligent Terminal 0.3 adds agent-focused sidebar, session search, and headless mode",
+   "summary": "Intelligent Terminal 0.3 adds a sidebar for managing tabs and agent sessions, global search, agent filtering, and live status indicators. It can also keep selected tabs running in headless mode after the terminal window closes, and automatically detects supported agent CLIs for the new-tab menu.",
+   "source_url": "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "e7e6a9a6868c",
+   "title": "GitHub Copilot becomes available in Xcode’s built-in coding assistant",
+   "summary": "GitHub Copilot is now available in public preview within Xcode’s built-in coding assistant, starting with Xcode 27.3 beta. The separate GitHub Copilot for Xcode extension remains available, giving developers a native alternative rather than requiring migration.",
+   "source_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/",
+   "published_date": "2026-11-04",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "56787cc309ca",
    "title": "Visual Studio Code 1.145 adds remote-agent previews, cron schedules, and chat controls",

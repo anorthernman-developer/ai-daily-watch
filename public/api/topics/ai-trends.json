@@ -2,8 +2,106 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 45,
+ "count": 52,
  "items": [
+  {
+   "id": "5e2f66dde57f",
+   "title": "Preferred Networks releases open-weight PLaMo 3 Translate models",
+   "summary": "PFN released four open-weight PLaMo 3 Translate models, ranging from 0.8B to 31B parameters, for translation across 53 languages. They can run locally on devices or internal servers, supporting offline translation and keeping source text and output off external cloud servers; use is subject to the PLaMo Community License.",
+   "source_url": "https://www.preferred.jp/en/news/pr20261105",
+   "published_date": "2026-11-05",
+   "company": "Preferred Networks (PFN)",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.preferred.jp/en/news/pr20261105"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "8d264e597324",
+   "title": "Mistral AI acquires AI coding-tools startup SkipLabs",
+   "summary": "Mistral AI acquired SkipLabs, a French startup whose tools aim to make AI code generation faster, more reliable, and more secure; the financial terms were not disclosed. Dealroom reports that SkipLabs' engineers and scientists will join a team led by Mistral co-founder and chief scientist Guillaume Lample, extending Mistral's push beyond model development alone.",
+   "source_url": "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026/",
+   "published_date": "2026-11-05",
+   "company": "Mistral AI and SkipLabs",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "a04c6e266a4a",
+   "title": "Sand.ai raises $200 million in Series A extension",
+   "summary": "Video-generation startup Sand.ai raised $200 million in a Series A extension, bringing its 2026 fundraising total to $300 million over 10 months; Dealroom reports the round puts it in unicorn territory. The company plans to use the capital for video-model research, training and inference infrastructure, product development, and overseas expansion.",
+   "source_url": "https://dealroom.co/news/169818-sand-ai-raises-200m-series-a-extension-joins-unicorn-ranks/",
+   "published_date": "2026-11-05",
+   "company": "Sand.ai",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://dealroom.co/news/169818-sand-ai-raises-200m-series-a-extension-joins-unicorn-ranks/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "b194a1f97f2d",
+   "title": "Capgemini finds 59% of financial firms pilot or deploy multi-agent AI",
+   "summary": "Capgemini's World Cloud Report for Financial Services 2027 says 59% of financial institutions surveyed are piloting or deploying multi-agent AI in production, while only 10% have achieved enterprise-wide orchestration. The finding points to rapid experimentation and deployment, but also a substantial gap between pilots and coordinated autonomous operation at scale.",
+   "source_url": "https://www.capgemini.com/us-en/news/press-releases/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value/",
+   "published_date": "2026-11-05",
+   "company": "Capgemini Research Institute",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.capgemini.com/us-en/news/press-releases/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "bb4fd8313489",
+   "title": "Chai Discovery and Roche partner on AI-driven drug discovery",
+   "summary": "Chai Discovery and Roche announced a collaboration to use Chai's AI models and platform in multiple drug-discovery programs across Roche therapeutic areas. The announcement extends the use of AI-based molecular design in pharmaceutical research, although it does not specify financial terms or name the programs.",
+   "source_url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery",
+   "published_date": "2026-11-05",
+   "company": "Chai Discovery and Roche",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "c33cf8e11423",
+   "title": "Salesforce reports 21-fold Agentforce Coworker usage growth and expands the product",
+   "summary": "Salesforce announced an expansion of Agentforce Coworker after reporting 21-fold usage growth in three months. New capabilities include connections to Google Workspace and Microsoft 365, broader availability across work environments, and a $50-per-user monthly pricing option.",
+   "source_url": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/",
+   "published_date": "2026-11-05",
+   "company": "Salesforce",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "f3c39a0cfade",
+   "title": "UK says EU AI Act will apply narrowly to AI-integrated goods in Northern Ireland",
+   "summary": "The UK Government stated that the EU AI Act will apply in Northern Ireland only in a limited, targeted manner, focused on physical products with closely integrated AI systems. The statement distinguishes this scope from wider standalone software and general-purpose AI regulation, which it says are not covered by the Northern Ireland application described.",
+   "source_url": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455",
+   "published_date": "2026-11-04",
+   "company": "UK Government",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "07dbf5f156f1",
    "title": "Tencent releases Hy4 with vision and long-horizon agent capabilities",

@@ -2,21 +2,51 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 15,
+ "count": 17,
  "items": [
   {
+   "id": "7f9adb8d6424",
+   "title": "Google DeepMind and Singapore’s GovTech launch AntiScam Pango beta",
+   "summary": "Singapore’s GovTech launched the AntiScam Pango Android beta in collaboration with Google DeepMind, following their work on an on-device scam-detection model. The app flags suspicious messages while keeping private conversations on the user’s device, applying the research in a public-facing tool.",
+   "source_url": "https://www.tech.gov.sg/media/govtech-launches-antiscam-pango-beta-to-help-users-spot-suspicious-scam-messages-/",
+   "published_date": "2026-11-05",
+   "company": "Google DeepMind",
+   "category": "product launch",
+   "topic": "google-gemini",
+   "citations": [
+    "https://www.tech.gov.sg/media/govtech-launches-antiscam-pango-beta-to-help-users-spot-suspicious-scam-messages-/",
+    "https://www.straitstimes.com/tech/new-govtech-google-deepmind-app-flags-potential-scams-by-analysing-incoming-messages",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+   ],
+   "briefing": "2026-11-06"
+  },
+  {
    "id": "80a567fdb16f",
-   "title": "Gemini API adds voice remixing for Gemini 3.8 TTS",
-   "summary": "Google released Voice remixing for Gemini 3.8 TTS. The feature lets users modify an existing prebuilt or designed voice with natural-language instructions, create an independent stored voice, and then use it for speech generation.",
+   "title": "Gemini API expands Office and OpenDocument inputs and function-response files",
+   "summary": "The Gemini API now accepts additional Office and OpenDocument inputs, including legacy PPT, ODP and ODS files, and adds page-image processing for legacy DOC files. Function responses can also return more document, audio and video types, and can use file URIs instead of inline bytes—expanding the file formats developers can use in multimodal workflows.",
    "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-11-04",
+   "published_date": "2026-11-05",
    "company": "Google",
    "category": "feature update",
    "topic": "google-gemini",
    "citations": [
     "https://ai.google.dev/gemini-api/docs/changelog"
    ],
-   "briefing": "2026-11-05"
+   "briefing": "2026-11-06"
+  },
+  {
+   "id": "b93e016ff630",
+   "title": "Google introduces new Gemini capabilities for its Agentic Data Cloud",
+   "summary": "Google announced that Gemini can work directly on its borderless Lakehouse, allowing business users to query records across clouds using natural language. The post also describes Gemini agents that can generate and troubleshoot data-engineering workflows and create operational reports, extending Gemini’s enterprise data and analytics capabilities.",
+   "source_url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
+   "published_date": "2026-11-04",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud"
+   ],
+   "briefing": "2026-11-06"
   },
   {
    "id": "7b04a568c5ad",

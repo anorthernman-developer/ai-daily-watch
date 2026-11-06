@@ -2,8 +2,22 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 10,
+ "count": 11,
  "items": [
+  {
+   "id": "bdafaee65f88",
+   "title": "Microsoft details local coding-AI advances for Windows PCs",
+   "summary": "Microsoft describes how low-bit quantization and systems optimizations make its MAI-Code-1.1-Flash model more practical for local coding workloads on Windows PCs. The post says the 53.0 GiB checkpoint is available through Microsoft Foundry and as a local model in GitHub Copilot on RTX Spark, enabling coding tasks to run on-device rather than relying entirely on per-token cloud usage.",
+   "source_url": "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/",
+   "published_date": "2026-11-04",
+   "company": "Microsoft",
+   "category": "research",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/"
+   ],
+   "briefing": "2026-11-06"
+  },
   {
    "id": "bba4d966c797",
    "title": "Microsoft details Windows 11 performance and memory improvements for 8 GB PCs",
