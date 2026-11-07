@@ -1,0 +1,374 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T07:10:50+00:00",
+ "count": 26,
+ "items": [
+  {
+   "title": "Edge 157 upgrades the Copilot new tab page and Copilot experience",
+   "summary": "Edge 157 adds an upgraded Copilot new tab page that brings search, chat, and web exploration together, with suggested actions and curated work content. Microsoft also updated the Copilot entry points and side pane, including upgraded Copilot Voice and Vision functionality.",
+   "source_url": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel"
+   ],
+   "topic": "copilot-m365",
+   "event_date": "2026-11-06",
+   "id": "54a051ca4d2e"
+  },
+  {
+   "title": "Kling, LTX, and MiniMax video models enter public preview in Microsoft Foundry through fal partnership",
+   "summary": "Microsoft and fal are bringing Kling v3 Pro, LTX-2.5 Fast, LTX-2.5 Pro, MiniMax H3 Max, and MiniMax H3 Max Turbo to Microsoft Foundry in public preview. The post includes per-second pricing for the models, with rates varying by model, resolution, and (for Kling) audio options.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+   "published_date": "2026-11-05",
+   "company": "Microsoft (fal)",
+   "category": "roadmap/preview",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-11-06",
+   "id": "59154091f75e"
+  },
+  {
+   "title": "Microsoft Foundry extension for Azure Developer CLI reaches GA at version 1.0",
+   "summary": "Microsoft made the `microsoft.foundry` extension bundle for Azure Developer CLI generally available at version 1.0. It adds agent setup and local testing to the `azd` workflow, with agent and deployment configuration kept alongside application code.",
+   "source_url": "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
+    "https://devblogs.microsoft.com/azure-sdk/microsoft-foundry-azure-developer-cli-ga/"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-11-06",
+   "id": "9a4fc5949eeb"
+  },
+  {
+   "title": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry",
+   "summary": "Moonshot AI’s Kimi K3.1 Pro, an open-weight model for agentic work with text and image understanding and up to a 1-million-token context window, is coming to Microsoft Foundry. Microsoft lists prices of $2.30 per million input tokens, $0.23 per million cached input tokens, and $11.50 per million output tokens.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/moonshot-ai%E2%80%99s-kimi-k3-1-pro-comes-to-microsoft-foundry/4570292",
+   "published_date": "2026-11-05",
+   "company": "Microsoft (Moonshot AI)",
+   "category": "model release",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/moonshot-ai%E2%80%99s-kimi-k3-1-pro-comes-to-microsoft-foundry/4570292"
+   ],
+   "topic": "azure-foundry",
+   "event_date": "2026-11-06",
+   "id": "9d6c4be9a810"
+  },
+  {
+   "title": "Report: Windows 11 27H2 may be a major OS update as Microsoft sticks with Windows 11",
+   "summary": "The Verge reports, citing sources, that Microsoft is preparing Windows 11 version 27H2 for 2027 as a full OS swap, with a focus on quality. The report says it remains unclear whether Microsoft will use Windows 12 branding; Microsoft has not confirmed the reported plans.",
+   "source_url": "https://on.theverge.com/tech/1027621/where-is-windows-12-notepad",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "citations": [
+    "https://on.theverge.com/tech/1027621/where-is-windows-12-notepad"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-11-06",
+   "id": "2dbfd89f283e"
+  },
+  {
+   "title": "Microsoft outlines AI-era Windows vulnerability management and faster remediation",
+   "summary": "Microsoft describes expanding AI-assisted vulnerability discovery and using AI to help engineers assess impact, identify affected Windows versions, and develop remediation and backport strategies. It also highlights Windows Autopatch through Intune, staged deployments, and hotpatching as ways to reduce the time and disruption involved in deploying protections.",
+   "source_url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "security",
+   "citations": [
+    "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/"
+   ],
+   "topic": "windows-autopilot-intune",
+   "event_date": "2026-11-06",
+   "id": "cc8a3b50b532"
+  },
+  {
+   "title": "GitHub Copilot usage metrics API adds code-review details and addressed rate",
+   "summary": "GitHub added code-review feedback details to enterprise and organization Copilot usage metrics, including counts of comments evaluated and addressed and a per-repository addressed rate. The new breakdowns give administrators more information for assessing Copilot code-review outcomes.",
+   "source_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-06",
+   "id": "1e113dc2060c"
+  },
+  {
+   "title": "GitHub Copilot usage metrics API flags telemetry and version gaps",
+   "summary": "GitHub added per-user telemetry and version-compliance fields, plus aggregate counts, to Copilot usage metrics reports. The additions help administrators identify why usage reports may lack details and which users may need follow-up.",
+   "source_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps/",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "feature update",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-06",
+   "id": "76855daf2ed7"
+  },
+  {
+   "title": "Microsoft presents Copilot upgrade agent for .NET Windows Arm64 migration",
+   "summary": "Microsoft described using the GitHub Copilot upgrade agent to assess and update .NET applications for Windows Arm64, including dependencies, platform assumptions, and project configuration. Developers can review proposed changes, but the post notes that a successful build is not a substitute for runtime testing on Windows Arm64.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-06",
+   "id": "8bc7fe5b5273"
+  },
+  {
+   "title": "GitHub secret scanning adds SpaceX partnership and upgrades detectors",
+   "summary": "GitHub added SpaceX to its secret-scanning partnership program and introduced detection for a Starlink API secret. It also upgraded detectors for Alibaba, AWS, Google, OpenVSX, Pydantic Services, and Tencent with additional false-positive filtering, expanding coverage and refining alerts.",
+   "source_url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "security",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-06",
+   "id": "e6f7bb0a09ee"
+  },
+  {
+   "title": "Microsoft shows how to run agentic coding locally with Foundry Local and GitHub Copilot",
+   "summary": "Microsoft described a local agentic-coding workflow that runs Qwen3.8-27B through Foundry Local and connects it to GitHub Copilot. The on-device approach is presented as offering more privacy, predictable inference costs, and continued work without a network connection.",
+   "source_url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/"
+   ],
+   "topic": "devtools-github-vscode",
+   "event_date": "2026-11-05",
+   "id": "f4483e1a93dd"
+  },
+  {
+   "title": "Anthropic introduces Personal Finance in Claude",
+   "summary": "Anthropic introduced Personal Finance in Claude, letting users connect selected financial accounts through Plaid and ask questions about balances, transactions, and spending. The feature is read-only, and Anthropic says conversations in its Personal Finance hub are not used to train its models.",
+   "source_url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "product launch",
+   "citations": [
+    "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-06",
+   "id": "00183b004892"
+  },
+  {
+   "title": "METR estimates AI accelerated Anthropic’s model-capability progress",
+   "summary": "METR reported that Anthropic’s internal-model benchmark scores had grown at an estimated 1.9 times their prior rate since October 2025, roughly two years of historical progress in one year. METR attributed much of the acceleration to AI-assisted R&D but emphasized substantial uncertainty and possible contributions from other factors.",
+   "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "research",
+   "citations": [
+    "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-06",
+   "id": "505afecbf67a"
+  },
+  {
+   "title": "Anthropic adds security and admin controls to Claude Enterprise",
+   "summary": "Anthropic announced Claude Enterprise security and admin updates, including a security center, centralized management, and access controls such as member sign-out through the Admin API and self-managed IP allowlisting. Inference hooks that check prompts and tool calls are generally available, while the security center and centralized management are in beta.",
+   "source_url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "feature update",
+   "citations": [
+    "https://claude.com/resources/articles/claude-enterprise-security-updates"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-06",
+   "id": "94b7888e188f"
+  },
+  {
+   "title": "METR reviews Anthropic’s automated-R&D risk assessment",
+   "summary": "In a separate review of Anthropic’s August risk report, METR agreed that Anthropic’s internally deployed models posed low direct automated-R&D and acute acceleration risk as of July 15. However, METR said Anthropic’s public report understated the plausibility that acceleration was above its threshold, adding an independent safety-focused assessment alongside METR’s broader acceleration report.",
+   "source_url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "citations": [
+    "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/"
+   ],
+   "topic": "anthropic-claude",
+   "event_date": "2026-11-06",
+   "id": "ceaaf2dee423"
+  },
+  {
+   "title": "OpenAI introduces GPT-6 Cyber for authorized cybersecurity work",
+   "summary": "OpenAI introduced GPT-6 Cyber, a model designed to help security researchers find and validate vulnerabilities and develop fixes while staying within authorized scope. Initial API and Codex access is limited to approved Daybreak Red customers, with OpenAI saying it plans to expand access to that customer group.",
+   "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI",
+   "category": "model release",
+   "citations": [
+    "https://openai.com/index/introducing-gpt-6-cyber/"
+   ],
+   "topic": "openai",
+   "event_date": "2026-11-06",
+   "id": "85c5e64f7f0e"
+  },
+  {
+   "title": "Codex CLI 0.167.0 adds an agent command center and backend switching",
+   "summary": "Codex CLI 0.167.0 adds an agent command center, including unread-result indicators, and allows users to switch connected backends from the terminal session picker without losing drafts. The release also supports previewing local image attachments while composing.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+   "published_date": "2026-11-06",
+   "company": "OpenAI",
+   "category": "feature update",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+    "https://learn.chatgpt.com/docs/changelog"
+   ],
+   "topic": "openai",
+   "event_date": "2026-11-06",
+   "id": "e2baf2e1c36d"
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash comes to Google Vids with 15-second generations",
+   "summary": "Google brought Gemini Omni 1.2 Flash into Google Vids, where users can create clips up to 15 seconds and benefit from improved character consistency and vocal realism. The Workspace post says the rollout began November 5, with availability varying by account and edition.",
+   "source_url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-06",
+   "id": "47a87b6fce28"
+  },
+  {
+   "title": "Google releases Gemini Omni 1.2 Flash and announces automatic API routing from 1.1",
+   "summary": "Google made Gemini Omni 1.2 Flash generally available, adding native video generation up to 15 seconds, multi-turn editing, improved reference adherence, and 30% lower 720p pricing. The API changelog also says requests using `gemini-omni-1.1-flash` will automatically route to 1.2 at 1.2 rates beginning December 3, 2026.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "model release",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-06",
+   "id": "80a567fdb16f"
+  },
+  {
+   "title": "Google adds Gemini-powered actionable insights to Forms responses",
+   "summary": "Google introduced Gemini-powered insights in the Google Forms Responses tab. Gemini analyzes response data to surface trends and recommend next steps, using generated Python code for grounded counts, percentages, and comparisons; the post says the Rapid Release rollout had started November 2, while Scheduled Release rollout is set to start November 19.",
+   "source_url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "feature update",
+   "citations": [
+    "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html"
+   ],
+   "topic": "google-gemini",
+   "event_date": "2026-11-06",
+   "id": "b7a1abffaf42"
+  },
+  {
+   "title": "Anthropic researchers use Claude in mapping a bacteriophage vault structure",
+   "summary": "Anthropic said its biology team worked with Claude to map the first 3D structure of a vault particle from a bacteriophage, extending investigation of these little-understood protein structures into viral life. The work is a research result rather than proof of an autonomous AI discovery, and the function of vault particles remains unknown.",
+   "source_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "research",
+   "citations": [
+    "https://x.com/AnthropicAI/status/2118073665296228863",
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-05",
+   "id": "14329e9984c2"
+  },
+  {
+   "title": "Thinking Machines Lab launches Inkling 2 Small",
+   "summary": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter mixture-of-experts model with 17B active parameters, image input and reported gains in agentic coding, vision, knowledge work and reasoning. It is initially available through Tinker with closed weights; the company says it intends to publish Apache 2.0 weights after external safety testing.",
+   "source_url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "published_date": "2026-11-05",
+   "company": "Thinking Machines Lab",
+   "category": "model release",
+   "citations": [
+    "https://thinkingmachines.ai/news/inkling-2-small/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-06",
+   "id": "5eb6887e9b28"
+  },
+  {
+   "title": "Five9 agrees to acquire Level AI for about $325 million",
+   "summary": "Five9 agreed to acquire customer-experience AI company Level AI in a cash transaction valued at approximately $325 million. The deal is expected to close in 2026 subject to conditions, and Five9 says Level AI’s applications could be offered to its more than 4,000 customers.",
+   "source_url": "https://www.five9.com/news/news-releases/five9-acquire-level-ai-advancing-ai-powered-cx-platform",
+   "published_date": "2026-11-05",
+   "company": "Five9 and Level AI",
+   "category": "partnership/deal",
+   "citations": [
+    "https://www.five9.com/news/news-releases/five9-acquire-level-ai-advancing-ai-powered-cx-platform"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-06",
+   "id": "616536b52ea2"
+  },
+  {
+   "title": "Box and NVIDIA announce an enterprise AI retrieval engine",
+   "summary": "Box and NVIDIA announced Box Context Retrieval, a new engine using NVIDIA Nemotron to give AI agents more accurate, permission-aware access to enterprise content across millions of files. Box says it could improve search accuracy and reduce token use and response times; general availability is planned for Enterprise Advanced customers early next year.",
+   "source_url": "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Partners-With-NVIDIA-to-Deliver-the-Trusted-Content-Layer-for-Enterprise-AI/default.aspx",
+   "published_date": "2026-11-05",
+   "company": "Box and NVIDIA",
+   "category": "product launch",
+   "citations": [
+    "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Partners-With-NVIDIA-to-Deliver-the-Trusted-Content-Layer-for-Enterprise-AI/default.aspx"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-06",
+   "id": "7d4fbfdfa8ac"
+  },
+  {
+   "title": "Mistral expands Studio with managed agents, workflows and apps",
+   "summary": "Mistral expanded Studio with managed agents and apps, plus workflow, enterprise-context, observability and evaluation capabilities. Apps and managed agents are in public preview on Mistral Cloud, while workflows are generally available; Mistral says private-cloud and on-premises deployments will follow at the end of November.",
+   "source_url": "https://mistral.ai/news/build-with-studio/",
+   "published_date": "2026-11-05",
+   "company": "Mistral AI",
+   "category": "feature update",
+   "citations": [
+    "https://mistral.ai/news/build-with-studio/"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-06",
+   "id": "927cb4004243"
+  },
+  {
+   "title": "Thinking Machines Lab reportedly nears $5 billion funding round",
+   "summary": "Business Insider reports that Thinking Machines Lab is raising $5 billion at a $40 billion pre-money valuation, with Accel leading the round. The financing was described as nearing completion, but the report does not establish that it has closed or been confirmed by the company.",
+   "source_url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+   "published_date": "2026-11-06",
+   "company": "Thinking Machines Lab",
+   "category": "partnership/deal",
+   "citations": [
+    "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+   ],
+   "topic": "ai-trends",
+   "event_date": "2026-11-06",
+   "id": "edbe5d77df5c"
+  }
+ ]
+}

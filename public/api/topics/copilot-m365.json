@@ -2,8 +2,22 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 13,
+ "count": 14,
  "items": [
+  {
+   "id": "54a051ca4d2e",
+   "title": "Edge 157 upgrades the Copilot new tab page and Copilot experience",
+   "summary": "Edge 157 adds an upgraded Copilot new tab page that brings search, chat, and web exploration together, with suggested actions and curated work content. Microsoft also updated the Copilot entry points and side pane, including upgraded Copilot Voice and Vision functionality.",
+   "source_url": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "443198113287",
    "title": "Microsoft announces fair-use limits for additional Copilot Chat features",

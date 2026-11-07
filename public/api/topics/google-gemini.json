@@ -2,8 +2,50 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 17,
+ "count": 19,
  "items": [
+  {
+   "id": "47a87b6fce28",
+   "title": "Gemini Omni 1.2 Flash comes to Google Vids with 15-second generations",
+   "summary": "Google brought Gemini Omni 1.2 Flash into Google Vids, where users can create clips up to 15 seconds and benefit from improved character consistency and vocal realism. The Workspace post says the rollout began November 5, with availability varying by account and edition.",
+   "source_url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Google releases Gemini Omni 1.2 Flash and announces automatic API routing from 1.1",
+   "summary": "Google made Gemini Omni 1.2 Flash generally available, adding native video generation up to 15 seconds, multi-turn editing, improved reference adherence, and 30% lower 720p pricing. The API changelog also says requests using `gemini-omni-1.1-flash` will automatically route to 1.2 at 1.2 rates beginning December 3, 2026.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "b7a1abffaf42",
+   "title": "Google adds Gemini-powered actionable insights to Forms responses",
+   "summary": "Google introduced Gemini-powered insights in the Google Forms Responses tab. Gemini analyzes response data to surface trends and recommend next steps, using generated Python code for grounded counts, percentages, and comparisons; the post says the Rapid Release rollout had started November 2, while Scheduled Release rollout is set to start November 19.",
+   "source_url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+   "published_date": "2026-11-05",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "7f9adb8d6424",
    "title": "Google DeepMind and Singapore’s GovTech launch AntiScam Pango beta",
@@ -17,20 +59,6 @@
     "https://www.tech.gov.sg/media/govtech-launches-antiscam-pango-beta-to-help-users-spot-suspicious-scam-messages-/",
     "https://www.straitstimes.com/tech/new-govtech-google-deepmind-app-flags-potential-scams-by-analysing-incoming-messages",
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "80a567fdb16f",
-   "title": "Gemini API expands Office and OpenDocument inputs and function-response files",
-   "summary": "The Gemini API now accepts additional Office and OpenDocument inputs, including legacy PPT, ODP and ODS files, and adds page-image processing for legacy DOC files. Function responses can also return more document, audio and video types, and can use file URIs instead of inline bytes—expanding the file formats developers can use in multimodal workflows.",
-   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-11-05",
-   "company": "Google",
-   "category": "feature update",
-   "topic": "google-gemini",
-   "citations": [
-    "https://ai.google.dev/gemini-api/docs/changelog"
    ],
    "briefing": "2026-11-06"
   },

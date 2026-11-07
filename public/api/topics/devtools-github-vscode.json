@@ -2,8 +2,78 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 43,
+ "count": 48,
  "items": [
+  {
+   "id": "1e113dc2060c",
+   "title": "GitHub Copilot usage metrics API adds code-review details and addressed rate",
+   "summary": "GitHub added code-review feedback details to enterprise and organization Copilot usage metrics, including counts of comments evaluated and addressed and a per-repository addressed rate. The new breakdowns give administrators more information for assessing Copilot code-review outcomes.",
+   "source_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "76855daf2ed7",
+   "title": "GitHub Copilot usage metrics API flags telemetry and version gaps",
+   "summary": "GitHub added per-user telemetry and version-compliance fields, plus aggregate counts, to Copilot usage metrics reports. The additions help administrators identify why usage reports may lack details and which users may need follow-up.",
+   "source_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps/",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "8bc7fe5b5273",
+   "title": "Microsoft presents Copilot upgrade agent for .NET Windows Arm64 migration",
+   "summary": "Microsoft described using the GitHub Copilot upgrade agent to assess and update .NET applications for Windows Arm64, including dependencies, platform assumptions, and project configuration. Developers can review proposed changes, but the post notes that a successful build is not a substitute for runtime testing on Windows Arm64.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "e6f7bb0a09ee",
+   "title": "GitHub secret scanning adds SpaceX partnership and upgrades detectors",
+   "summary": "GitHub added SpaceX to its secret-scanning partnership program and introduced detection for a Starlink API secret. It also upgraded detectors for Alibaba, AWS, Google, OpenVSX, Pydantic Services, and Tencent with additional false-positive filtering, expanding coverage and refining alerts.",
+   "source_url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+   "published_date": "2026-11-05",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "f4483e1a93dd",
+   "title": "Microsoft shows how to run agentic coding locally with Foundry Local and GitHub Copilot",
+   "summary": "Microsoft described a local agentic-coding workflow that runs Qwen3.8-27B through Foundry Local and connects it to GitHub Copilot. The on-device approach is presented as offering more privacy, predictable inference costs, and continued work without a network connection.",
+   "source_url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "03daee1e1f91",
    "title": "CodeQL 2.27.4 improves query accuracy, metadata, and CLI security checks",

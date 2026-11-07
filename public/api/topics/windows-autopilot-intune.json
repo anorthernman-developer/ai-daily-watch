@@ -2,8 +2,36 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 11,
+ "count": 13,
  "items": [
+  {
+   "id": "2dbfd89f283e",
+   "title": "Report: Windows 11 27H2 may be a major OS update as Microsoft sticks with Windows 11",
+   "summary": "The Verge reports, citing sources, that Microsoft is preparing Windows 11 version 27H2 for 2027 as a full OS swap, with a focus on quality. The report says it remains unclear whether Microsoft will use Windows 12 branding; Microsoft has not confirmed the reported plans.",
+   "source_url": "https://on.theverge.com/tech/1027621/where-is-windows-12-notepad",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://on.theverge.com/tech/1027621/where-is-windows-12-notepad"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "cc8a3b50b532",
+   "title": "Microsoft outlines AI-era Windows vulnerability management and faster remediation",
+   "summary": "Microsoft describes expanding AI-assisted vulnerability discovery and using AI to help engineers assess impact, identify affected Windows versions, and develop remediation and backport strategies. It also highlights Windows Autopatch through Intune, staged deployments, and hotpatching as ways to reduce the time and disruption involved in deploying protections.",
+   "source_url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/",
+   "published_date": "2026-11-05",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "bdafaee65f88",
    "title": "Microsoft details local coding-AI advances for Windows PCs",

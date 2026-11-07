@@ -2,8 +2,37 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 24,
+ "count": 26,
  "items": [
+  {
+   "id": "e2baf2e1c36d",
+   "title": "Codex CLI 0.167.0 adds an agent command center and backend switching",
+   "summary": "Codex CLI 0.167.0 adds an agent command center, including unread-result indicators, and allows users to switch connected backends from the terminal session picker without losing drafts. The release also supports previewing local image attachments while composing.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+   "published_date": "2026-11-06",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+    "https://learn.chatgpt.com/docs/changelog"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "85c5e64f7f0e",
+   "title": "OpenAI introduces GPT-6 Cyber for authorized cybersecurity work",
+   "summary": "OpenAI introduced GPT-6 Cyber, a model designed to help security researchers find and validate vulnerabilities and develop fixes while staying within authorized scope. Initial API and Codex access is limited to approved Daybreak Red customers, with OpenAI saying it plans to expand access to that customer group.",
+   "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI",
+   "category": "model release",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/introducing-gpt-6-cyber/"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "06283e85a69d",
    "title": "SpecterOps joins OpenAI Partner Network to bring Daybreak Red to enterprise security teams",

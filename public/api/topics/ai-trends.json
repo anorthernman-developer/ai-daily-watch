@@ -2,8 +2,93 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 52,
+ "count": 58,
  "items": [
+  {
+   "id": "edbe5d77df5c",
+   "title": "Thinking Machines Lab reportedly nears $5 billion funding round",
+   "summary": "Business Insider reports that Thinking Machines Lab is raising $5 billion at a $40 billion pre-money valuation, with Accel leading the round. The financing was described as nearing completion, but the report does not establish that it has closed or been confirmed by the company.",
+   "source_url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+   "published_date": "2026-11-06",
+   "company": "Thinking Machines Lab",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "5eb6887e9b28",
+   "title": "Thinking Machines Lab launches Inkling 2 Small",
+   "summary": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter mixture-of-experts model with 17B active parameters, image input and reported gains in agentic coding, vision, knowledge work and reasoning. It is initially available through Tinker with closed weights; the company says it intends to publish Apache 2.0 weights after external safety testing.",
+   "source_url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "published_date": "2026-11-05",
+   "company": "Thinking Machines Lab",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://thinkingmachines.ai/news/inkling-2-small/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "616536b52ea2",
+   "title": "Five9 agrees to acquire Level AI for about $325 million",
+   "summary": "Five9 agreed to acquire customer-experience AI company Level AI in a cash transaction valued at approximately $325 million. The deal is expected to close in 2026 subject to conditions, and Five9 says Level AI’s applications could be offered to its more than 4,000 customers.",
+   "source_url": "https://www.five9.com/news/news-releases/five9-acquire-level-ai-advancing-ai-powered-cx-platform",
+   "published_date": "2026-11-05",
+   "company": "Five9 and Level AI",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.five9.com/news/news-releases/five9-acquire-level-ai-advancing-ai-powered-cx-platform"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "7d4fbfdfa8ac",
+   "title": "Box and NVIDIA announce an enterprise AI retrieval engine",
+   "summary": "Box and NVIDIA announced Box Context Retrieval, a new engine using NVIDIA Nemotron to give AI agents more accurate, permission-aware access to enterprise content across millions of files. Box says it could improve search accuracy and reduce token use and response times; general availability is planned for Enterprise Advanced customers early next year.",
+   "source_url": "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Partners-With-NVIDIA-to-Deliver-the-Trusted-Content-Layer-for-Enterprise-AI/default.aspx",
+   "published_date": "2026-11-05",
+   "company": "Box and NVIDIA",
+   "category": "product launch",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Partners-With-NVIDIA-to-Deliver-the-Trusted-Content-Layer-for-Enterprise-AI/default.aspx"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "927cb4004243",
+   "title": "Mistral expands Studio with managed agents, workflows and apps",
+   "summary": "Mistral expanded Studio with managed agents and apps, plus workflow, enterprise-context, observability and evaluation capabilities. Apps and managed agents are in public preview on Mistral Cloud, while workflows are generally available; Mistral says private-cloud and on-premises deployments will follow at the end of November.",
+   "source_url": "https://mistral.ai/news/build-with-studio/",
+   "published_date": "2026-11-05",
+   "company": "Mistral AI",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://mistral.ai/news/build-with-studio/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "14329e9984c2",
+   "title": "Anthropic researchers use Claude in mapping a bacteriophage vault structure",
+   "summary": "Anthropic said its biology team worked with Claude to map the first 3D structure of a vault particle from a bacteriophage, extending investigation of these little-understood protein structures into viral life. The work is a research result rather than proof of an autonomous AI discovery, and the function of vault particles remains unknown.",
+   "source_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "published_date": "2026-11-04",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://x.com/AnthropicAI/status/2118073665296228863",
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "5e2f66dde57f",
    "title": "Preferred Networks releases open-weight PLaMo 3 Translate models",

@@ -2,8 +2,64 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 28,
+ "count": 31,
  "items": [
+  {
+   "id": "00183b004892",
+   "title": "Anthropic introduces Personal Finance in Claude",
+   "summary": "Anthropic introduced Personal Finance in Claude, letting users connect selected financial accounts through Plaid and ask questions about balances, transactions, and spending. The feature is read-only, and Anthropic says conversations in its Personal Finance hub are not used to train its models.",
+   "source_url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "505afecbf67a",
+   "title": "METR estimates AI accelerated Anthropic’s model-capability progress",
+   "summary": "METR reported that Anthropic’s internal-model benchmark scores had grown at an estimated 1.9 times their prior rate since October 2025, roughly two years of historical progress in one year. METR attributed much of the acceleration to AI-assisted R&D but emphasized substantial uncertainty and possible contributions from other factors.",
+   "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "94b7888e188f",
+   "title": "Anthropic adds security and admin controls to Claude Enterprise",
+   "summary": "Anthropic announced Claude Enterprise security and admin updates, including a security center, centralized management, and access controls such as member sign-out through the Admin API and self-managed IP allowlisting. Inference hooks that check prompts and tool calls are generally available, while the security center and centralized management are in beta.",
+   "source_url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/claude-enterprise-security-updates"
+   ],
+   "briefing": "2026-11-07"
+  },
+  {
+   "id": "ceaaf2dee423",
+   "title": "METR reviews Anthropic’s automated-R&D risk assessment",
+   "summary": "In a separate review of Anthropic’s August risk report, METR agreed that Anthropic’s internally deployed models posed low direct automated-R&D and acute acceleration risk as of July 15. However, METR said Anthropic’s public report understated the plausibility that acceleration was above its threshold, adding an independent safety-focused assessment alongside METR’s broader acceleration report.",
+   "source_url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+   "published_date": "2026-11-05",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/"
+   ],
+   "briefing": "2026-11-07"
+  },
   {
    "id": "6d367813eff2",
    "title": "Cat Wu joins OpenAI to lead Core Products product management",
@@ -30,20 +86,6 @@
    "citations": [
     "https://x.com/ClaudeDevs/status/2118063143167693011",
     "https://x.com/ClaudeDevs/status/2118063144572772627"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "14329e9984c2",
-   "title": "Anthropic reports first 3D structure of a prokaryotic vault particle with Claude",
-   "summary": "Anthropic’s biology team used Claude to help identify, produce, isolate, and map a vault particle derived from a bacteriophage, reporting the first 3D structure of a vault particle found in prokaryotic cells. The work demonstrates Claude’s role across several stages of a biology research project, although the biological function of vaults remains unknown.",
-   "source_url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
-   "published_date": "2026-11-04",
-   "company": "Anthropic",
-   "category": "research",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
    ],
    "briefing": "2026-11-06"
   },

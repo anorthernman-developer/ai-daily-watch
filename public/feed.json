@@ -6,10 +6,58 @@
  "language": "en-GB",
  "items": [
   {
-   "id": "aidw-184f1511d9d0",
-   "url": "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0",
-   "title": "Azure AI Agents azd extension 1.0.0 adds local A2A execution and skill optimization",
-   "content_text": "Version 1.0.0 of Microsoft's Azure AI Agents azd extension adds terminal-only local A2A 0.3 agent execution, including JSON or streaming output. It also adds trace-driven skill optimization and reporting, with generated skills requiring deliberate inspection rather than being automatically applied or deployed.",
+   "id": "aidw-e2baf2e1c36d",
+   "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+   "title": "Codex CLI 0.167.0 adds an agent command center and backend switching",
+   "content_text": "Codex CLI 0.167.0 adds an agent command center, including unread-result indicators, and allows users to switch connected backends from the terminal session picker without losing drafts. The release also supports previewing local image attachments while composing.",
+   "date_published": "2026-11-06T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-edbe5d77df5c",
+   "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+   "title": "Thinking Machines Lab reportedly nears $5 billion funding round",
+   "content_text": "Business Insider reports that Thinking Machines Lab is raising $5 billion at a $40 billion pre-money valuation, with Accel leading the round. The financing was described as nearing completion, but the report does not establish that it has closed or been confirmed by the company.",
+   "date_published": "2026-11-06T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Thinking Machines Lab",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-54a051ca4d2e",
+   "url": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel",
+   "title": "Edge 157 upgrades the Copilot new tab page and Copilot experience",
+   "content_text": "Edge 157 adds an upgraded Copilot new tab page that brings search, chat, and web exploration together, with suggested actions and curated work content. Microsoft also updated the Copilot entry points and side pane, including upgraded Copilot Voice and Vision functionality.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Microsoft Copilot & Microsoft 365",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-59154091f75e",
+   "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+   "title": "Kling, LTX, and MiniMax video models enter public preview in Microsoft Foundry through fal partnership",
+   "content_text": "Microsoft and fal are bringing Kling v3 Pro, LTX-2.5 Fast, LTX-2.5 Pro, MiniMax H3 Max, and MiniMax H3 Max Turbo to Microsoft Foundry in public preview. The post includes per-second pricing for the models, with rates varying by model, resolution, and (for Kling) audio options.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Azure AI & Microsoft Foundry",
+    "Microsoft (fal)",
+    "roadmap/preview"
+   ]
+  },
+  {
+   "id": "aidw-9a4fc5949eeb",
+   "url": "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
+   "title": "Microsoft Foundry extension for Azure Developer CLI reaches GA at version 1.0",
+   "content_text": "Microsoft made the `microsoft.foundry` extension bundle for Azure Developer CLI generally available at version 1.0. It adds agent setup and local testing to the `azd` workflow, with agent and deployment configuration kept alongside application code.",
    "date_published": "2026-11-05T07:00:00Z",
    "tags": [
     "Azure AI & Microsoft Foundry",
@@ -18,10 +66,262 @@
    ]
   },
   {
+   "id": "aidw-9d6c4be9a810",
+   "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/moonshot-ai%E2%80%99s-kimi-k3-1-pro-comes-to-microsoft-foundry/4570292",
+   "title": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry",
+   "content_text": "Moonshot AI’s Kimi K3.1 Pro, an open-weight model for agentic work with text and image understanding and up to a 1-million-token context window, is coming to Microsoft Foundry. Microsoft lists prices of $2.30 per million input tokens, $0.23 per million cached input tokens, and $11.50 per million output tokens.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Azure AI & Microsoft Foundry",
+    "Microsoft (Moonshot AI)",
+    "model release"
+   ]
+  },
+  {
+   "id": "aidw-2dbfd89f283e",
+   "url": "https://on.theverge.com/tech/1027621/where-is-windows-12-notepad",
+   "title": "Report: Windows 11 27H2 may be a major OS update as Microsoft sticks with Windows 11",
+   "content_text": "The Verge reports, citing sources, that Microsoft is preparing Windows 11 version 27H2 for 2027 as a full OS swap, with a focus on quality. The report says it remains unclear whether Microsoft will use Windows 12 branding; Microsoft has not confirmed the reported plans.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Windows, Autopilot & Intune",
+    "Microsoft",
+    "roadmap/preview"
+   ]
+  },
+  {
+   "id": "aidw-cc8a3b50b532",
+   "url": "https://blogs.windows.com/windowsexperience/2026/11/05/a-new-standard-for-vulnerability-management-in-the-ai-era/",
+   "title": "Microsoft outlines AI-era Windows vulnerability management and faster remediation",
+   "content_text": "Microsoft describes expanding AI-assisted vulnerability discovery and using AI to help engineers assess impact, identify affected Windows versions, and develop remediation and backport strategies. It also highlights Windows Autopatch through Intune, staged deployments, and hotpatching as ways to reduce the time and disruption involved in deploying protections.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Windows, Autopilot & Intune",
+    "Microsoft",
+    "security"
+   ]
+  },
+  {
+   "id": "aidw-1e113dc2060c",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate/",
+   "title": "GitHub Copilot usage metrics API adds code-review details and addressed rate",
+   "content_text": "GitHub added code-review feedback details to enterprise and organization Copilot usage metrics, including counts of comments evaluated and addressed and a per-repository addressed rate. The new breakdowns give administrators more information for assessing Copilot code-review outcomes.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-76855daf2ed7",
+   "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps/",
+   "title": "GitHub Copilot usage metrics API flags telemetry and version gaps",
+   "content_text": "GitHub added per-user telemetry and version-compliance fields, plus aggregate counts, to Copilot usage metrics reports. The additions help administrators identify why usage reports may lack details and which users may need follow-up.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-8bc7fe5b5273",
+   "url": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
+   "title": "Microsoft presents Copilot upgrade agent for .NET Windows Arm64 migration",
+   "content_text": "Microsoft described using the GitHub Copilot upgrade agent to assess and update .NET applications for Windows Arm64, including dependencies, platform assumptions, and project configuration. Developers can review proposed changes, but the post notes that a successful build is not a substitute for runtime testing on Windows Arm64.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-e6f7bb0a09ee",
+   "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+   "title": "GitHub secret scanning adds SpaceX partnership and upgrades detectors",
+   "content_text": "GitHub added SpaceX to its secret-scanning partnership program and introduced detection for a Starlink API secret. It also upgraded detectors for Alibaba, AWS, Google, OpenVSX, Pydantic Services, and Tencent with additional false-positive filtering, expanding coverage and refining alerts.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "GitHub",
+    "security"
+   ]
+  },
+  {
    "id": "aidw-f4483e1a93dd",
    "url": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
-   "title": "Microsoft brings local Qwen3.8-27B agentic coding to Foundry Local",
-   "content_text": "Microsoft describes running Qwen3.8-27B locally with Foundry Local and connecting it to GitHub Copilot for on-device coding workflows. The announcement offers a local alternative emphasizing privacy, offline availability, and predictable inference costs, and includes instructions to load the model.",
+   "title": "Microsoft shows how to run agentic coding locally with Foundry Local and GitHub Copilot",
+   "content_text": "Microsoft described a local agentic-coding workflow that runs Qwen3.8-27B through Foundry Local and connects it to GitHub Copilot. The on-device approach is presented as offering more privacy, predictable inference costs, and continued work without a network connection.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "VS Code, GitHub & developer tools",
+    "Microsoft",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-00183b004892",
+   "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+   "title": "Anthropic introduces Personal Finance in Claude",
+   "content_text": "Anthropic introduced Personal Finance in Claude, letting users connect selected financial accounts through Plaid and ask questions about balances, transactions, and spending. The feature is read-only, and Anthropic says conversations in its Personal Finance hub are not used to train its models.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "product launch"
+   ]
+  },
+  {
+   "id": "aidw-505afecbf67a",
+   "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "title": "METR estimates AI accelerated Anthropic’s model-capability progress",
+   "content_text": "METR reported that Anthropic’s internal-model benchmark scores had grown at an estimated 1.9 times their prior rate since October 2025, roughly two years of historical progress in one year. METR attributed much of the acceleration to AI-assisted R&D but emphasized substantial uncertainty and possible contributions from other factors.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-94b7888e188f",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "title": "Anthropic adds security and admin controls to Claude Enterprise",
+   "content_text": "Anthropic announced Claude Enterprise security and admin updates, including a security center, centralized management, and access controls such as member sign-out through the Admin API and self-managed IP allowlisting. Inference hooks that check prompts and tool calls are generally available, while the security center and centralized management are in beta.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-ceaaf2dee423",
+   "url": "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review/",
+   "title": "METR reviews Anthropic’s automated-R&D risk assessment",
+   "content_text": "In a separate review of Anthropic’s August risk report, METR agreed that Anthropic’s internally deployed models posed low direct automated-R&D and acute acceleration risk as of July 15. However, METR said Anthropic’s public report understated the plausibility that acceleration was above its threshold, adding an independent safety-focused assessment alongside METR’s broader acceleration report.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Anthropic & Claude",
+    "Anthropic",
+    "policy/safety"
+   ]
+  },
+  {
+   "id": "aidw-85c5e64f7f0e",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+   "title": "OpenAI introduces GPT-6 Cyber for authorized cybersecurity work",
+   "content_text": "OpenAI introduced GPT-6 Cyber, a model designed to help security researchers find and validate vulnerabilities and develop fixes while staying within authorized scope. Initial API and Codex access is limited to approved Daybreak Red customers, with OpenAI saying it plans to expand access to that customer group.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "OpenAI",
+    "OpenAI",
+    "model release"
+   ]
+  },
+  {
+   "id": "aidw-47a87b6fce28",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+   "title": "Gemini Omni 1.2 Flash comes to Google Vids with 15-second generations",
+   "content_text": "Google brought Gemini Omni 1.2 Flash into Google Vids, where users can create clips up to 15 seconds and benefit from improved character consistency and vocal realism. The Workspace post says the rollout began November 5, with availability varying by account and edition.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-80a567fdb16f",
+   "url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "title": "Google releases Gemini Omni 1.2 Flash and announces automatic API routing from 1.1",
+   "content_text": "Google made Gemini Omni 1.2 Flash generally available, adding native video generation up to 15 seconds, multi-turn editing, improved reference adherence, and 30% lower 720p pricing. The API changelog also says requests using `gemini-omni-1.1-flash` will automatically route to 1.2 at 1.2 rates beginning December 3, 2026.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "model release"
+   ]
+  },
+  {
+   "id": "aidw-b7a1abffaf42",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+   "title": "Google adds Gemini-powered actionable insights to Forms responses",
+   "content_text": "Google introduced Gemini-powered insights in the Google Forms Responses tab. Gemini analyzes response data to surface trends and recommend next steps, using generated Python code for grounded counts, percentages, and comparisons; the post says the Rapid Release rollout had started November 2, while Scheduled Release rollout is set to start November 19.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "Google Gemini & DeepMind",
+    "Google",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-5eb6887e9b28",
+   "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "title": "Thinking Machines Lab launches Inkling 2 Small",
+   "content_text": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter mixture-of-experts model with 17B active parameters, image input and reported gains in agentic coding, vision, knowledge work and reasoning. It is initially available through Tinker with closed weights; the company says it intends to publish Apache 2.0 weights after external safety testing.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Thinking Machines Lab",
+    "model release"
+   ]
+  },
+  {
+   "id": "aidw-616536b52ea2",
+   "url": "https://www.five9.com/news/news-releases/five9-acquire-level-ai-advancing-ai-powered-cx-platform",
+   "title": "Five9 agrees to acquire Level AI for about $325 million",
+   "content_text": "Five9 agreed to acquire customer-experience AI company Level AI in a cash transaction valued at approximately $325 million. The deal is expected to close in 2026 subject to conditions, and Five9 says Level AI’s applications could be offered to its more than 4,000 customers.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Five9 and Level AI",
+    "partnership/deal"
+   ]
+  },
+  {
+   "id": "aidw-7d4fbfdfa8ac",
+   "url": "https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Partners-With-NVIDIA-to-Deliver-the-Trusted-Content-Layer-for-Enterprise-AI/default.aspx",
+   "title": "Box and NVIDIA announce an enterprise AI retrieval engine",
+   "content_text": "Box and NVIDIA announced Box Context Retrieval, a new engine using NVIDIA Nemotron to give AI agents more accurate, permission-aware access to enterprise content across millions of files. Box says it could improve search accuracy and reduce token use and response times; general availability is planned for Enterprise Advanced customers early next year.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Box and NVIDIA",
+    "product launch"
+   ]
+  },
+  {
+   "id": "aidw-927cb4004243",
+   "url": "https://mistral.ai/news/build-with-studio/",
+   "title": "Mistral expands Studio with managed agents, workflows and apps",
+   "content_text": "Mistral expanded Studio with managed agents and apps, plus workflow, enterprise-context, observability and evaluation capabilities. Apps and managed agents are in public preview on Mistral Cloud, while workflows are generally available; Mistral says private-cloud and on-premises deployments will follow at the end of November.",
+   "date_published": "2026-11-05T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Mistral AI",
+    "feature update"
+   ]
+  },
+  {
+   "id": "aidw-14329e9984c2",
+   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+   "title": "Anthropic researchers use Claude in mapping a bacteriophage vault structure",
+   "content_text": "Anthropic said its biology team worked with Claude to map the first 3D structure of a vault particle from a bacteriophage, extending investigation of these little-understood protein structures into viral life. The work is a research result rather than proof of an autonomous AI discovery, and the function of vault particles remains unknown.",
+   "date_published": "2026-11-04T07:00:00Z",
+   "tags": [
+    "AI news, innovation & trends",
+    "Anthropic",
+    "research"
+   ]
+  },
+  {
+   "id": "aidw-184f1511d9d0",
+   "url": "https://github.com/Azure/azure-dev/releases/tag/azd-ext-azure-ai-agents_1.0.0",
+   "title": "Azure AI Agents azd extension 1.0.0 adds local A2A execution and skill optimization",
+   "content_text": "Version 1.0.0 of Microsoft's Azure AI Agents azd extension adds terminal-only local A2A 0.3 agent execution, including JSON or streaming output. It also adds trace-driven skill optimization and reporting, with generated skills requiring deliberate inspection rather than being automatically applied or deployed.",
    "date_published": "2026-11-05T07:00:00Z",
    "tags": [
     "Azure AI & Microsoft Foundry",
@@ -75,18 +375,6 @@
     "Google Gemini & DeepMind",
     "Google DeepMind",
     "product launch"
-   ]
-  },
-  {
-   "id": "aidw-80a567fdb16f",
-   "url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "title": "Gemini API expands Office and OpenDocument inputs and function-response files",
-   "content_text": "The Gemini API now accepts additional Office and OpenDocument inputs, including legacy PPT, ODP and ODS files, and adds page-image processing for legacy DOC files. Function responses can also return more document, audio and video types, and can use file URIs instead of inline bytes—expanding the file formats developers can use in multimodal workflows.",
-   "date_published": "2026-11-05T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google",
-    "feature update"
    ]
   },
   {
@@ -243,18 +531,6 @@
     "Anthropic & Claude",
     "Anthropic",
     "feature update"
-   ]
-  },
-  {
-   "id": "aidw-14329e9984c2",
-   "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
-   "title": "Anthropic reports first 3D structure of a prokaryotic vault particle with Claude",
-   "content_text": "Anthropic’s biology team used Claude to help identify, produce, isolate, and map a vault particle derived from a bacteriophage, reporting the first 3D structure of a vault particle found in prokaryotic cells. The work demonstrates Claude’s role across several stages of a biology research project, although the biological function of vaults remains unknown.",
-   "date_published": "2026-11-04T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "research"
    ]
   },
   {
@@ -927,282 +1203,6 @@
     "AI news, innovation & trends",
     "SemiAnalysis",
     "research"
-   ]
-  },
-  {
-   "id": "aidw-869219a7f133",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "title": "OpenAI merges ChatGPT’s Chat and Work tabs while sharing usage allowance with Codex",
-   "content_text": "OpenAI is merging ChatGPT’s Chat and Work tabs and moving ChatGPT and Codex to a shared token allowance pool, while keeping Codex separate in the desktop app. The change may affect how often some users need to wait for usage resets.",
-   "date_published": "2026-11-02T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "OpenAI",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-6f9a62584ae9",
-   "url": "https://www.salesforce.com/in/news/stories/agent-fabric-catch-failures-control-ai-costs/",
-   "title": "Salesforce adds agent evaluations and cost controls to Agent Fabric",
-   "content_text": "Salesforce expanded Agent Fabric with Agent Evals and API Evals to test agent quality and API changes, plus cost controls that can impose hard budget limits and reduce token usage. The additions are aimed at catching silent failures and overspending as organizations put more agents into production; Agent Evals and API Evals are scheduled for beta in November 2026 and general availability in January 2027.",
-   "date_published": "2026-11-01T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Salesforce",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-094c331a98fa",
-   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-   "title": "Google DeepMind expands Gemini-powered PlanAssist to 12 more councils",
-   "content_text": "Google DeepMind is expanding its Gemini-powered PlanAssist tool to 12 additional local planning authorities in England, bringing the total involved to 15 for a 12-month beta using live applications. Early pilots reported a 58% reduction in time spent on householder application assessments, while qualified planning officers retain final approval.",
-   "date_published": "2026-10-31T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google DeepMind",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-4b2909d0621b",
-   "url": "https://x.com/Google/status/2116522684154585227",
-   "title": "Google showcases Gemini 4 Argon agents building a dancing robot from a prompt",
-   "content_text": "Google highlighted a Google DeepMind robotics project in which AI agents powered by Gemini 4 Argon and Antigravity helped create a physical, dancing 12-degree-of-freedom robot from a plain-English prompt. The demonstration is a notable example of Gemini-powered agents being used in a real-world robotics workflow without manual CAD.",
-   "date_published": "2026-10-31T07:00:00Z",
-   "tags": [
-    "Google Gemini & DeepMind",
-    "Google",
-    "other"
-   ]
-  },
-  {
-   "id": "aidw-76e502c4ebad",
-   "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-   "title": "DeepSeek releases open-source Super-Agent coding prototype",
-   "content_text": "DeepSeek published dsh-superagent, an MIT-licensed research prototype that can work on a GitHub repository and optionally listen to Feishu. The project is explicitly labeled as reference research code—not an official DeepSeek product or production-ready software—while its proactive, low-attention agent design reflects growing competition in AI coding tools.",
-   "date_published": "2026-10-31T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "DeepSeek",
-    "research"
-   ]
-  },
-  {
-   "id": "aidw-259cbe6c63f7",
-   "url": "https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2026/",
-   "title": "Microsoft summarizes October Azure Developer CLI releases and features",
-   "content_text": "Microsoft’s October Azure Developer CLI roundup covers releases 1.35.0 through 1.37.2. Highlights include deployment previews across multiple Azure services, Container Apps express deployments, a beta command for removing stored environment values, and support for extension-defined infrastructure providers in generated pipelines.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "Microsoft",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-971afab381c0",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-   "title": "OpenAI and Google back a shared website signal for AI-training preferences",
-   "content_text": "OpenAI and Google announced support for a shared robots.txt signal through which publishers and website operators can communicate AI-training preferences to multiple participating providers at once. The initiative is voluntary and still being implemented; OpenAI says its existing crawler controls will remain in place.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "OpenAI, Google, Microsoft, and Anthropic",
-    "policy/safety"
-   ]
-  },
-  {
-   "id": "aidw-1ac62f843edf",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
-   "title": "Claude Code 2.1.316 adds subagent and gateway controls and deprecates Opus 4.8 fast mode",
-   "content_text": "Claude Code 2.1.316 adds configurable subagent effort, an option to disable the “ultrathink” keyword, and pooled group budgets and policy controls for the Claude apps gateway. It also deprecates Opus 4.8 fast mode as of October 30, with removal scheduled for November 30, 2026.",
-   "date_published": "2026-10-31T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-2c75f48ca2a5",
-   "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-   "title": "Google DeepMind and WRI create AI-based global forest map",
-   "content_text": "Google DeepMind and the World Resources Institute developed ForTy, a global map that classifies 2020 land cover into six categories at 10-meter resolution using satellite data and AI. The reported overall accuracy was 90.2%, though the article notes weaker identification of some tree crops and plantations, relevant limitations for land-use monitoring.",
-   "date_published": "2026-10-31T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Google DeepMind; World Resources Institute",
-    "research"
-   ]
-  },
-  {
-   "id": "aidw-83cb302dd5ef",
-   "url": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business/",
-   "title": "Estée Lauder expands Copilot access to more than 14,000 employees",
-   "content_text": "Estée Lauder expanded Microsoft Copilot access across its office-based global workforce of more than 14,000 people. The deployment is part of a broader effort to bring Microsoft AI and cloud tools into the company’s business operations.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "Microsoft Copilot & Microsoft 365",
-    "Estée Lauder Companies",
-    "other"
-   ]
-  },
-  {
-   "id": "aidw-becaa839c139",
-   "url": "https://blogs.windows.com/windows-insider/2026/10/30/announcing-new-builds-for-30-october-2026/",
-   "title": "Microsoft announces new Windows 11 Insider builds and private Feedback Hub policy",
-   "content_text": "Microsoft released new Windows 11 Insider builds to the Beta and Experimental channels and introduced an Intune policy that can keep tenant users’ Feedback Hub submissions private. The accompanying previews include expanded Windows Search actions and, in a Future Platforms build, app-by-app camera, microphone, and location permissions for desktop apps.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "Windows, Autopilot & Intune",
-    "Microsoft",
-    "roadmap/preview"
-   ]
-  },
-  {
-   "id": "aidw-b3ee5f6a4684",
-   "url": "https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-github-app-in-microsoft-teams-is-now-generally-available/4569136",
-   "title": "GitHub app in Microsoft Teams reaches general availability",
-   "content_text": "The GitHub app in Microsoft Teams is now generally available, letting teams work with GitHub and Copilot in the context of their chats, channels, and meeting chats. Users can ask in natural language to select or switch repositories and choose which Copilot model to use for a task.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "VS Code, GitHub & developer tools",
-    "Microsoft",
-    "product launch"
-   ]
-  },
-  {
-   "id": "aidw-1ae0e05bec22",
-   "url": "https://x.com/claudeai/status/2116220869479428500",
-   "title": "Claude renames its Max plans and removes the five-hour limit for verified Ultra accounts",
-   "content_text": "Anthropic renamed Max 5x to Max and Max 20x to Ultra without changing their $100 and $200 monthly prices. Verified Ultra accounts no longer have a five-hour usage limit, while weekly limits remain; the plans also include monthly Claude Platform API credits.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "Anthropic & Claude",
-    "Anthropic",
-    "pricing/licensing"
-   ]
-  },
-  {
-   "id": "aidw-0dcf95bbc34e",
-   "url": "https://openai.com/index/fair-use-benefits-everyone/",
-   "title": "OpenAI highlights support for fair use in AI training",
-   "content_text": "OpenAI published a collection of arguments from authors, academics, legal experts, and other groups supporting the application of fair use to AI training. The post presents this as support for OpenAI’s position in ongoing copyright debates; it is advocacy and commentary, not a new court decision.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "other"
-   ]
-  },
-  {
-   "id": "aidw-337afc339ead",
-   "url": "https://developers.openai.com/api/docs/changelog",
-   "title": "OpenAI releases GPT-6 Rosalind for specialized life-sciences research",
-   "content_text": "OpenAI released GPT-6 Rosalind, a model for specialized biological reasoning and scientific tool use in life-sciences research. OpenAI says it has additional deployment controls for advanced research and retains trusted-access eligibility requirements, rather than broadening access.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "model release"
-   ]
-  },
-  {
-   "id": "aidw-66bcdf3a5917",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/",
-   "title": "OpenAI announces new community-safety reporting and protections for teens",
-   "content_text": "OpenAI announced tighter ChatGPT restrictions on firearms-related content for minors and a Community Safety Report covering violence prevention and other community-safety issues. The first report is planned for early 2027, with updates every six months, making this a substantive update to both product safeguards and public reporting.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "OpenAI",
-    "OpenAI",
-    "policy/safety"
-   ]
-  },
-  {
-   "id": "aidw-9e1171f2fe11",
-   "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-   "title": "Claude-based AI agent selects gene therapy and performs a mouse-brain procedure",
-   "content_text": "A Claude Sonnet 5 agent reportedly selected a gene therapy, brain target, and injection coordinates, then controlled a motorized rig during a procedure on a mouse. The agent stopped after detecting a calibration error; the account was attributed to Exin Therapeutics’ co-founder, and the report noted that the results had not been peer-reviewed.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Anthropic; Exin Therapeutics",
-    "research"
-   ]
-  },
-  {
-   "id": "aidw-b112e6ada6a0",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-   "title": "OpenAI’s latest funding round falls short of its initial $30 billion target",
-   "content_text": "The Wall Street Journal reported that OpenAI had secured roughly $11 billion in commitments toward an initially planned $30 billion funding round, at a reported $1.25 trillion valuation versus an earlier $1.4 trillion target. TechCrunch, citing the Financial Times and WSJ, said OpenAI lowered its fundraising target to $20 billion and that the initial close may fall below that amount.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "OpenAI",
-    "partnership/deal"
-   ]
-  },
-  {
-   "id": "aidw-c6fdf6f3ceac",
-   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-   "title": "OpenAI introduces restricted GPT-Rosalind-6 for life-sciences research",
-   "content_text": "OpenAI published GPT-Rosalind-6, a reasoning model for biology, drug discovery, and translational medicine, for qualified research organizations through a trusted-access program. The model is intended to be more useful for legitimate advanced biological research, including some dual-use topics, while retaining access review and deployment safeguards.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "OpenAI",
-    "model release"
-   ]
-  },
-  {
-   "id": "aidw-10a0378f9f2a",
-   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/what%E2%80%99s-new-in-microsoft-copilot--october-2026/4568528",
-   "title": "Microsoft’s October Copilot roundup details product and admin updates",
-   "content_text": "Microsoft’s October Copilot roundup highlights updates across Cowork, SharePoint, Excel, Word, PowerPoint, Teams, and administration. Among the changes are role-based Cowork plugins and a task catalog, a SharePoint knowledge base, Excel accounting skills, and Insights Agent capabilities for analyzing agent usage and feedback; some features are rolling out globally in November.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "Microsoft Copilot & Microsoft 365",
-    "Microsoft",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-0e4f9b6f09be",
-   "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
-   "title": "UK CMA investigates Meta’s commercial terms for using publishers’ content in AI products",
-   "content_text": "The UK CMA opened an investigation into whether Meta’s commercial terms for businesses and publishers could breach competition law by allowing Meta to collect and use their website content in its products, including AI features. The regulator has not made a finding that Meta broke the law; it will gather evidence from Meta and affected third parties.",
-   "date_published": "2026-10-30T07:00:00Z",
-   "tags": [
-    "AI news, innovation & trends",
-    "Meta",
-    "policy/safety"
-   ]
-  },
-  {
-   "id": "aidw-856434b54769",
-   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/?output=1",
-   "title": "Microsoft expands Copilot with finance skills and partner-built plugins",
-   "content_text": "Microsoft announced more than 25 finance skills and partner-built plugins for accounting, capital markets, and other finance work. Accounting capabilities in Copilot in Excel and Cowork are available in Frontier, while the Capital Markets and Finance plugins for Cowork are generally available; Dynamics 365 ERP and partner plugins are beginning to roll out.",
-   "date_published": "2026-10-29T07:00:00Z",
-   "tags": [
-    "Microsoft Copilot & Microsoft 365",
-    "Microsoft",
-    "feature update"
-   ]
-  },
-  {
-   "id": "aidw-01d7a9a47fc4",
-   "url": "https://techcommunity.microsoft.com/blog/microsoftintuneblog/what%E2%80%99s-new-in-microsoft-intune-%E2%80%93-october/4537396",
-   "title": "Microsoft Intune October updates add security baselines, EPM network controls, and Autopatch scheduling",
-   "content_text": "Microsoft’s October Intune updates add a Windows 365 for Agents security baseline and let standard users make IT-approved network-setting changes through Endpoint Privilege Management without broad admin rights. Windows Autopatch also gains expanded approval and scheduling controls for quality updates, including independent management of different update types.",
-   "date_published": "2026-10-29T07:00:00Z",
-   "tags": [
-    "Windows, Autopilot & Intune",
-    "Microsoft",
-    "feature update"
    ]
   }
  ]
