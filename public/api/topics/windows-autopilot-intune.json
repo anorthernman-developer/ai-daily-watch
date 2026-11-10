@@ -2,8 +2,40 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 13,
+ "count": 15,
  "items": [
+  {
+   "id": "05979d1f1d1b",
+   "title": "Project Zenith Windows 11 developer environment launches on AMD Ryzen AI Halo",
+   "summary": "Project Zenith, Microsoft’s preconfigured Windows 11 developer experience, is now available preinstalled on AMD Ryzen AI Halo powered by the Ryzen AI Max+ PRO 495. It includes developer tools such as VS Code, GitHub Copilot CLI, Python and WSL, and is positioned as a ready-to-use platform for local AI development.",
+   "source_url": "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html",
+   "published_date": "2026-11-09",
+   "company": "Microsoft and AMD",
+   "category": "product launch",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "26663065a97f",
+   "title": "Microsoft releases five Windows 11 Insider builds with Search, privacy and Windows Hello updates",
+   "summary": "Microsoft announced five Windows 11 Insider preview builds across Beta and Experimental channels, including builds for 26H1 and Future Platforms. Notable changes include a redesigned Windows Search with inline actions, per-app desktop camera/microphone/location permissions, and Windows Hello sign-in and facial-recognition brightness improvements.",
+   "source_url": "https://blogs.windows.com/windows-insider/2026/11/06/announcing-new-builds-for-6-november-2026/",
+   "published_date": "2026-11-06",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blogs.windows.com/windows-insider/2026/11/06/announcing-new-builds-for-6-november-2026/",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/beta/preview-build-26320-9876",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental-future-platforms/preview-build-29704-1000",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental/preview-build-26340-9882",
+    "https://learn.microsoft.com/en-us/windows-insider/release-notes/experimental-26-h1/preview-build-28120-3454"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "2dbfd89f283e",
    "title": "Report: Windows 11 27H2 may be a major OS update as Microsoft sticks with Windows 11",

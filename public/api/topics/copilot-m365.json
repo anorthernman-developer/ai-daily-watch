@@ -2,8 +2,22 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 14,
+ "count": 15,
  "items": [
+  {
+   "id": "f4569deb99ff",
+   "title": "Microsoft paper reports Copilot harness results for complex task execution",
+   "summary": "A Microsoft Copilot Studio Blog paper reports that the Microsoft Copilot harness scored 65% against 36% for a leading competitor on a business-process benchmark. It also says telemetry-driven, one-tool-at-a-time tuning raised the Excel Online connector’s success rate from 85.6% to 96.3% without maker action, highlighting work on agent task execution and reliability.",
+   "source_url": "https://techcommunity.microsoft.com/blog/copilot-studio-blog/paper-how-utilizing-the-microsoft-copilot-harness-in-copilot-studio-enabled-comp/4571157",
+   "published_date": "2026-11-07",
+   "company": "Microsoft",
+   "category": "research",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/copilot-studio-blog/paper-how-utilizing-the-microsoft-copilot-harness-in-copilot-studio-enabled-comp/4571157"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "54a051ca4d2e",
    "title": "Edge 157 upgrades the Copilot new tab page and Copilot experience",

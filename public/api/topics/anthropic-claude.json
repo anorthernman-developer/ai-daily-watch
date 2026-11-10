@@ -2,8 +2,122 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 31,
+ "count": 39,
  "items": [
+  {
+   "id": "efa79d1547de",
+   "title": "SoftwareOne achieves Select tier in Anthropic’s Claude Partner Network",
+   "summary": "SoftwareOne announced that it achieved Select partner tier in Anthropic’s Claude Partner Network Services Track. The announcement cites more than 100 certified experts and says SoftwareOne helps customers integrate, govern, and scale Claude deployments across AWS, Azure, and Google Cloud.",
+   "source_url": "https://www.eqs-news.com/news/corporate/softwareone-achieves-select-partner-tier-with-anthropic/232f4978-9cd2-47bb-a6dc-4539be466e8b_en",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.eqs-news.com/news/corporate/softwareone-achieves-select-partner-tier-with-anthropic/232f4978-9cd2-47bb-a6dc-4539be466e8b_en"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "09c76b5e0bea",
+   "title": "Anthropic employee clarifies customer notice about unauthorized access to account information",
+   "summary": "An Anthropic employee clarified that a customer notice concerned Cathedral’s unauthorized access through third-party software used by Anthropic. The post says the accessed information included business contact and basic account details, but not prompts, outputs, or payment details, and that Anthropic contained affected systems and worked with vendors to close vulnerabilities.",
+   "source_url": "https://x.com/lydiahallie/status/2119117468384051421",
+   "published_date": "2026-11-07",
+   "company": "Anthropic",
+   "category": "security",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/lydiahallie/status/2119117468384051421"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "0d1f14ffb4e1",
+   "title": "Claude Duet adds mobile control for Claude Code sessions",
+   "summary": "Claude Duet added support for Claude Code sessions, letting users check what is running, approve changes, and send updates from a phone for sessions on a computer or in the cloud. Duet’s builder also said the update supports steering Claude Code Projects.",
+   "source_url": "https://x.com/davidsuttonca/status/2118785613436698719",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/davidsuttonca/status/2118785613436698719",
+    "https://x.com/gabemulley/status/2118808584620503402"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "0f35f4c9f4ac",
+   "title": "Anthropic publishes Project EVE tests of Claude in MMORPGs",
+   "summary": "Anthropic reported Project EVE experiments in which Claude models traded in a simulated EVE Online market and teams of agents played EVE Frontier missions. The safety-relevant tests found that limited-access monitors detected only a minority of agents explicitly instructed to sabotage; Anthropic cautioned that this tested instructed behavior, not spontaneous inclination.",
+   "source_url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "594105e3c519",
+   "title": "Anthropic describes “dreaming” as a way to organize agent memory",
+   "summary": "Anthropic described agent-memory components for Claude, including notes, salience judgments, and “dreaming”: offline reflection that can correct mistakes and reorganize or create memories across sessions. The post explains how these methods may help agents retrieve useful experience without loading an unfiltered record of every past interaction.",
+   "source_url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/components-of-agent-memory"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "e214d358f05d",
+   "title": "Anthropic explores AI-assisted scientific modeling",
+   "summary": "Anthropic’s Science Blog featured a guest post on AI-assisted scientific modeling, describing how AI can build, fit, and revise models to explore competing explanations of data. The authors emphasize that matching observed data is not by itself scientific understanding; examining alternative models and what the evidence supports matters.",
+   "source_url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "https://x.com/AnthropicAI/status/2118792930211107115"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "ee3b0d958826",
+   "title": "Claude Code cloud sessions can configure and save repository environments",
+   "summary": "Anthropic updated Claude Code cloud sessions on Pro, Max, and Ultra to help configure a repository’s environment: Claude determines needed dependencies, network access, and API keys, then saves the setup for future sessions. Anthropic says API keys are saved securely so Claude cannot see them.",
+   "source_url": "https://x.com/ClaudeDevs/status/2118795192090386454",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://x.com/ClaudeDevs/status/2118795192090386454"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "f0a205f33a81",
+   "title": "Claude Enterprise adds beta project tags for tracking spend by cost code",
+   "summary": "Claude Enterprise added beta project tags so eligible organizations can track most project spend against existing codes, such as charge codes or client-matter numbers. This gives organizations another way to attribute and review usage costs without creating a new coding scheme.",
+   "source_url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "published_date": "2026-11-06",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://support.claude.com/en/articles/12138966-release-notes"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "00183b004892",
    "title": "Anthropic introduces Personal Finance in Claude",

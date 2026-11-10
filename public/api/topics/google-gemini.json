@@ -2,8 +2,93 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 19,
+ "count": 24,
  "items": [
+  {
+   "id": "714506c910e5",
+   "title": "Google Cloud makes DeepMind's Cloud Pathways runtime generally available",
+   "summary": "Cloud Pathways is now generally available on Google Kubernetes Engine for supported Cloud TPU environments. The distributed runtime, originally built by Google DeepMind to train and serve Gemini and other frontier models, lets customers orchestrate large accelerator fleets through a single controller.",
+   "source_url": "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga",
+   "published_date": "2026-11-09",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "d38ba6f8d531",
+   "title": "Google announces TPU 8tx and TPU 8i Max for agentic workloads",
+   "summary": "Google expanded its eighth-generation TPU lineup with TPU 8tx, designed for secure and confidential inference, and TPU 8i Max, designed for massive context windows and higher compute density. The systems add hardware options for agentic workloads and the infrastructure used to train and serve Gemini models.",
+   "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "published_date": "2026-11-09",
+   "company": "Google",
+   "category": "other",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "dc0edca312ab",
+   "title": "Google DeepMind science chief previews upcoming research releases",
+   "summary": "Google DeepMind VP of Science Pushmeet Kohli said the organization is seeing a marked acceleration in scientific discovery across its projects and expects upcoming releases to provide a glimpse of that progress. The post is a forward-looking research teaser and does not announce a specific result or product.",
+   "source_url": "https://x.com/pushmeet/status/2119373171321196892",
+   "published_date": "2026-11-08",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://x.com/pushmeet/status/2119373171321196892"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini API routes Embedding 2 Preview requests to the stable model",
+   "summary": "Effective November 6, requests using `gemini-embedding-2-preview` are routed to `gemini-embedding-2` at the stable model’s rates. Google says the stable model uses the same API schema, pricing, and embedding space, so the transition requires no other code changes or vector re-indexing.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-06",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "a166a45772d6",
+   "title": "Google Antigravity adds Gemini Live-powered voice mode",
+   "summary": "Google introduced voice mode for the Antigravity App and CLI, powered by Gemini Live. Developers can speak tasks, steer work in progress, and answer permission prompts by voice; the post says destructive actions still require on-screen approval.",
+   "source_url": "https://antigravity.google/blog/antigravity-voice-mode",
+   "published_date": "2026-11-06",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://antigravity.google/blog/antigravity-voice-mode"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "bc255753bde9",
+   "title": "Google DeepMind reports AI-agent research on weaknesses in legacy RSA-1024",
+   "summary": "Google DeepMind reported that human-guided AI agents helped researchers uncover two weaknesses in legacy 1024-bit RSA systems, demonstrating faster ways to stress-test cryptographic assumptions. The researchers said the findings concern obsolete 1024-bit systems; modern protocols that generally use keys of 2048 bits or larger remain secure.",
+   "source_url": "https://x.com/pushmeet/status/2118752095859794390",
+   "published_date": "2026-11-06",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://x.com/GoogleDeepMind/status/2118755418675765656",
+    "https://x.com/pushmeet/status/2118752095859794390"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "47a87b6fce28",
    "title": "Gemini Omni 1.2 Flash comes to Google Vids with 15-second generations",
@@ -15,20 +100,6 @@
    "topic": "google-gemini",
    "citations": [
     "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html"
-   ],
-   "briefing": "2026-11-07"
-  },
-  {
-   "id": "80a567fdb16f",
-   "title": "Google releases Gemini Omni 1.2 Flash and announces automatic API routing from 1.1",
-   "summary": "Google made Gemini Omni 1.2 Flash generally available, adding native video generation up to 15 seconds, multi-turn editing, improved reference adherence, and 30% lower 720p pricing. The API changelog also says requests using `gemini-omni-1.1-flash` will automatically route to 1.2 at 1.2 rates beginning December 3, 2026.",
-   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-11-05",
-   "company": "Google",
-   "category": "model release",
-   "topic": "google-gemini",
-   "citations": [
-    "https://ai.google.dev/gemini-api/docs/changelog"
    ],
    "briefing": "2026-11-07"
   },

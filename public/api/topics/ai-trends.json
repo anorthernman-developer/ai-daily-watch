@@ -2,8 +2,131 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 58,
+ "count": 66,
  "items": [
+  {
+   "id": "57a8ba0d5522",
+   "title": "NVIDIA announces investment in Point2 and planned investments in three Korean AI startups",
+   "summary": "NVIDIA announced an investment in Korean AI interconnect startup Point2 and said it plans additional investments in Motif Technologies, RLWRLD, and Upstage. The companies work across AI infrastructure, agent models, robotics, and enterprise AI, making the announcement a broad strategic investment in Korea’s AI ecosystem; amounts were not disclosed in the cited announcement.",
+   "source_url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "published_date": "2026-11-09",
+   "company": "NVIDIA; Point2 Technology, Motif Technologies, RLWRLD, and Upstage",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "8422634c9a06",
+   "title": "MIT-led team reports WorldParticle, a unified AI model for simulating diverse physical systems",
+   "summary": "Researchers from MIT, UBC, and collaborators reported WorldParticle, a single AI framework for simulating varied physical phenomena, from granular materials to proteins. They say it was tested on six phenomena and outperformed numerical simulation methods in accuracy in those demonstrations, suggesting a possible route to more general-purpose scientific simulation.",
+   "source_url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+   "published_date": "2026-11-09",
+   "company": "Massachusetts Institute of Technology and University of British Columbia",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "aac00f5f941f",
+   "title": "MIT and NYU researchers introduce FLEX for robots to infer intent from natural-language commands",
+   "summary": "MIT and NYU researchers introduced FLEX, a robot motion-planning approach that uses natural-language instructions to infer broader preferences, such as avoiding nearby electronics after being told not to spill on a laptop. MIT reported demonstrations in simulated tasks; the approach could make robots easier to guide without users having to specify every rule individually.",
+   "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+   "published_date": "2026-11-09",
+   "company": "Massachusetts Institute of Technology and New York University",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "1e7dd3c03201",
+   "title": "Anthropic reportedly commits $3.4 billion to gas-fired data-center generators",
+   "summary": "Anthropic reportedly agreed to pay about $3.4 billion for commitments to 1.7 gigawatts of heavy-duty gas-fired generators from OnePWR Solutions, including engineering and construction capabilities needed to install them. The unusually large procurement underscores how AI companies are securing power infrastructure directly as data-center demand grows; the deal was reportedly agreed in late September but became public in November 8 reporting.",
+   "source_url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+   "published_date": "2026-11-08",
+   "company": "Anthropic",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+    "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "2a22d99890e9",
+   "title": "U.S. AI safety center staff reportedly asked to report informally to White House",
+   "summary": "The Associated Press reported that officials at the Commerce Department’s AI safety center, CAISSI, were recently asked to report informally to a White House office, citing two former officials familiar with the discussions. The report raises questions about the center’s independence; it also says the center has no permanent leader and has stopped publishing research, so the reported change matters for federal AI safety oversight.",
+   "source_url": "https://wtop.com/national/2026/11/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence",
+   "published_date": "2026-11-08",
+   "company": "U.S. Department of Commerce (CAISSI)",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.washingtonpost.com/business/2026/11/08/ai-safety-trump-white-house/6c563e8a-db4b-11f1-930a-e08f8086f5ac_story.html",
+    "https://www.bostonglobe.com/2026/11/08/nation/us-center-for-ai-safety-white-house-independence-concerns/",
+    "https://www.durangoherald.com/articles/associated-press/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concer",
+    "https://www.aichatdaily.com/ai-security/us-ai-safety-center-staff-asked-report-informally",
+    "https://www.messenger-inquirer.com/ap/ap_national_news/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_23af04d1-ed0f-561d-9a37-41245e44d3ca.html",
+    "https://www.newser.com/article/d3318eb2cf011df53e9ddb3e03d25f13/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns.html",
+    "https://www.aol.com/articles/staff-us-center-ai-safety-080638000.html",
+    "https://www.foxnews.com/live-news/ai-news-safety-11-08-26",
+    "https://wtop.com/national/2026/11/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
+    "https://www.nvdaily.com/associated_press_national/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_35bbc013-c2d5-564c-9611-daa2b31abc9a.html"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "238481c22bd1",
+   "title": "Meta rolls out Muse Wonder-trained models to Muse and Meta AI",
+   "summary": "Meta began rolling out specialized versions of its existing models, trained using Muse Wonder, to Muse and Meta AI users. The models bring over Active Memory and Active Focus, which Meta says help them retain relevant context and continue toward goals when unexpected obstacles arise.",
+   "source_url": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+   "published_date": "2026-11-06",
+   "company": "Meta",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+    "https://x.com/AIatMeta/status/2118768974779634084"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "a0a7980b4fb6",
+   "title": "Meta adds customizable Spaces to its Muse AI agent",
+   "summary": "Meta introduced Spaces, customizable project experiences in its Muse app that can turn a user’s description into a tracker, planner or project board. Users can connect third-party apps so the Spaces update in the background, extending Muse beyond one-off chat interactions.",
+   "source_url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+   "published_date": "2026-11-06",
+   "company": "Meta",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "85c5e64f7f0e",
+   "title": "OpenAI introduces GPT-6 Cyber for cybersecurity research",
+   "summary": "OpenAI introduced GPT-6 Cyber, a model it says is more capable at finding and fixing vulnerabilities while better respecting researcher-defined limits. It is initially available through API and Codex to a select group of approved Daybreak Red customers.",
+   "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+   "published_date": "2026-11-05",
+   "company": "OpenAI",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://openai.com/index/introducing-gpt-6-cyber/"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "edbe5d77df5c",
    "title": "Thinking Machines Lab reportedly nears $5 billion funding round",

@@ -2,8 +2,51 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 26,
+ "count": 28,
  "items": [
+  {
+   "id": "ad753b6cd541",
+   "title": "OpenAI Java SDK v4.102.0 adds agent scheduling APIs and GPT-6 Rosalind support",
+   "summary": "OpenAI’s Java SDK v4.102.0 adds agent scheduling API support and recognizes GPT-6 Rosalind in beta Responses. This is a developer tooling update, not by itself confirmation that the model is generally available.",
+   "source_url": "https://github.com/openai/openai-java/releases/tag/v4.102.0",
+   "published_date": "2026-11-09",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/openai-java/releases/tag/v4.102.0"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "d9dcb92a493b",
+   "title": "OpenAI Go SDK v3.98.0 adds GPT-6 Rosalind support and agent capabilities",
+   "summary": "OpenAI’s Go SDK v3.98.0 adds GPT-6 Rosalind to the beta Responses model constants and expands support for agent sessions, asynchronous function tools, SVG image editing, and Realtime audio controls. These are developer-platform updates; the SDK note alone does not establish that GPT-6 Rosalind is generally available.",
+   "source_url": "https://github.com/openai/openai-go/releases/tag/v3.98.0",
+   "published_date": "2026-11-09",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/openai-go/releases/tag/v3.98.0"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "a86a1ecac673",
+   "title": "OpenAI closes an initial $11 billion funding tranche at a $1.25 trillion valuation",
+   "summary": "OpenAI reportedly closed an initial $11 billion tranche of a larger funding round, valuing the company at $1.25 trillion. The round is not described as complete; Reuters reports that the amount raised so far is only part of the company’s original target of up to $30 billion.",
+   "source_url": "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/",
+   "published_date": "2026-11-06",
+   "company": "OpenAI",
+   "category": "other",
+   "topic": "openai",
+   "citations": [
+    "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/",
+    "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "e2baf2e1c36d",
    "title": "Codex CLI 0.167.0 adds an agent command center and backend switching",
@@ -16,20 +59,6 @@
    "citations": [
     "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
     "https://learn.chatgpt.com/docs/changelog"
-   ],
-   "briefing": "2026-11-07"
-  },
-  {
-   "id": "85c5e64f7f0e",
-   "title": "OpenAI introduces GPT-6 Cyber for authorized cybersecurity work",
-   "summary": "OpenAI introduced GPT-6 Cyber, a model designed to help security researchers find and validate vulnerabilities and develop fixes while staying within authorized scope. Initial API and Codex access is limited to approved Daybreak Red customers, with OpenAI saying it plans to expand access to that customer group.",
-   "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
-   "published_date": "2026-11-05",
-   "company": "OpenAI",
-   "category": "model release",
-   "topic": "openai",
-   "citations": [
-    "https://openai.com/index/introducing-gpt-6-cyber/"
    ],
    "briefing": "2026-11-07"
   },

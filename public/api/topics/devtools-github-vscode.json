@@ -2,8 +2,92 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 48,
+ "count": 54,
  "items": [
+  {
+   "id": "e53638149900",
+   "title": "GitHub анонсировал проекты в приложении Copilot для координации работы",
+   "summary": "GitHub рассказал о Projects в приложении Copilot: проект может объединять работу в одном или нескольких репозиториях, а также задачи, не привязанные к репозиторию. Copilot может запускать сессии, настраивать повторяющиеся автоматизации и создавать материалы, которые отображаются в проекте.",
+   "source_url": "https://x.com/github/status/2119133311465353675",
+   "published_date": "2026-11-07",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://x.com/github/status/2119133311465353675"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "3ed00e0d497d",
+   "title": "Microsoft introduces SharePoint MCP tools in Work IQ",
+   "summary": "Microsoft announced SharePoint MCP tools in preview for Work IQ, enabling custom apps and agents to discover and perform SharePoint tasks such as finding files, managing lists, and handling approvals. Calls use the signed-in user’s identity and permissions, and the tools use runtime discovery across a catalog of more than 60 operations.",
+   "source_url": "https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/",
+   "published_date": "2026-11-06",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/microsoft365dev/work-iq-sharepoint-mcp-tools/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "7d200a43f820",
+   "title": "Copilot code review adds API management and a more compact review overview",
+   "summary": "GitHub added REST and GraphQL API management for Copilot code-review settings, covering enterprise policy through individual repositories. The update also makes review summaries more compact and adds improvements for review credits, automatic-review bypasses, and repeated reviews.",
+   "source_url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates/",
+   "published_date": "2026-11-06",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "86c48afd418c",
+   "title": "Copilot impact dashboard adds Chat and VS Code agent usage",
+   "summary": "GitHub expanded the Copilot impact dashboard and enterprise/organization 28-day reports to track Copilot Chat and the VS Code Agents window, bringing the chart to nine experiences. It also renamed the “Passive users” cohort to “Chat-first users”; adoption-phase rules remain unchanged.",
+   "source_url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage/",
+   "published_date": "2026-11-06",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "b7c2cc9b2807",
+   "title": "GitHub Copilot weekly releases — November 2",
+   "summary": "GitHub’s weekly Copilot release roundup described updates across its app, CLI, JetBrains, Xcode, and VS Code. Notable additions include Agent Merge controls in pull requests and VS Code local automations with cron expressions and workspace custom agents; the roundup also recaps Copilot’s IDE integrations and agent-session improvements.",
+   "source_url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2/",
+   "published_date": "2026-11-06",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2/"
+   ],
+   "briefing": "2026-11-10"
+  },
+  {
+   "id": "ea96203db649",
+   "title": "@GitHub in Slack and Teams reaches general availability",
+   "summary": "GitHub made @GitHub in Slack and Teams generally available, enabling users to investigate bugs, create issues, implement changes, and open pull requests from conversations. Teams users can also review plans and code changes in Canvas, while onboarding and attribution were improved.",
+   "source_url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available/",
+   "published_date": "2026-11-06",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available/"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "1e113dc2060c",
    "title": "GitHub Copilot usage metrics API adds code-review details and addressed rate",

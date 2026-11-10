@@ -2,8 +2,22 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "af13b0656d09",
+   "title": "Microsoft Foundry blog outlines closed-loop evaluations for production agents",
+   "summary": "Microsoft published a guide to a closed-loop process for improving production agents, combining continuous evaluation and Application Insights signals with trace-based datasets, Agent Optimizer, regression tests, and CI/CD gates. The workflow also describes canary rollouts and promotion or rollback decisions, giving teams a way to evaluate agent quality and cost while controlling changes reaching users.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/improve-production-agents-with-closed-loop-evaluations-in-microsoft-foundry/4569762",
+   "published_date": "2026-11-06",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/improve-production-agents-with-closed-loop-evaluations-in-microsoft-foundry/4569762"
+   ],
+   "briefing": "2026-11-10"
+  },
   {
    "id": "59154091f75e",
    "title": "Kling, LTX, and MiniMax video models enter public preview in Microsoft Foundry through fal partnership",
