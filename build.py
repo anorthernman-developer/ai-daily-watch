@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """AI Daily Watch: static site builder.
 
-  python3 build.py           build public/ from data/ (what Netlify and CI use)
+  python3 build.py           build public/ from data/ (what GitHub Pages serves)
   python3 build.py --sync    first copy new digests + sources from the private pipeline (../) into data/, sanitised
 
 Only public fields are copied: no monitor IDs, event IDs, run logs, API keys or state.
 Standard library only. Output is deterministic: the same data gives byte-identical files.
 """
 import argparse, hashlib, html, json, os, re, shutil, sys
+from urllib.parse import urlparse
 from collections import Counter, OrderedDict
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -17,8 +18,21 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 OUT = os.path.join(HERE, "public")
 PIPE = os.path.dirname(HERE)
-SITE_URL = os.environ.get("AIW_SITE_URL", "https://ai-daily-watch.netlify.app").rstrip("/")
+SITE_URL = os.environ.get("AIW_SITE_URL", "https://anorthernman-developer.github.io/ai-daily-watch").rstrip("/")
 REPO_URL = os.environ.get("AIW_REPO_URL", "https://github.com/anorthernman-developer/ai-daily-watch")
+# Project Pages live under /ai-daily-watch/. Override with AIW_BASE_PATH="" (and a root SITE_URL) for a custom domain.
+BASE_PATH = os.environ.get("AIW_BASE_PATH", urlparse(SITE_URL).path).rstrip("/")
+
+def with_base(text):
+    """Prefix root-absolute href/src paths so they work under BASE_PATH."""
+    if not BASE_PATH:
+        return text
+    def repl(m):
+        path = m.group(2)
+        if path.startswith("//"):
+            return m.group(0)
+        return f'{m.group(1)}{BASE_PATH}{path}"'
+    return re.compile(r'((?:href|src)=")(/[^"]*)"').sub(repl, text)
 UK = ZoneInfo("Europe/London")
 TITLE = "AI Daily Watch"
 
@@ -241,7 +255,7 @@ def write(rel, text):
         p = os.path.join(p, "index.html")
     os.makedirs(os.path.dirname(p), exist_ok=True)
     with open(p, "w", encoding="utf-8") as f:
-        f.write(text)
+        f.write(with_base(text))
 
 
 def item_html(i, show_topic=True, show_day=False):
@@ -338,6 +352,7 @@ def build():
     os.makedirs(os.path.join(OUT, "assets"))
     open(os.path.join(OUT, "assets", "site.css"), "w").write(CSS.strip() + "\n")
     open(os.path.join(OUT, "favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#121416"/><g fill="#F4F4F1"><rect x="5" y="18" width="4" height="9"/><rect x="11" y="10" width="4" height="17"/><rect x="17" y="5" width="4" height="22"/><rect x="23" y="14" width="4" height="13"/></g></svg>\n')
+    open(os.path.join(OUT, ".nojekyll"), "w").write("")
     P = lambda path, title, body, sec, desc: write(path, page(path, title, body, sec, desc, updated))
     by_topic = {k: [i for i in allitems if i["topic"] == k] for k in TOPICS}
     comp = Counter(i.get("company") or "Unknown" for i in allitems)
@@ -448,7 +463,7 @@ def build():
 <li>Eight daily monitors on the Parallel Monitor API, one per topic. Each is told to prefer the official channels on the <a href="/sources/">Sources</a> page.</li>
 <li>Each monitor reports new events with a headline, a two to three sentence summary, the company, a category and the source link.</li>
 <li>At about 07:00 UK time a script collects the new events, removes duplicates and writes a dated briefing.</li>
-<li>This site is rebuilt from those briefings, committed to <a href="{REPO_URL}">GitHub</a> and deployed to Netlify.</li></ol></section>
+<li>This site is rebuilt from those briefings, committed to <a href="{REPO_URL}">GitHub</a> and published on GitHub Pages.</li></ol></section>
 <section class="blk"><header><h2>What to trust</h2></header><div class="callout"><p class="label">Read the source</p><p>Summaries are written by a model from public pages. They can be wrong or out of date. The source link is the evidence. If an item has no source, treat it as Unknown.</p></div>
 <p>A topic with no items means the monitor reported nothing new that day. It does not mean nothing happened.</p></section>
 <section class="blk"><header><h2>Who runs it</h2></header><p>AI Daily Watch is a <strong>reimagining</strong>.work project by Craig Stanley. Redesign the work. Then add the AI.</p></section>""", "/about/", "How AI Daily Watch is made.")

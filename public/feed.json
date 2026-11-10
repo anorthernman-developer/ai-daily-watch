@@ -1,8 +1,8 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "AI Daily Watch: all topics",
- "home_page_url": "https://ai-daily-watch.netlify.app/",
- "feed_url": "https://ai-daily-watch.netlify.app/feed.json",
+ "home_page_url": "https://anorthernman-developer.github.io/ai-daily-watch/",
+ "feed_url": "https://anorthernman-developer.github.io/ai-daily-watch/feed.json",
  "language": "en-GB",
  "items": [
   {

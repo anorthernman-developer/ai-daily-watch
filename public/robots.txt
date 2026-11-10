@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ai-daily-watch.netlify.app/sitemap.xml
+Sitemap: https://anorthernman-developer.github.io/ai-daily-watch/sitemap.xml

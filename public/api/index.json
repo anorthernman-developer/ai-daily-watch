@@ -1,6 +1,6 @@
 {
  "name": "AI Daily Watch",
- "site": "https://ai-daily-watch.netlify.app",
+ "site": "https://anorthernman-developer.github.io/ai-daily-watch",
  "updated": "2026-11-10T07:05:58+00:00",
  "latest_briefing": "2026-11-10",
  "items_total": 247,
@@ -9,157 +9,157 @@
    "key": "copilot-m365",
    "name": "Microsoft Copilot & Microsoft 365",
    "count": 15,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/copilot-m365.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/copilot-m365.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/copilot-m365/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/copilot-m365.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/copilot-m365.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/copilot-m365/"
   },
   {
    "key": "azure-foundry",
    "name": "Azure AI & Microsoft Foundry",
    "count": 6,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/azure-foundry.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/azure-foundry.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/azure-foundry/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/azure-foundry.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/azure-foundry.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/azure-foundry/"
   },
   {
    "key": "windows-autopilot-intune",
    "name": "Windows, Autopilot & Intune",
    "count": 15,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/windows-autopilot-intune.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/windows-autopilot-intune.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/windows-autopilot-intune/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/windows-autopilot-intune.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/windows-autopilot-intune.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/windows-autopilot-intune/"
   },
   {
    "key": "devtools-github-vscode",
    "name": "VS Code, GitHub & developer tools",
    "count": 54,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/devtools-github-vscode.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/devtools-github-vscode.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/devtools-github-vscode/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/devtools-github-vscode.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/devtools-github-vscode.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/devtools-github-vscode/"
   },
   {
    "key": "anthropic-claude",
    "name": "Anthropic & Claude",
    "count": 39,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/anthropic-claude.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/anthropic-claude.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/anthropic-claude/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/anthropic-claude.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/anthropic-claude.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/anthropic-claude/"
   },
   {
    "key": "openai",
    "name": "OpenAI",
    "count": 28,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/openai.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/openai.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/openai/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/openai.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/openai.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/openai/"
   },
   {
    "key": "google-gemini",
    "name": "Google Gemini & DeepMind",
    "count": 24,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/google-gemini.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/google-gemini.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/google-gemini/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/google-gemini.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/google-gemini.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/google-gemini/"
   },
   {
    "key": "ai-trends",
    "name": "AI news, innovation & trends",
    "count": 66,
-   "json": "https://ai-daily-watch.netlify.app/api/topics/ai-trends.json",
-   "rss": "https://ai-daily-watch.netlify.app/feeds/ai-trends.xml",
-   "page": "https://ai-daily-watch.netlify.app/topics/ai-trends/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/ai-trends.json",
+   "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/ai-trends.xml",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/ai-trends/"
   }
  ],
  "briefings": [
   {
    "date": "2026-11-10",
    "count": 35,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-10.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-10/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-10.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-10/"
   },
   {
    "date": "2026-11-07",
    "count": 26,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-07.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-07/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-07.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-07/"
   },
   {
    "date": "2026-11-06",
    "count": 24,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-06.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-06/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-06.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-06/"
   },
   {
    "date": "2026-11-05",
    "count": 27,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-05.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-05/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-05.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-05/"
   },
   {
    "date": "2026-11-04",
    "count": 18,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-04.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-04/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-04.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-04/"
   },
   {
    "date": "2026-11-03",
    "count": 11,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-03.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-03/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-03.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-03/"
   },
   {
    "date": "2026-11-02",
    "count": 6,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-02.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-02/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-02.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-02/"
   },
   {
    "date": "2026-11-01",
    "count": 14,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-11-01.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-11-01/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-01.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-01/"
   },
   {
    "date": "2026-10-31",
    "count": 18,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-31.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-31/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-31.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-31/"
   },
   {
    "date": "2026-10-30",
    "count": 23,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-30.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-30/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-30.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-30/"
   },
   {
    "date": "2026-10-29",
    "count": 24,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-29.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-29/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-29.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-29/"
   },
   {
    "date": "2026-10-28",
    "count": 20,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-28.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-28/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-28.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-28/"
   },
   {
    "date": "2026-10-27",
    "count": 12,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-27.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-27/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-27.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-27/"
   },
   {
    "date": "2026-10-26",
    "count": 0,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-26.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-26/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-26.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-26/"
   },
   {
    "date": "2026-10-25",
    "count": 6,
-   "json": "https://ai-daily-watch.netlify.app/api/digests/2026-10-25.json",
-   "page": "https://ai-daily-watch.netlify.app/briefings/2026-10-25/"
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-10-25.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-10-25/"
   }
  ]
 }
