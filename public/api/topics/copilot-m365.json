@@ -2,8 +2,22 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 15,
+ "count": 16,
  "items": [
+  {
+   "id": "b1dfbbacc87e",
+   "title": "Copilot connector write actions become generally available in Copilot Chat and Cowork",
+   "summary": "Copilot connector write actions are now generally available in Copilot Chat and Cowork. Users can ask Copilot to create, update, or delete information in connected applications, review the proposed action, and approve it before execution.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/turn-copilot-insights-into-action-with-connector-write-capabilities/4571160",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/turn-copilot-insights-into-action-with-connector-write-capabilities/4571160"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "f4569deb99ff",
    "title": "Microsoft paper reports Copilot harness results for complex task execution",

@@ -2,8 +2,66 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 6,
+ "count": 10,
  "items": [
+  {
+   "id": "6f24d16acb70",
+   "title": "Azure OpenAI and Foundry models become available from Qatar Central",
+   "summary": "Microsoft and Qatar’s MCIT marked Azure OpenAI Service and other Microsoft Foundry models available from the Qatar Central cloud region. The in-country hosting gives organizations access to generative AI workloads while supporting Qatar’s data-residency and regulatory requirements.",
+   "source_url": "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "39badc1f7ca5",
+   "title": "Claude Fable 5.2 and Fable 5.2 Fast available in Microsoft Foundry",
+   "summary": "Microsoft announced Claude Fable 5.2 and Fable 5.2 Fast in Microsoft Foundry, with both listed as generally available and hosted on Anthropic. The announcement also includes deployment and token pricing, adding these models as Foundry options for technical workloads.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-fable-5-2-and-mythos-5-2-bring-frontier-intelligence-to-microsoft-foundry/4564282",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649",
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-fable-5-2-and-mythos-5-2-bring-frontier-intelligence-to-microsoft-foundry/4564282",
+    "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "dfa4d956d7dc",
+   "title": "Real-Time Multichannel Speech-to-Text reaches general availability",
+   "summary": "Real-Time Multichannel Speech-to-Text is now generally available in Azure Speech, part of Microsoft Foundry, and supported for production workloads. GA adds language identification for each channel while retaining the single-channel price, allowing stereo conversations with different languages to be transcribed in one session.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "e24cadf382bc",
+   "title": "Azure Content Understanding adds agentic mode in preview",
+   "summary": "Azure Content Understanding introduced agentic mode in preview for complex document-analysis tasks. It uses a document-native reasoning loop to navigate text and tables, inspect visual evidence, calculate, and validate results, trading additional cost and latency for potentially better results on harder workloads.",
+   "source_url": "https://devblogs.microsoft.com/foundry/when-one-pass-isnt-enough-agentic-mode-in-azure-content-understanding/",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/when-one-pass-isnt-enough-agentic-mode-in-azure-content-understanding/"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "af13b0656d09",
    "title": "Microsoft Foundry blog outlines closed-loop evaluations for production agents",

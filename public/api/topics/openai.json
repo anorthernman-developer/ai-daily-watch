@@ -2,8 +2,81 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 28,
+ "count": 33,
  "items": [
+  {
+   "id": "01a8528fa117",
+   "title": "OpenAI publishes education report on AI guidance and independent learning",
+   "summary": "OpenAI published a report drawing on ThinkYoung research and education partnerships in EMEA to discuss how AI can support independent learning. It highlights educator preparation, AI literacy, local partnerships, and evaluation, while noting that country findings are context-specific and should be interpreted within their limits.",
+   "source_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/closing-ai-guidance-gap-education",
+    "https://openai.com/index/closing-ai-guidance-gap-education/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "3588ceed4155",
+   "title": "OpenAI and Upwork publish research on AI’s effect on freelance work",
+   "summary": "OpenAI and Upwork published research examining freelance project demand alongside activities people undertake with ChatGPT. The report points to shifting demand, new combinations of skills, and larger budgets for AI-related projects, providing a new analysis of how AI use intersects with freelance work.",
+   "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/ai-effect-on-freelance-work",
+    "https://openai.com/index/ai-effect-on-freelance-work/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "46ecb159c153",
+   "title": "OpenAI Academy launches free ChatGPT workshops for caregivers",
+   "summary": "OpenAI Academy, together with Caregiver Action Network, the Alzheimer’s Association, and the American Diabetes Association, announced free in-person ChatGPT workshops for caregivers. The sessions focus on practical uses such as organizing schedules, finding community resources, and preparing support-group materials, alongside safe use.",
+   "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "9329c9bd2109",
+   "title": "OpenAI Python SDK v3.49.0 adds typed asynchronous function tools",
+   "summary": "OpenAI’s Python SDK v3.49.0 adds typed asynchronous function tools for API users. The release expands the Python developer toolkit and is a concrete developer-platform update.",
+   "source_url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/openai-python/releases/tag/v3.49.0"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "9c331579e229",
+   "title": "ChatGPT Enterprise becomes available through AWS Marketplace",
+   "summary": "Organizations can now buy and manage ChatGPT Enterprise through AWS Marketplace, using existing AWS purchasing and billing relationships and applying eligible spending toward AWS commitments. OpenAI says Marketplace customers receive the same models and features, with new features released at the same time.",
+   "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published_date": "2026-11-09",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "ad753b6cd541",
    "title": "OpenAI Java SDK v4.102.0 adds agent scheduling APIs and GPT-6 Rosalind support",

@@ -2,21 +2,35 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 15,
+ "count": 16,
  "items": [
   {
-   "id": "05979d1f1d1b",
-   "title": "Project Zenith Windows 11 developer environment launches on AMD Ryzen AI Halo",
-   "summary": "Project Zenith, Microsoft’s preconfigured Windows 11 developer experience, is now available preinstalled on AMD Ryzen AI Halo powered by the Ryzen AI Max+ PRO 495. It includes developer tools such as VS Code, GitHub Copilot CLI, Python and WSL, and is positioned as a ready-to-use platform for local AI development.",
-   "source_url": "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html",
-   "published_date": "2026-11-09",
-   "company": "Microsoft and AMD",
-   "category": "product launch",
+   "id": "d37c4df696b2",
+   "title": "Adobe and Microsoft expand creative apps and Adobe Express integration on Windows",
+   "summary": "Adobe and Microsoft announced optimized versions of several Adobe creative apps for high-performance Arm-based Windows PCs. Adobe Express tools and templates are also coming to Microsoft Photos on Windows 11, with a Windows Insider preview starting in December.",
+   "source_url": "https://blog.adobe.com/en/publish/2026/11/10/more-apps-ways-create-adobe-microsoft-expand-possibilities-windows",
+   "published_date": "2026-11-10",
+   "company": "Adobe and Microsoft",
+   "category": "partnership/deal",
    "topic": "windows-autopilot-intune",
    "citations": [
-    "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html"
+    "https://blog.adobe.com/en/publish/2026/11/10/more-apps-ways-create-adobe-microsoft-expand-possibilities-windows"
    ],
-   "briefing": "2026-11-10"
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "dcefd87a2390",
+   "title": "Investigation reports a 30-minute app-preparation delay in one Autopilot deployment",
+   "summary": "A Patch My PC investigation published November 10 reports that MDMWinsOverGP policy processing coincided with a roughly 30-minute delay before apps were prepared in one Autopilot self-deployment using Shared PC settings. The author says excluding the implicated Autopatch profile resolved that case; this is a third-party finding, not a Microsoft-confirmed general issue or official fix.",
+   "source_url": "https://patchmypc.com/blog/how-mdmwinsovergp-caused-a-30-minute-autopilot-app-delay/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft (Windows Autopilot, Intune and Windows Autopatch); Patch My PC",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://patchmypc.com/blog/how-mdmwinsovergp-caused-a-30-minute-autopilot-app-delay/"
+   ],
+   "briefing": "2026-11-11"
   },
   {
    "id": "26663065a97f",

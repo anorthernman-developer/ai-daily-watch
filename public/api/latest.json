@@ -1,20 +1,489 @@
 {
- "updated": "2026-11-10T07:05:58+00:00",
+ "updated": "2026-11-11T07:16:44+00:00",
  "count": 100,
  "items": [
   {
+   "id": "6f24d16acb70",
+   "title": "Azure OpenAI and Foundry models become available from Qatar Central",
+   "summary": "Microsoft and Qatar’s MCIT marked Azure OpenAI Service and other Microsoft Foundry models available from the Qatar Central cloud region. The in-country hosting gives organizations access to generative AI workloads while supporting Qatar’s data-residency and regulatory requirements.",
+   "source_url": "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "d37c4df696b2",
+   "title": "Adobe and Microsoft expand creative apps and Adobe Express integration on Windows",
+   "summary": "Adobe and Microsoft announced optimized versions of several Adobe creative apps for high-performance Arm-based Windows PCs. Adobe Express tools and templates are also coming to Microsoft Photos on Windows 11, with a Windows Insider preview starting in December.",
+   "source_url": "https://blog.adobe.com/en/publish/2026/11/10/more-apps-ways-create-adobe-microsoft-expand-possibilities-windows",
+   "published_date": "2026-11-10",
+   "company": "Adobe and Microsoft",
+   "category": "partnership/deal",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://blog.adobe.com/en/publish/2026/11/10/more-apps-ways-create-adobe-microsoft-expand-possibilities-windows"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "dcefd87a2390",
+   "title": "Investigation reports a 30-minute app-preparation delay in one Autopilot deployment",
+   "summary": "A Patch My PC investigation published November 10 reports that MDMWinsOverGP policy processing coincided with a roughly 30-minute delay before apps were prepared in one Autopilot self-deployment using Shared PC settings. The author says excluding the implicated Autopatch profile resolved that case; this is a third-party finding, not a Microsoft-confirmed general issue or official fix.",
+   "source_url": "https://patchmypc.com/blog/how-mdmwinsovergp-caused-a-30-minute-autopilot-app-delay/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft (Windows Autopilot, Intune and Windows Autopatch); Patch My PC",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://patchmypc.com/blog/how-mdmwinsovergp-caused-a-30-minute-autopilot-app-delay/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "4cb91b52809f",
+   "title": "Microsoft опубликовала ноябрьские обновления .NET и .NET Framework, включая исправления безопасности",
+   "summary": "Microsoft выпустила ноябрьские сервисные обновления для .NET 8, 9 и 10 с исправлениями безопасности и другими исправлениями. В опубликованных бюллетенях также перечислены затрагивающие .NET и Visual Studio уязвимости, включая несколько проблем удалённого выполнения кода в Visual Studio.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "70d4acf36067",
+   "title": "Microsoft выпустила .NET 11",
+   "summary": "Microsoft выпустила .NET 11 с изменениями в C# 15, ASP.NET Core, .NET MAUI, SDK и библиотеках платформы. Среди новшеств — возможности для AI-разработки, оптимизации выполнения и инструменты, призванные ускорить повседневные рабочие процессы разработчиков.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "https://developer.microsoft.com/zh-tw/events"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "f6b38323ac2f",
+   "title": "Anthropic signs binding school AI safety and privacy agreement",
+   "summary": "Anthropic signed a legally binding AI safety and privacy agreement with the American Federation of Teachers and the United Federation of Teachers for school use. It limits student and educator information to authorized educational purposes, bars sale or targeted-advertising use, and leaves schools in control of data retention and deletion.",
+   "source_url": "https://www.aft.org/press-release/aft-uft-and-anthropic-sign-binding-ai-safety-and-privacy-agreement-schools",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.aft.org/press-release/aft-uft-and-anthropic-sign-binding-ai-safety-and-privacy-agreement-schools"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "01a8528fa117",
+   "title": "OpenAI publishes education report on AI guidance and independent learning",
+   "summary": "OpenAI published a report drawing on ThinkYoung research and education partnerships in EMEA to discuss how AI can support independent learning. It highlights educator preparation, AI literacy, local partnerships, and evaluation, while noting that country findings are context-specific and should be interpreted within their limits.",
+   "source_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/closing-ai-guidance-gap-education",
+    "https://openai.com/index/closing-ai-guidance-gap-education/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "3588ceed4155",
+   "title": "OpenAI and Upwork publish research on AI’s effect on freelance work",
+   "summary": "OpenAI and Upwork published research examining freelance project demand alongside activities people undertake with ChatGPT. The report points to shifting demand, new combinations of skills, and larger budgets for AI-related projects, providing a new analysis of how AI use intersects with freelance work.",
+   "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/ai-effect-on-freelance-work",
+    "https://openai.com/index/ai-effect-on-freelance-work/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "46ecb159c153",
+   "title": "OpenAI Academy launches free ChatGPT workshops for caregivers",
+   "summary": "OpenAI Academy, together with Caregiver Action Network, the Alzheimer’s Association, and the American Diabetes Association, announced free in-person ChatGPT workshops for caregivers. The sessions focus on practical uses such as organizing schedules, finding community resources, and preparing support-group materials, alongside safe use.",
+   "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "9329c9bd2109",
+   "title": "OpenAI Python SDK v3.49.0 adds typed asynchronous function tools",
+   "summary": "OpenAI’s Python SDK v3.49.0 adds typed asynchronous function tools for API users. The release expands the Python developer toolkit and is a concrete developer-platform update.",
+   "source_url": "https://github.com/openai/openai-python/releases/tag/v3.49.0",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/openai-python/releases/tag/v3.49.0"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "155d33cae726",
+   "title": "Google Cloud launches Gemini for healthcare",
+   "summary": "Google Cloud announced Gemini for healthcare, a preview AI solution intended to connect clinical, operational, and administrative information and coordinate multi-step workflows such as medical-record synthesis and prior-authorization review. It is launching in preview with HCA Healthcare, Highmark Health, and Northwell Health, with human oversight and defined guardrails.",
+   "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "product launch",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "428ac4b42c0b",
+   "title": "Google DeepMind introduces AlphaProof Code for formal verification of Signal",
+   "summary": "Google DeepMind announced AlphaProof Code, an agentic framework used to formally verify key security properties of the production code underlying Signal’s protocol. DeepMind says Gemini Carbon-powered agents generated more than six million lines of Lean proofs, with human review, and that it is open-sourcing the verification artifacts.",
+   "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "published_date": "2026-11-10",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/introducing-alphaproof-code/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "5140aec84899",
+   "title": "Google and Artificial Analysis launch the Multimodal Knowledge Agent benchmark",
+   "summary": "Google and Artificial Analysis introduced MKA, a benchmark for evaluating agents on real-world knowledge tasks involving visually complex files. The benchmark is available for evaluating models, and Google reports Gemini 4 Carbon ranked second in quality among tested models while completing tasks at an average cost six times lower than the top-scoring model.",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini 4 Carbon becomes generally available",
+   "summary": "Google made Gemini 4 Carbon generally available, including through the Gemini API in AI Studio for paying developers and enterprises. Google describes Carbon as its strongest model for long-horizon agentic workflows, complex knowledge work, software engineering, scientific reasoning, and cybersecurity capabilities.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "8722c93f3bd4",
+   "title": "Adobe and Google expand partnership across Gemini, Workspace, and creative AI",
+   "summary": "Adobe and Google announced an expanded partnership to bring Adobe tools into Google Workspace, Gemini, Gemini Enterprise, and Search’s AI Mode, while bringing Google AI models into Adobe products. Adobe and Google DeepMind will also explore AI-powered image-editing capabilities, starting with Photoshop.",
+   "source_url": "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "partnership/deal",
+   "topic": "google-gemini",
+   "citations": [
+    "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "a98763b80c84",
+   "title": "Google DeepMind introduces Gemini Robotics 2.5",
+   "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action model intended to expand robots’ dexterity, reliability, and task breadth. The announcement reports evaluation across more than 200 tasks and a 96% success rate in a production-line proof of concept with Apptronik and Mercedes-Benz; the model is rolling out to robotics partners.",
+   "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "published_date": "2026-11-10",
+   "company": "Google DeepMind",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "c1f62b3dc968",
+   "title": "Gemini skills begin rolling out across Google Workspace and Workspace Studio",
+   "summary": "Google began rolling out reusable Gemini Skills across Workspace Studio and Workspace apps, allowing teams to apply their own rules, templates, and reference files. The post lists Gmail, Docs, Slides, Drive, and Chat among supported surfaces; rollout timing differs for Rapid Release and Scheduled Release domains.",
+   "source_url": "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "1c52468d7a99",
+   "title": "Cyberattacks raise concern that open AI platforms may tighten access",
+   "summary": "A TechCrunch report says attackers accessed some Fireworks customers’ model weights, datasets, and billing information, prompting the company to temporarily disable certain self-service dataset functions while investigating. Hugging Face policy chief Irene Solaiman warned that incidents across open AI platforms could encourage tighter identity checks or access restrictions, potentially making community participation less open.",
+   "source_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "published_date": "2026-11-10",
+   "company": "Fireworks AI and Hugging Face",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "ceb125792ad1",
+   "title": "IBM and Microsoft launch Imagine Enterprise for enterprise AI agents",
+   "summary": "IBM and Microsoft announced Imagine Enterprise, a platform intended to help enterprises build, run, and govern agents for industry-specific processes. It combines IBM Consulting’s library of more than 6,000 agents and assets with Microsoft’s AI, cloud, and security technologies, and initially targets financial services, insurance, and retail.",
+   "source_url": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
+   "published_date": "2026-11-10",
+   "company": "IBM and Microsoft",
+   "category": "product launch",
+   "topic": "ai-trends",
+   "citations": [
+    "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "b1dfbbacc87e",
+   "title": "Copilot connector write actions become generally available in Copilot Chat and Cowork",
+   "summary": "Copilot connector write actions are now generally available in Copilot Chat and Cowork. Users can ask Copilot to create, update, or delete information in connected applications, review the proposed action, and approve it before execution.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/turn-copilot-insights-into-action-with-connector-write-capabilities/4571160",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/turn-copilot-insights-into-action-with-connector-write-capabilities/4571160"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "39badc1f7ca5",
+   "title": "Claude Fable 5.2 and Fable 5.2 Fast available in Microsoft Foundry",
+   "summary": "Microsoft announced Claude Fable 5.2 and Fable 5.2 Fast in Microsoft Foundry, with both listed as generally available and hosted on Anthropic. The announcement also includes deployment and token pricing, adding these models as Foundry options for technical workloads.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-fable-5-2-and-mythos-5-2-bring-frontier-intelligence-to-microsoft-foundry/4564282",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649",
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-fable-5-2-and-mythos-5-2-bring-frontier-intelligence-to-microsoft-foundry/4564282",
+    "https://news.microsoft.com/source/emea/2026/11/microsoft-and-qatars-ministry-of-communications-and-information-technology-mark-availability-of-azure-openai-service-in-foundry-in-qatar-at-mwc26-doha/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "dfa4d956d7dc",
+   "title": "Real-Time Multichannel Speech-to-Text reaches general availability",
+   "summary": "Real-Time Multichannel Speech-to-Text is now generally available in Azure Speech, part of Microsoft Foundry, and supported for production workloads. GA adds language identification for each channel while retaining the single-channel price, allowing stereo conversations with different languages to be transcribed in one session.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/real-time-multichannel-speech-to-text-is-now-generally-available/4569649"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "e24cadf382bc",
+   "title": "Azure Content Understanding adds agentic mode in preview",
+   "summary": "Azure Content Understanding introduced agentic mode in preview for complex document-analysis tasks. It uses a document-native reasoning loop to navigate text and tables, inspect visual evidence, calculate, and validate results, trading additional cost and latency for potentially better results on harder workloads.",
+   "source_url": "https://devblogs.microsoft.com/foundry/when-one-pass-isnt-enough-agentic-mode-in-azure-content-understanding/",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/when-one-pass-isnt-enough-agentic-mode-in-azure-content-understanding/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
    "id": "05979d1f1d1b",
-   "title": "Project Zenith Windows 11 developer environment launches on AMD Ryzen AI Halo",
-   "summary": "Project Zenith, Microsoft’s preconfigured Windows 11 developer experience, is now available preinstalled on AMD Ryzen AI Halo powered by the Ryzen AI Max+ PRO 495. It includes developer tools such as VS Code, GitHub Copilot CLI, Python and WSL, and is positioned as a ready-to-use platform for local AI development.",
+   "title": "Project Zenith стал доступен на AMD Ryzen AI Halo",
+   "summary": "Project Zenith — подготовленная для разработчиков среда Windows 11 — стала доступна с предустановкой на AMD Ryzen AI Halo с процессором Ryzen AI Max+ PRO 495. Среда включает VS Code, Git и инструменты GitHub и Azure, а также Python, Node.js, .NET, PowerShell 7 и WSL, упрощая начало локальной разработки и работы с AI.",
    "source_url": "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html",
    "published_date": "2026-11-09",
-   "company": "Microsoft and AMD",
+   "company": "Microsoft и AMD",
    "category": "product launch",
-   "topic": "windows-autopilot-intune",
+   "topic": "devtools-github-vscode",
    "citations": [
     "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html"
    ],
-   "briefing": "2026-11-10"
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "06e2b9999d4d",
+   "title": "GitHub secret scanning теперь обнаруживает секреты в логах GitHub Actions",
+   "summary": "GitHub Secret Scanning теперь может искать секреты в логах GitHub Actions после завершения workflow, а обнаружения отображаются в списке оповещений репозитория со ссылкой на соответствующий лог. Функция доступна в публичном preview и расширяет мониторинг за пределы кода, issues, wiki, discussions и pull requests.",
+   "source_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+   "published_date": "2026-11-09",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "5374dbed19b7",
+   "title": "Windows App Development CLI v0.8 добавляет WinUI DevTools, профилирование и поддержку C++",
+   "summary": "Microsoft выпустила WinApp CLI 0.8.0 с экспериментальными WinUI DevTools для инспектирования и проверки изменений в работающем приложении, а также с профилированием производительности и поддержкой C++-проектов. Инструменты помогают разработчикам исследовать интерфейс и производительность приложений и собирать проекты Visual Studio C++ через CLI.",
+   "source_url": "https://devblogs.microsoft.com/ifdef-windows/windows-app-development-cli-v0-8/",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/ifdef-windows/windows-app-development-cli-v0-8/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "c07c40b0199e",
+   "title": "Claude Fable 5.2 стала доступна в GitHub Copilot",
+   "summary": "Claude Fable 5.2 теперь доступна в GitHub Copilot для сложных многоэтапных задач по большим кодовым базам. Модель доступна подписчикам Copilot Pro+, Max, Business и Enterprise в VS Code, Visual Studio, Copilot CLI, coding agent и других клиентах; включение для организаций может требовать действий администраторов, а развёртывание идёт постепенно.",
+   "source_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/",
+   "published_date": "2026-11-09",
+   "company": "GitHub",
+   "category": "model release",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "418fd0c9fee6",
+   "title": "JPMorganChase expands Claude Code to more employees",
+   "summary": "JPMorganChase is extending Claude use beyond engineering teams, including Claude Code use by infrastructure and operations teams for monitoring, alerting, and root-cause analysis. Anthropic also says the bank’s security team uses its frontier models to find and fix vulnerabilities faster, within the firm’s controlled environment.",
+   "source_url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/jpmorganchase-expands-claude-code"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "796a7f7ee338",
+   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+   "summary": "Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, citing improvements including faster output. Anthropic lists pricing of $8 per million input tokens and $40 per million output tokens and says Fable 5.2 is available across platforms, including AWS, Google Cloud, and Microsoft Azure.",
+   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "model release",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "ce5ea4c26464",
+   "title": "Anthropic shows Claude designing and prototyping electronic devices",
+   "summary": "Anthropic described using Claude Fable 5.2 to design a speakerphone, a voice-assistant hub, and a handheld virtual pet, with Diode assembling the circuit boards and running firmware under Claude’s direction. The prototypes reportedly worked, though Anthropic notes that they are early prototypes and have not been shown to meet commercial certification requirements.",
+   "source_url": "https://www.anthropic.com/research/claude-electronics-design",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/claude-electronics-design"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "f7c768a948cd",
+   "title": "Anthropic details a 1,000-agent proof experiment with Fable 5.2",
+   "summary": "Anthropic’s developer blog describes a team of 1,000 agents running an early Claude Fable 5.2 model that reproduced a formal proof of Fermat’s Last Theorem. The experiment used general tools, a shared database, and layered safety controls, offering a notable example of long-horizon multi-agent work.",
+   "source_url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "9c331579e229",
+   "title": "ChatGPT Enterprise becomes available through AWS Marketplace",
+   "summary": "Organizations can now buy and manage ChatGPT Enterprise through AWS Marketplace, using existing AWS purchasing and billing relationships and applying eligible spending toward AWS commitments. OpenAI says Marketplace customers receive the same models and features, with new features released at the same time.",
+   "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published_date": "2026-11-09",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "09bf66735211",
+   "title": "Google AI Studio adds prompt-based Google Maps app building",
+   "summary": "Google AI Studio now lets developers describe an app idea and have Gemini help build it with Google Maps Platform. AI Studio handles configuration and API-key management, and Google says developers can start without a credit card, making mapping-based prototypes easier to create.",
+   "source_url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+   "published_date": "2026-11-09",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "https://x.com/GoogleAIStudio/status/2119837788937896234"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "feb2ba211559",
+   "title": "Meta releases Muse Ember, a low-cost model for repetitive AI-agent tasks",
+   "summary": "Meta introduced Muse Ember, a model designed for recurring agent workloads including tool calls, coding subtasks, routing, and document parsing. It is available through Meta’s Model API at $0.10 per million input tokens and $0.50 per million output tokens, potentially lowering the cost of running high-volume agent tasks.",
+   "source_url": "https://research.meta.ai/blog/muse-ember",
+   "published_date": "2026-11-09",
+   "company": "Meta",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://research.meta.ai/blog/muse-ember"
+   ],
+   "briefing": "2026-11-11"
   },
   {
    "id": "efa79d1547de",
@@ -422,20 +891,6 @@
    "citations": [
     "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/",
     "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
-   ],
-   "briefing": "2026-11-10"
-  },
-  {
-   "id": "80a567fdb16f",
-   "title": "Gemini API routes Embedding 2 Preview requests to the stable model",
-   "summary": "Effective November 6, requests using `gemini-embedding-2-preview` are routed to `gemini-embedding-2` at the stable model’s rates. Google says the stable model uses the same API schema, pricing, and embedding space, so the transition requires no other code changes or vector re-indexing.",
-   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-11-06",
-   "company": "Google",
-   "category": "feature update",
-   "topic": "google-gemini",
-   "citations": [
-    "https://ai.google.dev/gemini-api/docs/changelog"
    ],
    "briefing": "2026-11-10"
   },
@@ -977,465 +1432,6 @@
     "https://www.capgemini.com/us-en/news/press-releases/financial-institutions-accelerate-transition-to-multi-agent-ai-in-drive-for-bottom-line-value/"
    ],
    "briefing": "2026-11-06"
-  },
-  {
-   "id": "bb4fd8313489",
-   "title": "Chai Discovery and Roche partner on AI-driven drug discovery",
-   "summary": "Chai Discovery and Roche announced a collaboration to use Chai's AI models and platform in multiple drug-discovery programs across Roche therapeutic areas. The announcement extends the use of AI-based molecular design in pharmaceutical research, although it does not specify financial terms or name the programs.",
-   "source_url": "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery",
-   "published_date": "2026-11-05",
-   "company": "Chai Discovery and Roche",
-   "category": "partnership/deal",
-   "topic": "ai-trends",
-   "citations": [
-    "https://www.businesswire.com/news/home/20261105711783/en/Chai-Discovery-Announces-Collaboration-with-Roche-in-AI-Driven-Drug-Discovery"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "c33cf8e11423",
-   "title": "Salesforce reports 21-fold Agentforce Coworker usage growth and expands the product",
-   "summary": "Salesforce announced an expansion of Agentforce Coworker after reporting 21-fold usage growth in three months. New capabilities include connections to Google Workspace and Microsoft 365, broader availability across work environments, and a $50-per-user monthly pricing option.",
-   "source_url": "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/",
-   "published_date": "2026-11-05",
-   "company": "Salesforce",
-   "category": "feature update",
-   "topic": "ai-trends",
-   "citations": [
-    "https://www.salesforce.com/ap/news/press-releases/2026/11/05/ph-salesforces-agentforce-coworker-usage-soars-21x-in-three-months-as-enterprises-delegate-real-work-to-ai/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "443198113287",
-   "title": "Microsoft announces fair-use limits for additional Copilot Chat features",
-   "summary": "Microsoft is introducing fair-use limits for additional Copilot Chat features for unlicensed users in commercial tenants, across web, desktop, and mobile. The change began November 2 for organizations with 2,000 or fewer Microsoft 365 seats and is scheduled to begin November 9 for larger organizations; Copilot Chat remains included with Microsoft 365 subscriptions, with no admin action required.",
-   "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
-   "published_date": "2026-11-04",
-   "company": "Microsoft",
-   "category": "pricing/licensing",
-   "topic": "copilot-m365",
-   "citations": [
-    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "bdafaee65f88",
-   "title": "Microsoft details local coding-AI advances for Windows PCs",
-   "summary": "Microsoft describes how low-bit quantization and systems optimizations make its MAI-Code-1.1-Flash model more practical for local coding workloads on Windows PCs. The post says the 53.0 GiB checkpoint is available through Microsoft Foundry and as a local model in GitHub Copilot on RTX Spark, enabling coding tasks to run on-device rather than relying entirely on per-token cloud usage.",
-   "source_url": "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/",
-   "published_date": "2026-11-04",
-   "company": "Microsoft",
-   "category": "research",
-   "topic": "windows-autopilot-intune",
-   "citations": [
-    "https://devblogs.microsoft.com/foundry-on-windows/coding-ai-on-windows-pcs-quality-efficiency/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "03daee1e1f91",
-   "title": "CodeQL 2.27.4 improves query accuracy, metadata, and CLI security checks",
-   "summary": "CodeQL 2.27.4 improves query accuracy across several languages, corrects query metadata, and adds security checks when bundling or publishing packs. The CLI also directs JVM warnings and initialization errors to standard error, preventing interference with machine-readable output.",
-   "source_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-   "published_date": "2026-11-04",
-   "company": "GitHub",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "76eb37ed4a26",
-   "title": "GitHub Copilot plans to end support for JetBrains IDEs 2025.2.x",
-   "summary": "Microsoft announced that the GitHub Copilot plugin will end support for JetBrains IDEs version 2025.2.x in the coming months, moving the minimum supported version to 2025.3.x. Existing installations are not expected to be immediately disabled, but users on affected versions may lose compatibility with future plugin updates and will no longer receive new features, fixes, or performance improvements for that IDE version.",
-   "source_url": "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/",
-   "published_date": "2026-11-04",
-   "company": "GitHub",
-   "category": "policy/safety",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://devblogs.microsoft.com/java/important-updates-github-copilot-support-ending-for-jetbrains-2025-2-x/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "ac59300a8940",
-   "title": "Intelligent Terminal 0.3 adds agent-focused sidebar, session search, and headless mode",
-   "summary": "Intelligent Terminal 0.3 adds a sidebar for managing tabs and agent sessions, global search, agent filtering, and live status indicators. It can also keep selected tabs running in headless mode after the terminal window closes, and automatically detects supported agent CLIs for the new-tab menu.",
-   "source_url": "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/",
-   "published_date": "2026-11-04",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://devblogs.microsoft.com/commandline/intelligent-terminal-v0-3-a-new-way-to-see-and-manage-your-tabs-and-agents/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "e7e6a9a6868c",
-   "title": "GitHub Copilot becomes available in Xcode’s built-in coding assistant",
-   "summary": "GitHub Copilot is now available in public preview within Xcode’s built-in coding assistant, starting with Xcode 27.3 beta. The separate GitHub Copilot for Xcode extension remains available, giving developers a native alternative rather than requiring migration.",
-   "source_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/",
-   "published_date": "2026-11-04",
-   "company": "GitHub",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant/"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "080b2b11b196",
-   "title": "Claude Code reduces background subagent status-update usage",
-   "summary": "Claude Code now uses Haiku 5.5 to write background subagent status updates from short notes instead of rereading the full conversation, which Anthropic says makes each update cost about 99% less. Anthropic estimates sessions with background subagents use about 5% less of the usage limit overall; the change is available to most Pro, Max, and Ultra users and all Team and Enterprise users on v2.1.316 or later.",
-   "source_url": "https://x.com/ClaudeDevs/status/2118063143167693011",
-   "published_date": "2026-11-04",
-   "company": "Anthropic",
-   "category": "feature update",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://x.com/ClaudeDevs/status/2118063143167693011",
-    "https://x.com/ClaudeDevs/status/2118063144572772627"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "58a090b4c911",
-   "title": "Anthropic adds partner agents and products to Claude Marketplace",
-   "summary": "Anthropic added partner agents and products to Claude Marketplace in security, developer infrastructure, creative work, and productivity. Eligible enterprise customers can apply part of their committed Anthropic spend to the offerings, and the marketplace now has more than 25 partner agents and products.",
-   "source_url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
-   "published_date": "2026-11-04",
-   "company": "Anthropic",
-   "category": "partnership/deal",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "b93e016ff630",
-   "title": "Google introduces new Gemini capabilities for its Agentic Data Cloud",
-   "summary": "Google announced that Gemini can work directly on its borderless Lakehouse, allowing business users to query records across clouds using natural language. The post also describes Gemini agents that can generate and troubleshoot data-engineering workflows and create operational reports, extending Gemini’s enterprise data and analytics capabilities.",
-   "source_url": "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud",
-   "published_date": "2026-11-04",
-   "company": "Google",
-   "category": "feature update",
-   "topic": "google-gemini",
-   "citations": [
-    "https://cloud.google.com/blog/products/databases/whats-new-across-googles-agentic-data-cloud"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "f3c39a0cfade",
-   "title": "UK says EU AI Act will apply narrowly to AI-integrated goods in Northern Ireland",
-   "summary": "The UK Government stated that the EU AI Act will apply in Northern Ireland only in a limited, targeted manner, focused on physical products with closely integrated AI systems. The statement distinguishes this scope from wider standalone software and general-purpose AI regulation, which it says are not covered by the Northern Ireland application described.",
-   "source_url": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455",
-   "published_date": "2026-11-04",
-   "company": "UK Government",
-   "category": "policy/safety",
-   "topic": "ai-trends",
-   "citations": [
-    "https://questions-statements.parliament.uk/written-statements/detail/2026-11-04/hcws455"
-   ],
-   "briefing": "2026-11-06"
-  },
-  {
-   "id": "56787cc309ca",
-   "title": "Visual Studio Code 1.145 adds remote-agent previews, cron schedules, and chat controls",
-   "summary": "VS Code 1.145 adds the ability to preview apps and use canvases from remote agent sessions in the Agents window, along with cron-based automation schedules and chat-noise controls. The stable release was dated November 4, 2026.",
-   "source_url": "https://code.visualstudio.com/updates/v1_145",
-   "published_date": "2026-11-04",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://code.visualstudio.com/updates/v1_145"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "0abf6b77f0b5",
-   "title": "Adobe's CX Enterprise Coworker becomes available in Claude",
-   "summary": "Adobe announced that its CX Enterprise Coworker is now available within Claude, alongside other AI platforms, bringing customer-experience orchestration workflows into tools enterprises already use. Adobe also announced pre-built MCP connectors for integrating with partner systems.",
-   "source_url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms",
-   "published_date": "2026-11-04",
-   "company": "Adobe and Anthropic",
-   "category": "partnership/deal",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "6385d8e47a02",
-   "title": "Claude Code v2.1.318 adds mod-consent records and sign-in expiry details",
-   "summary": "Claude Code v2.1.318 records users’ answers to prompts about enabling session-written mods and exposes stored sign-in expiry in `claude auth status` and `claude -p` JSON results, with warnings before expiry. It also adds `assume_role` support for certain Claude apps gateway AWS upstreams and an effort option for mod model forks.",
-   "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-   "published_date": "2026-11-04",
-   "company": "Anthropic",
-   "category": "feature update",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.318"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "647d6f84febf",
-   "title": "OpenAI to acquire Pierre Computer Company to expand Codex’s developer tools",
-   "summary": "OpenAI announced plans to acquire Pierre Computer Company, whose Code Storage and other developer tools will expand Codex’s code-building, navigation, and review capabilities. The acquisition has not yet closed and remains subject to customary closing conditions, including regulatory approvals.",
-   "source_url": "https://openai.com/index/openai-to-acquire-pierre/",
-   "published_date": "2026-11-04",
-   "company": "OpenAI",
-   "category": "partnership/deal",
-   "topic": "openai",
-   "citations": [
-    "https://openai.com/index/openai-to-acquire-pierre/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "75679f5aa60b",
-   "title": "Daybreak Red with GPT-5.6 Cyber becomes available in AWS GovCloud",
-   "summary": "OpenAI made GPT-5.6 Cyber available to approved customers in AWS GovCloud (US-East) through Daybreak Red and Amazon Bedrock. The expansion gives eligible government security teams a route to use the model in AWS environments supporting critical missions.",
-   "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "published_date": "2026-11-04",
-   "company": "OpenAI",
-   "category": "product launch",
-   "topic": "openai",
-   "citations": [
-    "https://openai.com/index/daybreak-red-aws-govcloud"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "07dbf5f156f1",
-   "title": "Tencent releases Hy4 with vision and long-horizon agent capabilities",
-   "summary": "Tencent released Hy4, adding vision, computer-use, and tool-calling capabilities alongside improvements to long-context understanding and long-horizon agent tasks. Tencent says model weights and system cards will be released in the coming days, so the announcement does not establish that weights are already available.",
-   "source_url": "https://hy.tencent.ai/research/hy4",
-   "published_date": "2026-11-04",
-   "company": "Tencent",
-   "category": "model release",
-   "topic": "ai-trends",
-   "citations": [
-    "https://hy.tencent.ai/research/hy4"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "3d4310f18308",
-   "title": "Ohio voters pass data-center bans or restrictions in at least 14 municipalities",
-   "summary": "At least 14 Ohio municipalities voted for data-center bans or other restrictions in November 3 local elections, according to preliminary reporting. The results signal growing local constraints on infrastructure expansion that may affect AI data-center development, though the reported figures are not final certified totals.",
-   "source_url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
-   "published_date": "2026-11-04",
-   "company": "Not applicable — local election outcomes",
-   "category": "policy/safety",
-   "topic": "ai-trends",
-   "citations": [
-    "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "a30e1356608b",
-   "title": "Harvey and Jus Mundi integrate arbitration research agent Jus AI into Harvey",
-   "summary": "Harvey and Jus Mundi announced a partnership integrating Jus Mundi’s specialized legal-research agent, Jus AI, into Harvey’s Assistant, Agents, Vault, and Workflows. The integration brings arbitration-focused research grounded in Jus Mundi’s database into Harvey’s enterprise legal AI tools.",
-   "source_url": "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership",
-   "published_date": "2026-11-04",
-   "company": "Harvey and Jus Mundi",
-   "category": "partnership/deal",
-   "topic": "ai-trends",
-   "citations": [
-    "https://www.harvey.ai/blog/harvey-and-jus-mundi-announce-an-agent-to-agent-partnership"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "a5fbc78bdcbf",
-   "title": "CrowdStrike adds detection for abnormal enterprise-agent behavior",
-   "summary": "CrowdStrike announced Agent Insider Threat Detection to identify abnormal enterprise-agent behavior, including deviations that do not violate an explicit rule, and route them into coordinated investigations. The release also says coordinated multi-agent investigations are now generally available, expanding security monitoring for autonomous agents.",
-   "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider",
-   "published_date": "2026-11-04",
-   "company": "CrowdStrike",
-   "category": "security",
-   "topic": "ai-trends",
-   "citations": [
-    "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-extends-agentic-soc-detect-and-stop-agent-insider"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "314fc085f9f3",
-   "title": "Microsoft brings GPT-5.6 and expanded Copilot app integration to government clouds",
-   "summary": "Microsoft announced expanded Copilot capabilities for U.S. Government cloud customers, including GPT-5.6 in GCC, GCC-H, and DoD and editing with Copilot in Word, Excel, and PowerPoint across those environments. A simplified, chat-centered Copilot app design is available in GCC and GCC-H, with DoD availability to follow.",
-   "source_url": "https://techcommunity.microsoft.com/blog/publicsectorblog/copilot-for-us-government-delivers-advanced-models-app-integration/4569928",
-   "published_date": "2026-11-03",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "copilot-m365",
-   "citations": [
-    "https://techcommunity.microsoft.com/blog/publicsectorblog/copilot-for-us-government-delivers-advanced-models-app-integration/4569928"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "aa98e16bf4f7",
-   "title": "SharePoint tools in Work IQ enter public preview for agents",
-   "summary": "Microsoft opened a public preview of more than 60 native SharePoint operations through Work IQ, allowing agents to find, understand, create, organize, and share SharePoint content. The tools are also rolling out to Copilot Studio, expanding the SharePoint work agents can perform.",
-   "source_url": "https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917",
-   "published_date": "2026-11-03",
-   "company": "Microsoft",
-   "category": "roadmap/preview",
-   "topic": "copilot-m365",
-   "citations": [
-    "https://techcommunity.microsoft.com/blog/spblog/introducing-sharepoint-tools-in-work-iq/4569917"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "bba4d966c797",
-   "title": "Microsoft details Windows 11 performance and memory improvements for 8 GB PCs",
-   "summary": "Microsoft says Windows 11 has memory and performance improvements for 8 GB PCs, reporting up to 20% greater responsiveness and up to 40% faster multitasking in a lab test. The changes include reduced memory use for idle experiences; Microsoft says the latest improvements require Windows 11 version 26H2, build 26300.9818 or later, and notes that actual results and rollout timing may vary.",
-   "source_url": "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/",
-   "published_date": "2026-11-03",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "windows-autopilot-intune",
-   "citations": [
-    "https://blogs.windows.com/windowsexperience/2026/11/03/raising-the-bar-for-8-gb-windows-11-pcs-whats-improved-and-how-to-get-it/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "312818ffb3ea",
-   "title": "WinApp VS Code extension v0.4 previews project-aware WinUI XAML IntelliSense",
-   "summary": "Microsoft released WinApp VS Code extension v0.4, adding an experimental preview of project-aware IntelliSense for WinUI XAML, a command to create WinUI apps, and the ability to build and run projects from VS Code. The extension is available in public preview, with full project-aware support for C# WinUI projects requiring the .NET 10 SDK.",
-   "source_url": "https://devblogs.microsoft.com/ifdef-windows/xaml-intellisense-support-in-winapp-extension/",
-   "published_date": "2026-11-03",
-   "company": "Microsoft",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://devblogs.microsoft.com/ifdef-windows/xaml-intellisense-support-in-winapp-extension/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "6d089825cbcc",
-   "title": "Dependabot version updates add support for Agent Package Manager",
-   "summary": "Dependabot now supports version updates for Agent Package Manager dependencies, opening pull requests for supported Git dependencies declared in apm.yml and regenerating apm.lock.yaml when present. The feature is generally available on github.com across plans; this update does not include security updates.",
-   "source_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager/",
-   "published_date": "2026-11-03",
-   "company": "GitHub",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "85239c697b5c",
-   "title": "Copilot usage API separates BYOK and enterprise custom-model usage",
-   "summary": "GitHub updated the Copilot usage metrics API to separately identify local BYOK activity and requests using enterprise custom models. The added reporting helps organizations review model usage and distinguish provider-billed or local-model use from Copilot-hosted usage; existing totals remain unchanged.",
-   "source_url": "https://github.blog/changelog/2026-11-04-byok-and-enterprise-custom-models-in-the-copilot-usage-api/",
-   "published_date": "2026-11-03",
-   "company": "GitHub",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://github.blog/changelog/2026-11-04-byok-and-enterprise-custom-models-in-the-copilot-usage-api/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "e9c00f9aa43c",
-   "title": "Dependabot adds support for Python 3.15",
-   "summary": "Dependabot now supports Python 3.15, allowing projects using the new version to continue receiving updates. GitHub says support is available to all github.com users and will be included in GitHub Enterprise Server 3.24.",
-   "source_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15/",
-   "published_date": "2026-11-03",
-   "company": "GitHub",
-   "category": "feature update",
-   "topic": "devtools-github-vscode",
-   "citations": [
-    "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15/"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "77acfe66a339",
-   "title": "Claude Code product lead Cat Wu announces her departure from Anthropic",
-   "summary": "Cat Wu announced that the previous Friday was her last day at Anthropic, where she led product for Claude Code. She thanked the teams and users and reflected on the product's growth; her post did not give a reason for leaving.",
-   "source_url": "https://x.com/_catwu/status/2117731934340337676",
-   "published_date": "2026-11-03",
-   "company": "Anthropic",
-   "category": "leadership",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://x.com/_catwu/status/2117731934340337676",
-    "https://aihot.news/items/abv1492kvkjfo2kba1wzbxf1y",
-    "https://x.com/dotey/status/2117739064455463086",
-    "https://cellcog.ai/blog/cat-wu-leaves-anthropic-claude-code/",
-    "https://fourweekmba.com/ai-3-of-anthropics-4-named-exits-in-60-days-were-claude-code",
-    "https://www.newsbytesapp.com/news/science/claude-code-team-sees-3-exits-as-anthropic-prepares-ipo/story",
-    "https://www.indiatoday.in/technology/news/story/anthropic-loses-3-claude-code-team-members-just-weeks-before-its-mega-ipo-3031942-2026-11-04",
-    "https://x.com/KinGao476942/status/2117832583711236160",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "https://x.com/AGTPinsights/status/2117854179418861786"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "7f63b77af962",
-   "title": "Claude adds auto-connect for plugins using Claude as a trusted issuer",
-   "summary": "Anthropic announced a beta that lets compatible MCP-server plugins auto-connect when users log in to Claude, reducing repeated sign-in and authorization steps. ClaudeDevs says the feature is in beta for Team and Enterprise plans.",
-   "source_url": "https://x.com/ClaudeDevs/status/2117680635561312732",
-   "published_date": "2026-11-03",
-   "company": "Anthropic",
-   "category": "feature update",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://x.com/ClaudeDevs/status/2117680635561312732"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "db8bf548d798",
-   "title": "Anthropic adds text watermarking for Claude Mythos 5, Opus 4.7, and Sonnet 4.6",
-   "summary": "Anthropic's November 3 platform notes say text generated by Claude Mythos 5, Opus 4.7, and Sonnet 4.6 carries its text watermark on supported platforms. The notes caution that Sonnet 4.6 outputs may not carry the watermark when temperature, top_p, or top_k is set to a non-default value.",
-   "source_url": "https://platform.claude.com/docs/en/release-notes/overview",
-   "published_date": "2026-11-03",
-   "company": "Anthropic",
-   "category": "feature update",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://platform.claude.com/docs/en/release-notes/overview"
-   ],
-   "briefing": "2026-11-05"
-  },
-  {
-   "id": "5773ad34de5f",
-   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "summary": "OpenAI appointed Jill Hazelbaker as Chief Corporate Affairs Officer, where she will lead global communications and corporate positioning. She will work with company leaders on public understanding of AI and trust in OpenAI’s mission.",
-   "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
-   "published_date": "2026-11-03",
-   "company": "OpenAI",
-   "category": "leadership",
-   "topic": "openai",
-   "citations": [
-    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
-    "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai?leadSource=uverify%20wall"
-   ],
-   "briefing": "2026-11-05"
   }
  ]
 }

@@ -2,8 +2,121 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 24,
+ "count": 31,
  "items": [
+  {
+   "id": "155d33cae726",
+   "title": "Google Cloud launches Gemini for healthcare",
+   "summary": "Google Cloud announced Gemini for healthcare, a preview AI solution intended to connect clinical, operational, and administrative information and coordinate multi-step workflows such as medical-record synthesis and prior-authorization review. It is launching in preview with HCA Healthcare, Highmark Health, and Northwell Health, with human oversight and defined guardrails.",
+   "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "product launch",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "428ac4b42c0b",
+   "title": "Google DeepMind introduces AlphaProof Code for formal verification of Signal",
+   "summary": "Google DeepMind announced AlphaProof Code, an agentic framework used to formally verify key security properties of the production code underlying Signal’s protocol. DeepMind says Gemini Carbon-powered agents generated more than six million lines of Lean proofs, with human review, and that it is open-sourcing the verification artifacts.",
+   "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "published_date": "2026-11-10",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/introducing-alphaproof-code/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "5140aec84899",
+   "title": "Google and Artificial Analysis launch the Multimodal Knowledge Agent benchmark",
+   "summary": "Google and Artificial Analysis introduced MKA, a benchmark for evaluating agents on real-world knowledge tasks involving visually complex files. The benchmark is available for evaluating models, and Google reports Gemini 4 Carbon ranked second in quality among tested models while completing tasks at an average cost six times lower than the top-scoring model.",
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "80a567fdb16f",
+   "title": "Gemini 4 Carbon becomes generally available",
+   "summary": "Google made Gemini 4 Carbon generally available, including through the Gemini API in AI Studio for paying developers and enterprises. Google describes Carbon as its strongest model for long-horizon agentic workflows, complex knowledge work, software engineering, scientific reasoning, and cybersecurity capabilities.",
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://ai.google.dev/gemini-api/docs/changelog"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "8722c93f3bd4",
+   "title": "Adobe and Google expand partnership across Gemini, Workspace, and creative AI",
+   "summary": "Adobe and Google announced an expanded partnership to bring Adobe tools into Google Workspace, Gemini, Gemini Enterprise, and Search’s AI Mode, while bringing Google AI models into Adobe products. Adobe and Google DeepMind will also explore AI-powered image-editing capabilities, starting with Photoshop.",
+   "source_url": "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "partnership/deal",
+   "topic": "google-gemini",
+   "citations": [
+    "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "a98763b80c84",
+   "title": "Google DeepMind introduces Gemini Robotics 2.5",
+   "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action model intended to expand robots’ dexterity, reliability, and task breadth. The announcement reports evaluation across more than 200 tasks and a 96% success rate in a production-line proof of concept with Apptronik and Mercedes-Benz; the model is rolling out to robotics partners.",
+   "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "published_date": "2026-11-10",
+   "company": "Google DeepMind",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "c1f62b3dc968",
+   "title": "Gemini skills begin rolling out across Google Workspace and Workspace Studio",
+   "summary": "Google began rolling out reusable Gemini Skills across Workspace Studio and Workspace apps, allowing teams to apply their own rules, templates, and reference files. The post lists Gmail, Docs, Slides, Drive, and Chat among supported surfaces; rollout timing differs for Rapid Release and Scheduled Release domains.",
+   "source_url": "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "http://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "09bf66735211",
+   "title": "Google AI Studio adds prompt-based Google Maps app building",
+   "summary": "Google AI Studio now lets developers describe an app idea and have Gemini help build it with Google Maps Platform. AI Studio handles configuration and API-key management, and Google says developers can start without a credit card, making mapping-based prototypes easier to create.",
+   "source_url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+   "published_date": "2026-11-09",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+    "https://x.com/GoogleAIStudio/status/2119837788937896234"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "714506c910e5",
    "title": "Google Cloud makes DeepMind's Cloud Pathways runtime generally available",
@@ -43,20 +156,6 @@
    "topic": "google-gemini",
    "citations": [
     "https://x.com/pushmeet/status/2119373171321196892"
-   ],
-   "briefing": "2026-11-10"
-  },
-  {
-   "id": "80a567fdb16f",
-   "title": "Gemini API routes Embedding 2 Preview requests to the stable model",
-   "summary": "Effective November 6, requests using `gemini-embedding-2-preview` are routed to `gemini-embedding-2` at the stable model’s rates. Google says the stable model uses the same API schema, pricing, and embedding space, so the transition requires no other code changes or vector re-indexing.",
-   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
-   "published_date": "2026-11-06",
-   "company": "Google",
-   "category": "feature update",
-   "topic": "google-gemini",
-   "citations": [
-    "https://ai.google.dev/gemini-api/docs/changelog"
    ],
    "briefing": "2026-11-10"
   },

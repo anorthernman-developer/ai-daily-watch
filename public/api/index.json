@@ -1,14 +1,14 @@
 {
  "name": "AI Daily Watch",
  "site": "https://anorthernman-developer.github.io/ai-daily-watch",
- "updated": "2026-11-10T07:05:58+00:00",
- "latest_briefing": "2026-11-10",
- "items_total": 247,
+ "updated": "2026-11-11T07:16:44+00:00",
+ "latest_briefing": "2026-11-11",
+ "items_total": 279,
  "topics": [
   {
    "key": "copilot-m365",
    "name": "Microsoft Copilot & Microsoft 365",
-   "count": 15,
+   "count": 16,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/copilot-m365.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/copilot-m365.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/copilot-m365/"
@@ -16,7 +16,7 @@
   {
    "key": "azure-foundry",
    "name": "Azure AI & Microsoft Foundry",
-   "count": 6,
+   "count": 10,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/azure-foundry.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/azure-foundry.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/azure-foundry/"
@@ -24,7 +24,7 @@
   {
    "key": "windows-autopilot-intune",
    "name": "Windows, Autopilot & Intune",
-   "count": 15,
+   "count": 16,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/windows-autopilot-intune.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/windows-autopilot-intune.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/windows-autopilot-intune/"
@@ -32,7 +32,7 @@
   {
    "key": "devtools-github-vscode",
    "name": "VS Code, GitHub & developer tools",
-   "count": 54,
+   "count": 60,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/devtools-github-vscode.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/devtools-github-vscode.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/devtools-github-vscode/"
@@ -40,7 +40,7 @@
   {
    "key": "anthropic-claude",
    "name": "Anthropic & Claude",
-   "count": 39,
+   "count": 44,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/anthropic-claude.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/anthropic-claude.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/anthropic-claude/"
@@ -48,7 +48,7 @@
   {
    "key": "openai",
    "name": "OpenAI",
-   "count": 28,
+   "count": 33,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/openai.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/openai.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/openai/"
@@ -56,7 +56,7 @@
   {
    "key": "google-gemini",
    "name": "Google Gemini & DeepMind",
-   "count": 24,
+   "count": 31,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/google-gemini.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/google-gemini.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/google-gemini/"
@@ -64,13 +64,19 @@
   {
    "key": "ai-trends",
    "name": "AI news, innovation & trends",
-   "count": 66,
+   "count": 69,
    "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/topics/ai-trends.json",
    "rss": "https://anorthernman-developer.github.io/ai-daily-watch/feeds/ai-trends.xml",
    "page": "https://anorthernman-developer.github.io/ai-daily-watch/topics/ai-trends/"
   }
  ],
  "briefings": [
+  {
+   "date": "2026-11-11",
+   "count": 34,
+   "json": "https://anorthernman-developer.github.io/ai-daily-watch/api/digests/2026-11-11.json",
+   "page": "https://anorthernman-developer.github.io/ai-daily-watch/briefings/2026-11-11/"
+  },
   {
    "date": "2026-11-10",
    "count": 35,

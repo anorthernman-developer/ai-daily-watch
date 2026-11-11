@@ -2,8 +2,93 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 54,
+ "count": 60,
  "items": [
+  {
+   "id": "4cb91b52809f",
+   "title": "Microsoft опубликовала ноябрьские обновления .NET и .NET Framework, включая исправления безопасности",
+   "summary": "Microsoft выпустила ноябрьские сервисные обновления для .NET 8, 9 и 10 с исправлениями безопасности и другими исправлениями. В опубликованных бюллетенях также перечислены затрагивающие .NET и Visual Studio уязвимости, включая несколько проблем удалённого выполнения кода в Visual Studio.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "70d4acf36067",
+   "title": "Microsoft выпустила .NET 11",
+   "summary": "Microsoft выпустила .NET 11 с изменениями в C# 15, ASP.NET Core, .NET MAUI, SDK и библиотеках платформы. Среди новшеств — возможности для AI-разработки, оптимизации выполнения и инструменты, призванные ускорить повседневные рабочие процессы разработчиков.",
+   "source_url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "https://developer.microsoft.com/zh-tw/events"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "05979d1f1d1b",
+   "title": "Project Zenith стал доступен на AMD Ryzen AI Halo",
+   "summary": "Project Zenith — подготовленная для разработчиков среда Windows 11 — стала доступна с предустановкой на AMD Ryzen AI Halo с процессором Ryzen AI Max+ PRO 495. Среда включает VS Code, Git и инструменты GitHub и Azure, а также Python, Node.js, .NET, PowerShell 7 и WSL, упрощая начало локальной разработки и работы с AI.",
+   "source_url": "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html",
+   "published_date": "2026-11-09",
+   "company": "Microsoft и AMD",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://www.amd.com/en/blogs/2026/project-zenith-comes-to-amd-ryzen-ai-halo-ready-to-code.html"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "06e2b9999d4d",
+   "title": "GitHub secret scanning теперь обнаруживает секреты в логах GitHub Actions",
+   "summary": "GitHub Secret Scanning теперь может искать секреты в логах GitHub Actions после завершения workflow, а обнаружения отображаются в списке оповещений репозитория со ссылкой на соответствующий лог. Функция доступна в публичном preview и расширяет мониторинг за пределы кода, issues, wiki, discussions и pull requests.",
+   "source_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+   "published_date": "2026-11-09",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "5374dbed19b7",
+   "title": "Windows App Development CLI v0.8 добавляет WinUI DevTools, профилирование и поддержку C++",
+   "summary": "Microsoft выпустила WinApp CLI 0.8.0 с экспериментальными WinUI DevTools для инспектирования и проверки изменений в работающем приложении, а также с профилированием производительности и поддержкой C++-проектов. Инструменты помогают разработчикам исследовать интерфейс и производительность приложений и собирать проекты Visual Studio C++ через CLI.",
+   "source_url": "https://devblogs.microsoft.com/ifdef-windows/windows-app-development-cli-v0-8/",
+   "published_date": "2026-11-09",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/ifdef-windows/windows-app-development-cli-v0-8/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "c07c40b0199e",
+   "title": "Claude Fable 5.2 стала доступна в GitHub Copilot",
+   "summary": "Claude Fable 5.2 теперь доступна в GitHub Copilot для сложных многоэтапных задач по большим кодовым базам. Модель доступна подписчикам Copilot Pro+, Max, Business и Enterprise в VS Code, Visual Studio, Copilot CLI, coding agent и других клиентах; включение для организаций может требовать действий администраторов, а развёртывание идёт постепенно.",
+   "source_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/",
+   "published_date": "2026-11-09",
+   "company": "GitHub",
+   "category": "model release",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot/"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "e53638149900",
    "title": "GitHub анонсировал проекты в приложении Copilot для координации работы",

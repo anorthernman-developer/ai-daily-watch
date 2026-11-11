@@ -2,8 +2,50 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 66,
+ "count": 69,
  "items": [
+  {
+   "id": "1c52468d7a99",
+   "title": "Cyberattacks raise concern that open AI platforms may tighten access",
+   "summary": "A TechCrunch report says attackers accessed some Fireworks customers’ model weights, datasets, and billing information, prompting the company to temporarily disable certain self-service dataset functions while investigating. Hugging Face policy chief Irene Solaiman warned that incidents across open AI platforms could encourage tighter identity checks or access restrictions, potentially making community participation less open.",
+   "source_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "published_date": "2026-11-10",
+   "company": "Fireworks AI and Hugging Face",
+   "category": "security",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "ceb125792ad1",
+   "title": "IBM and Microsoft launch Imagine Enterprise for enterprise AI agents",
+   "summary": "IBM and Microsoft announced Imagine Enterprise, a platform intended to help enterprises build, run, and govern agents for industry-specific processes. It combines IBM Consulting’s library of more than 6,000 agents and assets with Microsoft’s AI, cloud, and security technologies, and initially targets financial services, insurance, and retail.",
+   "source_url": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
+   "published_date": "2026-11-10",
+   "company": "IBM and Microsoft",
+   "category": "product launch",
+   "topic": "ai-trends",
+   "citations": [
+    "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "feb2ba211559",
+   "title": "Meta releases Muse Ember, a low-cost model for repetitive AI-agent tasks",
+   "summary": "Meta introduced Muse Ember, a model designed for recurring agent workloads including tool calls, coding subtasks, routing, and document parsing. It is available through Meta’s Model API at $0.10 per million input tokens and $0.50 per million output tokens, potentially lowering the cost of running high-volume agent tasks.",
+   "source_url": "https://research.meta.ai/blog/muse-ember",
+   "published_date": "2026-11-09",
+   "company": "Meta",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://research.meta.ai/blog/muse-ember"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "57a8ba0d5522",
    "title": "NVIDIA announces investment in Point2 and planned investments in three Korean AI startups",

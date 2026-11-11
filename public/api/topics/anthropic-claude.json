@@ -2,8 +2,78 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 39,
+ "count": 44,
  "items": [
+  {
+   "id": "f6b38323ac2f",
+   "title": "Anthropic signs binding school AI safety and privacy agreement",
+   "summary": "Anthropic signed a legally binding AI safety and privacy agreement with the American Federation of Teachers and the United Federation of Teachers for school use. It limits student and educator information to authorized educational purposes, bars sale or targeted-advertising use, and leaves schools in control of data retention and deletion.",
+   "source_url": "https://www.aft.org/press-release/aft-uft-and-anthropic-sign-binding-ai-safety-and-privacy-agreement-schools",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.aft.org/press-release/aft-uft-and-anthropic-sign-binding-ai-safety-and-privacy-agreement-schools"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "418fd0c9fee6",
+   "title": "JPMorganChase expands Claude Code to more employees",
+   "summary": "JPMorganChase is extending Claude use beyond engineering teams, including Claude Code use by infrastructure and operations teams for monitoring, alerting, and root-cause analysis. Anthropic also says the bank’s security team uses its frontier models to find and fix vulnerabilities faster, within the firm’s controlled environment.",
+   "source_url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/jpmorganchase-expands-claude-code"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "796a7f7ee338",
+   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+   "summary": "Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, citing improvements including faster output. Anthropic lists pricing of $8 per million input tokens and $40 per million output tokens and says Fable 5.2 is available across platforms, including AWS, Google Cloud, and Microsoft Azure.",
+   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "model release",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "ce5ea4c26464",
+   "title": "Anthropic shows Claude designing and prototyping electronic devices",
+   "summary": "Anthropic described using Claude Fable 5.2 to design a speakerphone, a voice-assistant hub, and a handheld virtual pet, with Diode assembling the circuit boards and running firmware under Claude’s direction. The prototypes reportedly worked, though Anthropic notes that they are early prototypes and have not been shown to meet commercial certification requirements.",
+   "source_url": "https://www.anthropic.com/research/claude-electronics-design",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/research/claude-electronics-design"
+   ],
+   "briefing": "2026-11-11"
+  },
+  {
+   "id": "f7c768a948cd",
+   "title": "Anthropic details a 1,000-agent proof experiment with Fable 5.2",
+   "summary": "Anthropic’s developer blog describes a team of 1,000 agents running an early Claude Fable 5.2 model that reproduced a formal proof of Fermat’s Last Theorem. The experiment used general tools, a shared database, and layered safety controls, offering a notable example of long-horizon multi-agent work.",
+   "source_url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "research",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"
+   ],
+   "briefing": "2026-11-11"
+  },
   {
    "id": "efa79d1547de",
    "title": "SoftwareOne achieves Select tier in Anthropic’s Claude Partner Network",
