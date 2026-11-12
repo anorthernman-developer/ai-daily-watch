@@ -2,8 +2,36 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 16,
+ "count": 18,
  "items": [
+  {
+   "id": "28aaab34377a",
+   "title": "Microsoft details Copilot Business and Copilot Studio partner promotions",
+   "summary": "Microsoft’s November partner update details promotional Copilot offers, including up to 15% off eligible new Copilot Business add-on subscriptions and 25% off the Business Basic plus Copilot Business bundle through December 31, 2026. It also describes an E7 plus annual Copilot Studio capacity pack Buy 5 Get 5 offer and eligible nonprofit Copilot discounts of up to 40%; terms and eligibility apply.",
+   "source_url": "https://techcommunity.microsoft.com/blog/partnernews/november-update-what%E2%80%99s-new-for-partners-in-ai-business-solutions/4571823",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "pricing/licensing",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/partnernews/november-update-what%E2%80%99s-new-for-partners-in-ai-business-solutions/4571823"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "a039e539029e",
+   "title": "Auto SR launches on ROG XBOX Ally devices and expands to AMD-powered Copilot+ PCs",
+   "summary": "Microsoft brought Auto SR out of preview on the ROG XBOX Ally X and X20 and expanded availability to select AMD Ryzen-powered Copilot+ PCs. Handheld play and 1080p support are available, while Performance Mode (up to 120 FPS) and Auto HDR compatibility are rolling out through Windows updates.",
+   "source_url": "https://devblogs.microsoft.com/directx/autosr-performance-mode/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://devblogs.microsoft.com/directx/autosr-performance-mode/"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "b1dfbbacc87e",
    "title": "Copilot connector write actions become generally available in Copilot Chat and Cowork",

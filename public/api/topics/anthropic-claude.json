@@ -2,8 +2,64 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 44,
+ "count": 47,
  "items": [
+  {
+   "id": "3180dbea1b88",
+   "title": "Curative says its Claude agent negotiates over 2,000 provider contracts weekly",
+   "summary": "Anthropic published a customer story about Curative’s agent Gwen, built with Claude, for negotiating healthcare-provider contracts. Curative reports 23,000 contracts signed with Gwen and 2,000–2,400 new contracts per week, compared with 2,100 in all of 2025, illustrating a substantial production deployment of Claude agents.",
+   "source_url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "5999cff9bcca",
+   "title": "Anthropic’s desktop changelog sets the Unified Claude rollout and version timing",
+   "summary": "Anthropic’s desktop changelog sets November 10 at 12:00 p.m. Pacific as the Unified Claude activation point for versions 4.4212.0 through 4.23118.1, while version 5.1231.0 defers activation until December 17. The notes also explain how administrators can keep the app in Code-only mode, making the update relevant to organizations managing desktop deployments.",
+   "source_url": "https://claude.com/docs/cowork/changelog",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/docs/cowork/changelog"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "7737e173e31a",
+   "title": "Anthropic launches Claude Whiteboards and Sheets; Claude Data becomes generally available",
+   "summary": "Anthropic launched Claude Whiteboards and Claude Sheets in beta, enabling teams to brainstorm and collaborate on boards and spreadsheets with Claude. Claude Dashboards was renamed Claude Data and became generally available, with features including data stories, certified queries, and live sharing.",
+   "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/sheets-whiteboards-data"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "eb06b7a71ce1",
+   "title": "Claude expands interactive connectors to let users and Claude work inside partner apps",
+   "summary": "Anthropic expanded interactive connectors so supported partner apps can open beside a Claude conversation or full-screen, and users can ask Claude to make changes within the app. The rollout is for web and desktop across plans; the expanded MCP Apps capabilities are also in public preview for developers.",
+   "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/interactive-connectors-full-tool"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "f6b38323ac2f",
    "title": "Anthropic signs binding school AI safety and privacy agreement",
@@ -29,20 +85,6 @@
    "topic": "anthropic-claude",
    "citations": [
     "https://claude.com/resources/articles/jpmorganchase-expands-claude-code"
-   ],
-   "briefing": "2026-11-11"
-  },
-  {
-   "id": "796a7f7ee338",
-   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
-   "summary": "Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, citing improvements including faster output. Anthropic lists pricing of $8 per million input tokens and $40 per million output tokens and says Fable 5.2 is available across platforms, including AWS, Google Cloud, and Microsoft Azure.",
-   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "published_date": "2026-11-09",
-   "company": "Anthropic",
-   "category": "model release",
-   "topic": "anthropic-claude",
-   "citations": [
-    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
    ],
    "briefing": "2026-11-11"
   },

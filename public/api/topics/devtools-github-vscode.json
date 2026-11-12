@@ -2,8 +2,66 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 60,
+ "count": 64,
  "items": [
+  {
+   "id": "53d05a8d28b7",
+   "title": "Microsoft publishes Go 1.27.4-1 and 1.26.11-1 builds with security fixes",
+   "summary": "Microsoft made Go builds v1.27.4-1 and v1.26.11-1 available, including security fixes. The announcement links each build to its corresponding upstream Go release notes.",
+   "source_url": "https://devblogs.microsoft.com/go/go-1-27-4-1-and-1-26-11-1-microsoft-builds-now-available/",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/go/go-1-27-4-1-and-1-26-11-1-microsoft-builds-now-available/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "70724cca4e51",
+   "title": "GitHub Apps can manage enterprise Copilot seats through APIs",
+   "summary": "Enterprise GitHub Apps can now call Copilot seat-management APIs to control which users and enterprise teams receive seats, using a new fine-grained permission named “Enterprise Copilot license management.” The announcement was published after the previous monitoring run and enables app-based management of enterprise Copilot assignments.",
+   "source_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management/",
+   "published_date": "2026-11-11",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/feed/",
+    "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "e92e341cf7f4",
+   "title": "Visual Studio Code 1.146 becomes the stable release",
+   "summary": "VS Code 1.146 was released on the Stable channel on November 11. Highlights include experimental inbox mode, preview model comparisons and separate chat windows, extensions in the Agents window, and a migration notice for the Local harness before its planned removal in February 2027.",
+   "source_url": "https://code.visualstudio.com/updates",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://code.visualstudio.com/updates"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "f86613271e04",
+   "title": "Gemini 4 Carbon becomes available in GitHub Copilot",
+   "summary": "Gemini 4 Carbon is now generally available in GitHub Copilot for complex coding, agentic and reasoning tasks, with a focus on secure code generation. It is available to Pro+, Max, Business and Enterprise users across clients including VS Code, Visual Studio, Copilot CLI and the coding agent, and uses provider list pricing under usage-based billing.",
+   "source_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
+   "published_date": "2026-11-10",
+   "company": "GitHub",
+   "category": "model release",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/feed/",
+    "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "4cb91b52809f",
    "title": "Microsoft опубликовала ноябрьские обновления .NET и .NET Framework, включая исправления безопасности",

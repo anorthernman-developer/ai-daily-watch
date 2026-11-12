@@ -2,8 +2,37 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 33,
+ "count": 35,
  "items": [
+  {
+   "id": "c98ed37f7cef",
+   "title": "OpenAI says over 20,000 veterans claimed free ChatGPT Plus",
+   "summary": "OpenAI reported that more than 20,000 transitioning service members and veterans claimed a year of ChatGPT Plus at no cost. The update spotlights the program’s reach and links eligible users to the free-year offer.",
+   "source_url": "https://openai.com/index/chatgpt-plus-for-veterans/",
+   "published_date": "2026-11-11",
+   "company": "OpenAI",
+   "category": "community trend",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/chatgpt-plus-for-veterans/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "31de89519aff",
+   "title": "OpenAI Codex CLI 0.167.1 adds opt-in incremental tools",
+   "summary": "Codex CLI 0.167.1 adds a disabled-by-default option for incremental tool declarations on regular Responses requests, with support for tool updates in conversation history. The change is gated to Amazon Bedrock provider IDs, making this a targeted developer-platform update rather than a general ChatGPT feature change.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+    "https://openai.com/index/chatgpt-plus-for-veterans/"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "01a8528fa117",
    "title": "OpenAI publishes education report on AI guidance and independent learning",

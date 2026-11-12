@@ -2,8 +2,36 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 10,
+ "count": 12,
  "items": [
+  {
+   "id": "bfaa68d725b8",
+   "title": "Azure HDv2 virtual machines enter preview for AI and agentic workloads",
+   "summary": "Microsoft opened preview registration for Azure HDv2 virtual machines, targeting AI data preparation, compute-intensive HPC, and dense agentic-AI workloads. The VMs combine more than 500 CPU cores, 3.8 TB of memory, local NVMe storage, and 400 Gb networking, potentially reducing bottlenecks for data processing and concurrent agent tasks.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/accelerating-ai-data-processing-hpc-and-agentic-workloads-with-azure-hdv2-virtua/4567877",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/accelerating-ai-data-processing-hpc-and-agentic-workloads-with-azure-hdv2-virtua/4567877"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "fe8de82e24dc",
+   "title": "Kimi K3.1 Pro becomes available through Fireworks on Microsoft Foundry",
+   "summary": "Kimi K3.1 Pro, an open-weight multimodal model with a 1-million-token context window, is now available on Microsoft Foundry through Fireworks. Microsoft’s post lists Global Standard deployment and token pricing, adding another model option for developers building on Azure.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-1-pro-through-fireworks-on-microsoft-foundry/4571875",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-1-pro-through-fireworks-on-microsoft-foundry/4571875"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "6f24d16acb70",
    "title": "Azure OpenAI and Foundry models become available from Qatar Central",

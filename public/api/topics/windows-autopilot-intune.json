@@ -2,8 +2,39 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 16,
+ "count": 18,
  "items": [
+  {
+   "id": "3e36a801491a",
+   "title": "Windows 11 23H2 Enterprise and Education reach end of updates",
+   "summary": "Microsoft says Windows 11 version 23H2 Enterprise and Education reached end of updates on November 10, 2026. The November security update is the last available for those editions, so eligible devices need to move to a supported Windows 11 version to continue receiving monthly security and quality updates.",
+   "source_url": "https://learn.microsoft.com/en-us/windows/release-health/windows-message-center",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://learn.microsoft.com/en-us/windows/release-health/windows-message-center",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5131087-windows-11-23h2-security-update"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "944a69ae037c",
+   "title": "Microsoft releases November security updates for supported Windows 11 versions",
+   "summary": "Microsoft published its November 10 cumulative security updates for Windows 11, including KB5132061 for 26H2, 25H2, and 24H2 Enterprise/Education; KB5132059 for 26H1; and KB5131087 for 23H2. The updates include security fixes and quality improvements, including stronger default NTLM signing for non-anonymous connections on versions covered by KB5132061.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132061-windows-11-24h2-25h2-26h2-security-update",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132061-windows-11-24h2-25h2-26h2-security-update",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132059-windows-11-26h1-security-update",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5131087-windows-11-23h2-security-update"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "d37c4df696b2",
    "title": "Adobe and Microsoft expand creative apps and Adobe Express integration on Windows",

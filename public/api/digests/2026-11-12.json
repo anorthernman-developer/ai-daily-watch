@@ -1,0 +1,352 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T07:16:16+00:00",
+ "count": 24,
+ "items": [
+  {
+   "id": "28aaab34377a",
+   "title": "Microsoft details Copilot Business and Copilot Studio partner promotions",
+   "summary": "Microsoft’s November partner update details promotional Copilot offers, including up to 15% off eligible new Copilot Business add-on subscriptions and 25% off the Business Basic plus Copilot Business bundle through December 31, 2026. It also describes an E7 plus annual Copilot Studio capacity pack Buy 5 Get 5 offer and eligible nonprofit Copilot discounts of up to 40%; terms and eligibility apply.",
+   "source_url": "https://techcommunity.microsoft.com/blog/partnernews/november-update-what%E2%80%99s-new-for-partners-in-ai-business-solutions/4571823",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "pricing/licensing",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/partnernews/november-update-what%E2%80%99s-new-for-partners-in-ai-business-solutions/4571823"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "a039e539029e",
+   "title": "Auto SR launches on ROG XBOX Ally devices and expands to AMD-powered Copilot+ PCs",
+   "summary": "Microsoft brought Auto SR out of preview on the ROG XBOX Ally X and X20 and expanded availability to select AMD Ryzen-powered Copilot+ PCs. Handheld play and 1080p support are available, while Performance Mode (up to 120 FPS) and Auto HDR compatibility are rolling out through Windows updates.",
+   "source_url": "https://devblogs.microsoft.com/directx/autosr-performance-mode/",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://devblogs.microsoft.com/directx/autosr-performance-mode/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "bfaa68d725b8",
+   "title": "Azure HDv2 virtual machines enter preview for AI and agentic workloads",
+   "summary": "Microsoft opened preview registration for Azure HDv2 virtual machines, targeting AI data preparation, compute-intensive HPC, and dense agentic-AI workloads. The VMs combine more than 500 CPU cores, 3.8 TB of memory, local NVMe storage, and 400 Gb networking, potentially reducing bottlenecks for data processing and concurrent agent tasks.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/accelerating-ai-data-processing-hpc-and-agentic-workloads-with-azure-hdv2-virtua/4567877",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "roadmap/preview",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/accelerating-ai-data-processing-hpc-and-agentic-workloads-with-azure-hdv2-virtua/4567877"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "fe8de82e24dc",
+   "title": "Kimi K3.1 Pro becomes available through Fireworks on Microsoft Foundry",
+   "summary": "Kimi K3.1 Pro, an open-weight multimodal model with a 1-million-token context window, is now available on Microsoft Foundry through Fireworks. Microsoft’s post lists Global Standard deployment and token pricing, adding another model option for developers building on Azure.",
+   "source_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-1-pro-through-fireworks-on-microsoft-foundry/4571875",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-kimi-k3-1-pro-through-fireworks-on-microsoft-foundry/4571875"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "3e36a801491a",
+   "title": "Windows 11 23H2 Enterprise and Education reach end of updates",
+   "summary": "Microsoft says Windows 11 version 23H2 Enterprise and Education reached end of updates on November 10, 2026. The November security update is the last available for those editions, so eligible devices need to move to a supported Windows 11 version to continue receiving monthly security and quality updates.",
+   "source_url": "https://learn.microsoft.com/en-us/windows/release-health/windows-message-center",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://learn.microsoft.com/en-us/windows/release-health/windows-message-center",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5131087-windows-11-23h2-security-update"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "944a69ae037c",
+   "title": "Microsoft releases November security updates for supported Windows 11 versions",
+   "summary": "Microsoft published its November 10 cumulative security updates for Windows 11, including KB5132061 for 26H2, 25H2, and 24H2 Enterprise/Education; KB5132059 for 26H1; and KB5131087 for 23H2. The updates include security fixes and quality improvements, including stronger default NTLM signing for non-anonymous connections on versions covered by KB5132061.",
+   "source_url": "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132061-windows-11-24h2-25h2-26h2-security-update",
+   "published_date": "2026-11-10",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132061-windows-11-24h2-25h2-26h2-security-update",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5132059-windows-11-26h1-security-update",
+    "https://support.microsoft.com/en-us/servicing/os/windows-11/2026/11/kb5131087-windows-11-23h2-security-update"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "f86613271e04",
+   "title": "Gemini 4 Carbon becomes available in GitHub Copilot",
+   "summary": "Gemini 4 Carbon is now generally available in GitHub Copilot for complex coding, agentic and reasoning tasks, with a focus on secure code generation. It is available to Pro+, Max, Business and Enterprise users across clients including VS Code, Visual Studio, Copilot CLI and the coding agent, and uses provider list pricing under usage-based billing.",
+   "source_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
+   "published_date": "2026-11-10",
+   "company": "GitHub",
+   "category": "model release",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/feed/",
+    "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "53d05a8d28b7",
+   "title": "Microsoft publishes Go 1.27.4-1 and 1.26.11-1 builds with security fixes",
+   "summary": "Microsoft made Go builds v1.27.4-1 and v1.26.11-1 available, including security fixes. The announcement links each build to its corresponding upstream Go release notes.",
+   "source_url": "https://devblogs.microsoft.com/go/go-1-27-4-1-and-1-26-11-1-microsoft-builds-now-available/",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/go/go-1-27-4-1-and-1-26-11-1-microsoft-builds-now-available/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "70724cca4e51",
+   "title": "GitHub Apps can manage enterprise Copilot seats through APIs",
+   "summary": "Enterprise GitHub Apps can now call Copilot seat-management APIs to control which users and enterprise teams receive seats, using a new fine-grained permission named “Enterprise Copilot license management.” The announcement was published after the previous monitoring run and enables app-based management of enterprise Copilot assignments.",
+   "source_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management/",
+   "published_date": "2026-11-11",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/feed/",
+    "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "e92e341cf7f4",
+   "title": "Visual Studio Code 1.146 becomes the stable release",
+   "summary": "VS Code 1.146 was released on the Stable channel on November 11. Highlights include experimental inbox mode, preview model comparisons and separate chat windows, extensions in the Agents window, and a migration notice for the Local harness before its planned removal in February 2027.",
+   "source_url": "https://code.visualstudio.com/updates",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://code.visualstudio.com/updates"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "3180dbea1b88",
+   "title": "Curative says its Claude agent negotiates over 2,000 provider contracts weekly",
+   "summary": "Anthropic published a customer story about Curative’s agent Gwen, built with Claude, for negotiating healthcare-provider contracts. Curative reports 23,000 contracts signed with Gwen and 2,000–2,400 new contracts per week, compared with 2,100 in all of 2025, illustrating a substantial production deployment of Claude agents.",
+   "source_url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "5999cff9bcca",
+   "title": "Anthropic’s desktop changelog sets the Unified Claude rollout and version timing",
+   "summary": "Anthropic’s desktop changelog sets November 10 at 12:00 p.m. Pacific as the Unified Claude activation point for versions 4.4212.0 through 4.23118.1, while version 5.1231.0 defers activation until December 17. The notes also explain how administrators can keep the app in Code-only mode, making the update relevant to organizations managing desktop deployments.",
+   "source_url": "https://claude.com/docs/cowork/changelog",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/docs/cowork/changelog"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "7737e173e31a",
+   "title": "Anthropic launches Claude Whiteboards and Sheets; Claude Data becomes generally available",
+   "summary": "Anthropic launched Claude Whiteboards and Claude Sheets in beta, enabling teams to brainstorm and collaborate on boards and spreadsheets with Claude. Claude Dashboards was renamed Claude Data and became generally available, with features including data stories, certified queries, and live sharing.",
+   "source_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/sheets-whiteboards-data"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "eb06b7a71ce1",
+   "title": "Claude expands interactive connectors to let users and Claude work inside partner apps",
+   "summary": "Anthropic expanded interactive connectors so supported partner apps can open beside a Claude conversation or full-screen, and users can ask Claude to make changes within the app. The rollout is for web and desktop across plans; the expanded MCP Apps capabilities are also in public preview for developers.",
+   "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+   "published_date": "2026-11-10",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/interactive-connectors-full-tool"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "31de89519aff",
+   "title": "OpenAI Codex CLI 0.167.1 adds opt-in incremental tools",
+   "summary": "Codex CLI 0.167.1 adds a disabled-by-default option for incremental tool declarations on regular Responses requests, with support for tool updates in conversation history. The change is gated to Amazon Bedrock provider IDs, making this a targeted developer-platform update rather than a general ChatGPT feature change.",
+   "source_url": "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+   "published_date": "2026-11-10",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+    "https://openai.com/index/chatgpt-plus-for-veterans/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "c98ed37f7cef",
+   "title": "OpenAI says over 20,000 veterans claimed free ChatGPT Plus",
+   "summary": "OpenAI reported that more than 20,000 transitioning service members and veterans claimed a year of ChatGPT Plus at no cost. The update spotlights the program’s reach and links eligible users to the free-year offer.",
+   "source_url": "https://openai.com/index/chatgpt-plus-for-veterans/",
+   "published_date": "2026-11-11",
+   "company": "OpenAI",
+   "category": "community trend",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/chatgpt-plus-for-veterans/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "86618a52e501",
+   "title": "Google expands Gemini in Gmail to more Workspace users",
+   "summary": "Google is expanding Gemini in Gmail features to more Workspace users aged 18 and older, including AI-generated summaries of long email threads and Help me write drafting and editing assistance. The rollout began November 10 and is available to Workspace customers, Workspace Individual subscribers, and eligible personal-account users with Gmail smart features enabled.",
+   "source_url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "ac5a661efbfd",
+   "title": "Google expands Gemini Intelligence features and device support on Android",
+   "summary": "Google announced new Gemini Intelligence features and expanded device availability, including Pixel 10 models and Motorola’s motorola signature 27. The update also expands task automation to the UK, India, and Japan, and previews proactive Android Auto suggestions and customizable Pixel Watch widgets.",
+   "source_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "published_date": "2026-11-10",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "5b916f1bea87",
+   "title": "Google DeepMind announces AlphaGenome 2 for cell-specific DNA variant research",
+   "summary": "Google DeepMind announced AlphaGenome 2, a model that predicts how DNA sequences and variants affect specific human cell types and states. DeepMind reports improved variant identification compared with prior approaches; the model is available for non-commercial research via the AlphaGenome API and in private preview for commercial research.",
+   "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "published_date": "2026-11-11",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "796a7f7ee338",
+   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 for advanced technical work",
+   "summary": "Anthropic launched Claude Fable 5.2 and Mythos 5.2, citing improvements in technical work and outputs up to 30% faster than the previous versions. The models are listed at $8 per million input tokens and $40 per million output tokens; Mythos access is limited to vetted organizations, reflecting the model’s dual-use cybersecurity and life-sciences capabilities.",
+   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "00dafc0eac7b",
+   "title": "Alibaba opens Qwen4-Max multimodal model in preview",
+   "summary": "Alibaba made Qwen4-Max-Preview, its next-generation flagship multimodal model, available for a limited preview. The model is described as supporting text, image and video understanding, deep reasoning, and agentic tasks; preview access is through Token Plan.",
+   "source_url": "https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview",
+   "published_date": "2026-11-11",
+   "company": "Alibaba",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "0effffacdf14",
+   "title": "Rox raises $100 million Series B at a $1.3 billion valuation",
+   "summary": "AI sales startup Rox announced a $100 million Series B at a $1.3 billion valuation. Reuters reported that the company plans to use the funding to advance AI research, develop custom models, and expand its enterprise customer base.",
+   "source_url": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html",
+   "published_date": "2026-11-11",
+   "company": "Rox",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html",
+    "https://www.reuters.com/business/automation-startup-rox-raises-100-million-13-billion-valuation-2026-11-11/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "7c021a2e6c5b",
+   "title": "Plurai raises $13 million to build a simulation layer for AI agents",
+   "summary": "Plurai raised a $13 million seed round led by Team8, with participation from U&I, Velocity, and Mercer. The startup is developing a simulation layer to test AI agents in unpredictable environments, aiming to address reliability and cost challenges before agents are deployed in real workflows.",
+   "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "published_date": "2026-11-11",
+   "company": "Plurai",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "f85b62d55e19",
+   "title": "Study finds drug ads can shift AI treatment recommendations",
+   "summary": "Researchers tested 12 AI models and found that clearly labeled pharmaceutical ads could shift treatment recommendations toward the advertised drug, including when several options were clinically appropriate. The result raises concerns about undisclosed commercial influence in consumer-facing health AI, although the study notes that effects on real prescribing or patient decisions require further research.",
+   "source_url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
+   "published_date": "2026-11-11",
+   "company": "Icahn School of Medicine at Mount Sinai and collaborating researchers",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.mountsinai.org/about/newsroom/2026/drug-ads-can-influence-ai-treatment-recommendations-study-finds",
+    "https://www.thelancet.com/latest-research",
+    "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext"
+   ],
+   "briefing": "2026-11-12"
+  }
+ ]
+}

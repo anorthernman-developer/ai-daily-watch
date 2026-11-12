@@ -2,8 +2,81 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 69,
+ "count": 74,
  "items": [
+  {
+   "id": "00dafc0eac7b",
+   "title": "Alibaba opens Qwen4-Max multimodal model in preview",
+   "summary": "Alibaba made Qwen4-Max-Preview, its next-generation flagship multimodal model, available for a limited preview. The model is described as supporting text, image and video understanding, deep reasoning, and agentic tasks; preview access is through Token Plan.",
+   "source_url": "https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview",
+   "published_date": "2026-11-11",
+   "company": "Alibaba",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "0effffacdf14",
+   "title": "Rox raises $100 million Series B at a $1.3 billion valuation",
+   "summary": "AI sales startup Rox announced a $100 million Series B at a $1.3 billion valuation. Reuters reported that the company plans to use the funding to advance AI research, develop custom models, and expand its enterprise customer base.",
+   "source_url": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html",
+   "published_date": "2026-11-11",
+   "company": "Rox",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html",
+    "https://www.reuters.com/business/automation-startup-rox-raises-100-million-13-billion-valuation-2026-11-11/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "7c021a2e6c5b",
+   "title": "Plurai raises $13 million to build a simulation layer for AI agents",
+   "summary": "Plurai raised a $13 million seed round led by Team8, with participation from U&I, Velocity, and Mercer. The startup is developing a simulation layer to test AI agents in unpredictable environments, aiming to address reliability and cost challenges before agents are deployed in real workflows.",
+   "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "published_date": "2026-11-11",
+   "company": "Plurai",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "f85b62d55e19",
+   "title": "Study finds drug ads can shift AI treatment recommendations",
+   "summary": "Researchers tested 12 AI models and found that clearly labeled pharmaceutical ads could shift treatment recommendations toward the advertised drug, including when several options were clinically appropriate. The result raises concerns about undisclosed commercial influence in consumer-facing health AI, although the study notes that effects on real prescribing or patient decisions require further research.",
+   "source_url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext",
+   "published_date": "2026-11-11",
+   "company": "Icahn School of Medicine at Mount Sinai and collaborating researchers",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.mountsinai.org/about/newsroom/2026/drug-ads-can-influence-ai-treatment-recommendations-study-finds",
+    "https://www.thelancet.com/latest-research",
+    "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00137-8/fulltext"
+   ],
+   "briefing": "2026-11-12"
+  },
+  {
+   "id": "796a7f7ee338",
+   "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 for advanced technical work",
+   "summary": "Anthropic launched Claude Fable 5.2 and Mythos 5.2, citing improvements in technical work and outputs up to 30% faster than the previous versions. The models are listed at $8 per million input tokens and $40 per million output tokens; Mythos access is limited to vetted organizations, reflecting the model’s dual-use cybersecurity and life-sciences capabilities.",
+   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "published_date": "2026-11-09",
+   "company": "Anthropic",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   ],
+   "briefing": "2026-11-12"
+  },
   {
    "id": "1c52468d7a99",
    "title": "Cyberattacks raise concern that open AI platforms may tighten access",
