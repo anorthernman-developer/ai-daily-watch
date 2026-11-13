@@ -2,21 +2,35 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 34,
+ "count": 35,
  "items": [
   {
-   "id": "5b916f1bea87",
-   "title": "Google DeepMind announces AlphaGenome 2 for cell-specific DNA variant research",
-   "summary": "Google DeepMind announced AlphaGenome 2, a model that predicts how DNA sequences and variants affect specific human cell types and states. DeepMind reports improved variant identification compared with prior approaches; the model is available for non-commercial research via the AlphaGenome API and in private preview for commercial research.",
-   "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "id": "845b2050df4d",
+   "title": "Gemini Live launches on Apple CarPlay",
+   "summary": "Google brought Gemini Live to Apple CarPlay, enabling hands-free conversations while driving, including tasks such as summarizing emails and checking a calendar. The global rollout began November 11 for Gemini users on iOS in supported Gemini Live languages.",
+   "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
    "published_date": "2026-11-11",
-   "company": "Google DeepMind",
-   "category": "research",
+   "company": "Google",
+   "category": "feature update",
    "topic": "google-gemini",
    "citations": [
-    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
    ],
-   "briefing": "2026-11-12"
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "8e4104a923ec",
+   "title": "Google launches Gemini Decisions API and Gemini Decision 1",
+   "summary": "Google introduced Gemini Decision 1 and the Gemini Decisions API for fast, closed-set decisions across text, images, audio, video, and PDFs. It supports up to 1,000 questions per request, returns probabilities and confidence scores, and is priced at $0.10 per million input tokens with no charge for output tokens.",
+   "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "published_date": "2026-11-11",
+   "company": "Google",
+   "category": "model release",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+   ],
+   "briefing": "2026-11-13"
   },
   {
    "id": "86618a52e501",

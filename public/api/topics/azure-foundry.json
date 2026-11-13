@@ -2,8 +2,22 @@
  "topic": "azure-foundry",
  "name": "Azure AI & Microsoft Foundry",
  "description": "Microsoft Foundry, Azure OpenAI, Foundry Agent Service, Azure AI services and major Azure platform updates.",
- "count": 12,
+ "count": 13,
  "items": [
+  {
+   "id": "af1b7d0fc7fa",
+   "title": "Azure Content Understanding добавляет поддержку GPT-5.6, GPT-6 и GPT-6.1",
+   "summary": "Azure Content Understanding добавил поддержку семейств GPT-5.6, GPT-6 и GPT-6.1 для обработки документов, текста, речи и видео. Расширение каталога позволяет подбирать модели под конкретные задачи и компромисс между качеством и стоимостью.",
+   "source_url": "https://devblogs.microsoft.com/foundry/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "azure-foundry",
+   "citations": [
+    "https://devblogs.microsoft.com/foundry/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "bfaa68d725b8",
    "title": "Azure HDv2 virtual machines enter preview for AI and agentic workloads",

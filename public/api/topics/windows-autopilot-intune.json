@@ -2,8 +2,23 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 18,
+ "count": 19,
  "items": [
+  {
+   "id": "8d70322a9a76",
+   "title": "Microsoft details two-phase NTLM signing security improvements for Windows",
+   "summary": "Microsoft says Windows updates from November 10, 2026, begin the first phase of NTLM signing improvements addressing CVE-2026-118737: clients offer signing by default on non-anonymous connections, with auditing to identify connections not using it. A second phase planned for May 2027 will make Windows servers require signing by default, giving administrators a timeline to assess compatibility and prepare.",
+   "source_url": "https://support.microsoft.com/help/5135557",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "security",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://learn.microsoft.com/en-us/windows/release-health/windows-message-center",
+    "https://support.microsoft.com/help/5135557"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "3e36a801491a",
    "title": "Windows 11 23H2 Enterprise and Education reach end of updates",

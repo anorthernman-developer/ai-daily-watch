@@ -2,8 +2,50 @@
  "topic": "anthropic-claude",
  "name": "Anthropic & Claude",
  "description": "Claude models and apps, Claude Code, the Claude developer platform, partnerships, research and safety policy.",
- "count": 47,
+ "count": 50,
  "items": [
+  {
+   "id": "596d7cde3a11",
+   "title": "Anthropic opens self-hosted Claude Managed Agents in private beta",
+   "summary": "Anthropic introduced a private beta of self-hosted Claude Managed Agents, allowing developers to run the service and store agent credentials and session history in their own cloud or on-premises environment. Organizations can choose where model requests are routed, including Anthropic, Amazon Bedrock, Google’s Agent Platform, Microsoft Foundry, or their own gateway.",
+   "source_url": "https://claude.com/blog/self-hosted-claude-managed-agents",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/blog/self-hosted-claude-managed-agents"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "6b5db77df3bf",
+   "title": "Anthropic introduces Claude for Manufacturing with 17 skills and four connectors",
+   "summary": "Anthropic launched Claude for Manufacturing, a plugin with 17 skills for tasks such as quoting, quality investigations, troubleshooting, sourcing, design comparisons, and production reporting. It connects to Autodesk Fusion, Infor, Microsoft 365, and Oracle NetSuite; Anthropic says it is for Team and Enterprise plans, keeps people in review of the work, and does not operate equipment.",
+   "source_url": "https://claude.com/resources/articles/claude-for-manufacturing",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "product launch",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/claude-for-manufacturing"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "7a238471d709",
+   "title": "Anthropic’s updated Usage Policy takes effect, clarifying high-risk use and regional eligibility",
+   "summary": "Anthropic’s updated Usage Policy took effect November 12. The update clarifies requirements for high-risk health and finance use, adds controls for autonomous physical actions, addresses abusive behavior toward models, and clarifies that supported-region restrictions also apply based on an organization’s incorporation, headquarters, ownership, or control.",
+   "source_url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "published_date": "2026-10-08",
+   "company": "Anthropic",
+   "category": "policy/safety",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.anthropic.com/news/2026-usage-policy-update"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "3180dbea1b88",
    "title": "Curative says its Claude agent negotiates over 2,000 provider contracts weekly",

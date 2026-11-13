@@ -2,8 +2,37 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 64,
+ "count": 66,
  "items": [
+  {
+   "id": "17a23fc0ec32",
+   "title": "Bring Your Own Model becomes generally available in Visual Studio",
+   "summary": "Bring Your Own Model is now generally available in Visual Studio 18.12, allowing developers to use provider, self-hosted, or local models without leaving the IDE. The release adds multiple named configurations, custom endpoints and local-model support, API-format controls, and improved proxy handling; GitHub sign-in is not required.",
+   "source_url": "https://devblogs.microsoft.com/visualstudio/bring-your-own-model-is-now-generally-available-in-visual-studio/",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/visualstudio/bring-your-own-model-is-now-generally-available-in-visual-studio/"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "5d86c88c6866",
+   "title": "GitHub makes issue types and fields available for personal accounts",
+   "summary": "GitHub made issue types and issue fields generally available for repositories owned by personal accounts, bringing customizable planning features to individual developers and open-source maintainers. Users can configure up to 25 types and 25 fields and manage them through projects, APIs, and webhooks.",
+   "source_url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts/",
+   "published_date": "2026-11-11",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts/",
+    "https://github.blog/changelog/feed/"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "53d05a8d28b7",
    "title": "Microsoft publishes Go 1.27.4-1 and 1.26.11-1 builds with security fixes",

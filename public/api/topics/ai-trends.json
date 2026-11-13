@@ -2,8 +2,106 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 74,
+ "count": 81,
  "items": [
+  {
+   "id": "3fdf45701a49",
+   "title": "Sompo Holdings and NTT partner to explore physical AI in nursing care",
+   "summary": "Sompo Holdings and NTT agreed to study real-world physical-AI deployment in Japan’s nursing-care sector, with labor shortages as a key motivation. Initial potential use cases include support tasks such as cleaning, laundry, meal preparation, and moving items, while the companies assess pathways from demonstrations to commercialization.",
+   "source_url": "https://group.ntt/en/newsrelease/2026/11/12/261112b.html",
+   "published_date": "2026-11-12",
+   "company": "Sompo Holdings and NTT",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://group.ntt/en/newsrelease/2026/11/12/261112b.html"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "a865d7bae4f0",
+   "title": "MIT researchers develop a more data-efficient method for climate AI models",
+   "summary": "MIT researchers reported a method for training climate-emulation AI with a smaller, carefully optimized synthetic dataset. Their report says the resulting models were more adaptable to scenarios not seen in training, potentially making useful climate tools faster to produce and update.",
+   "source_url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+   "published_date": "2026-11-12",
+   "company": "Massachusetts Institute of Technology",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "b2539f7b1c64",
+   "title": "European Commission issues guidance on AI Act transparency obligations",
+   "summary": "The European Commission published guidance on implementing the AI Act’s Article 50 transparency obligations for certain AI systems. The guidance provides an implementation reference for organizations subject to the Act’s AI transparency requirements.",
+   "source_url": "https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?ojDate=12112026",
+   "published_date": "2026-11-12",
+   "company": "European Commission",
+   "category": "policy/safety",
+   "topic": "ai-trends",
+   "citations": [
+    "https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?ojDate=12112026"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "ecfb88594c01",
+   "title": "Kindo raises $30 million to expand enterprise AI-agent controls",
+   "summary": "Kindo announced a $30 million financing expansion, bringing its total capital raised to $57.6 million. It plans to expand go-to-market operations and develop its platform for discovering, monitoring, and governing enterprise AI-agent activity.",
+   "source_url": "https://www.kindo.ai/resources/press-kindo-raises-57-million-ai-agent-management",
+   "published_date": "2026-11-12",
+   "company": "Kindo",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.kindo.ai/resources/press-kindo-raises-57-million-ai-agent-management"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "5b916f1bea87",
+   "title": "Google DeepMind announces AlphaGenome 2 for cell-specific DNA predictions",
+   "summary": "Google DeepMind announced AlphaGenome 2, a model designed to predict how genetic variants affect specific human cell types and states. The company reports nearly twice as many identified causal variants on a benchmark compared with its prior state of the art; the model is available for non-commercial research and in a commercial-research preview.",
+   "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "published_date": "2026-11-11",
+   "company": "Google DeepMind",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "9eb1984965bf",
+   "title": "Databricks plans roughly $3 billion investment across Europe and the Middle East",
+   "summary": "Databricks announced plans to invest about $3 billion across Europe and the Middle East, expanding regional teams and supporting adoption of its AI and agent products. The investment could deepen its enterprise presence and capacity to help regional customers build and scale AI systems.",
+   "source_url": "https://www.databricks.com/company/newsroom/press-releases/databricks-invest-3-billion-across-europe-and-middle-east",
+   "published_date": "2026-11-11",
+   "company": "Databricks",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.databricks.com/company/newsroom/press-releases/databricks-invest-3-billion-across-europe-and-middle-east"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "ac911e664782",
+   "title": "Salesforce releases autonomous R&D agents that improve AI models",
+   "summary": "Salesforce introduced SFR-AutoR&D, a system of agents designed to carry out research loops, improve codebases, and train models. Salesforce reports that its use on EmbeddingGemma 2 produced a new embedding model with better quality and latency, illustrating a potential route to automated enterprise model improvement.",
+   "source_url": "https://www.salesforce.com/news/stories/agents-that-improve-ai-models/",
+   "published_date": "2026-11-11",
+   "company": "Salesforce",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://www.salesforce.com/news/stories/agents-that-improve-ai-models/"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "00dafc0eac7b",
    "title": "Alibaba opens Qwen4-Max multimodal model in preview",

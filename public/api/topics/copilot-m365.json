@@ -2,8 +2,36 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 18,
+ "count": 19,
  "items": [
+  {
+   "id": "443198113287",
+   "title": "Microsoft corrects Copilot Business nonprofit pricing in the December price-list preview",
+   "summary": "Microsoft disclosed that the December price-list preview had incorrect pricing for the Microsoft 365 Copilot Business nonprofit offer, and says the corrected preview was republished on November 9. Partners who accessed the earlier version are advised to download the updated price list; the notice does not specify the corrected amount.",
+   "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "pricing/licensing",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "78e344779fb3",
+   "title": "Claude Fable 5.2 begins rolling out in Copilot Cowork and Copilot Studio",
+   "summary": "Microsoft is adding Anthropic’s Claude Fable 5.2 as a model choice in Copilot Cowork and Copilot Studio, expanding the models available for complex work. Microsoft says Work IQ can ground its responses in organizational files, meetings, chats, and business data within existing permissions; the rollout is for eligible users.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829",
+   "published_date": "2026-11-11",
+   "company": "Microsoft",
+   "category": "model release",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "28aaab34377a",
    "title": "Microsoft details Copilot Business and Copilot Studio partner promotions",
@@ -73,20 +101,6 @@
     "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel"
    ],
    "briefing": "2026-11-07"
-  },
-  {
-   "id": "443198113287",
-   "title": "Microsoft announces fair-use limits for additional Copilot Chat features",
-   "summary": "Microsoft is introducing fair-use limits for additional Copilot Chat features for unlicensed users in commercial tenants, across web, desktop, and mobile. The change began November 2 for organizations with 2,000 or fewer Microsoft 365 seats and is scheduled to begin November 9 for larger organizations; Copilot Chat remains included with Microsoft 365 subscriptions, with no admin action required.",
-   "source_url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
-   "published_date": "2026-11-04",
-   "company": "Microsoft",
-   "category": "pricing/licensing",
-   "topic": "copilot-m365",
-   "citations": [
-    "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
-   ],
-   "briefing": "2026-11-06"
   },
   {
    "id": "314fc085f9f3",

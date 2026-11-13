@@ -2,8 +2,36 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 35,
+ "count": 37,
  "items": [
+  {
+   "id": "2413840d8616",
+   "title": "OpenAI pledges $2 million for research on AI and children’s safety",
+   "summary": "OpenAI says it signed a charter on safer AI for children and committed $2 million to support a global research network studying AI’s effects on children. The funding will support shared measurement tools for assessing risks and opportunities, with research intended to inform safer products and policy.",
+   "source_url": "https://openai.com/index/children-first-declaration/",
+   "published_date": "2026-11-12",
+   "company": "OpenAI",
+   "category": "research",
+   "topic": "openai",
+   "citations": [
+    "https://openai.com/index/children-first-declaration/"
+   ],
+   "briefing": "2026-11-13"
+  },
+  {
+   "id": "957037549af4",
+   "title": "OpenAI partners with Aleph to expand ChatGPT Ads into 44 countries",
+   "summary": "OpenAI is expanding the reach of ChatGPT Ads into 44 countries through an exclusive reseller agreement with Aleph. Aleph will provide local support for brands and agencies across several regions, extending OpenAI’s advertising presence beyond its existing markets.",
+   "source_url": "https://www.prnewswire.com/news-releases/openai-increases-its-chatgpt-ads-presence-in-44-countries-through-an-exclusive-reseller-partnership-with-aleph-302937218.html",
+   "published_date": "2026-11-12",
+   "company": "OpenAI",
+   "category": "partnership/deal",
+   "topic": "openai",
+   "citations": [
+    "https://www.prnewswire.com/news-releases/openai-increases-its-chatgpt-ads-presence-in-44-countries-through-an-exclusive-reseller-partnership-with-aleph-302937218.html"
+   ],
+   "briefing": "2026-11-13"
+  },
   {
    "id": "c98ed37f7cef",
    "title": "OpenAI says over 20,000 veterans claimed free ChatGPT Plus",
