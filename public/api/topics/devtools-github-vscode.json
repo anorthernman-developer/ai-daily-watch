@@ -2,8 +2,78 @@
  "topic": "devtools-github-vscode",
  "name": "VS Code, GitHub & developer tools",
  "description": "Visual Studio Code, GitHub and GitHub Copilot, Visual Studio and Microsoft developer platforms.",
- "count": 66,
+ "count": 71,
  "items": [
+  {
+   "id": "a3aaca8d8359",
+   "title": "GitHub adds REST API controls for AI Scan on repositories",
+   "summary": "GitHub added a public-preview REST API setting to enable or disable AI Scan for repositories at organization and repository levels. The `repository_scan` setting lets teams manage rollouts programmatically, including through scripts and infrastructure as code, rather than configuring each location manually.",
+   "source_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/",
+   "published_date": "2026-11-13",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "ebc531a19af4",
+   "title": "GitHub Copilot CLI 1.0.111 adds enterprise permission-rule support",
+   "summary": "GitHub Copilot CLI 1.0.111 adds regular-expression support to enterprise-managed Shell, Bash, and PowerShell permission rules, plus an option allowing remote clients to create sessions for a single launch. The release also includes usage-display, authentication, and terminal usability fixes.",
+   "source_url": "https://github.com/github/copilot-cli/releases/tag/v1.0.111",
+   "published_date": "2026-11-13",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.com/github/copilot-cli/releases/tag/v1.0.111"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "126fe4c647e7",
+   "title": "C++ Dynamic Debugging becomes generally available in Visual Studio 2026",
+   "summary": "C++ Dynamic Debugging is now generally available in all Visual Studio 2026 channels and in MSVC Build Tools 14.52. It deoptimizes functions when a developer sets a breakpoint or steps into code, making it easier to inspect optimized or release builds without switching to a separate debug build.",
+   "source_url": "https://devblogs.microsoft.com/cppblog/c-dynamic-debugging-is-now-generally-available/",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/cppblog/c-dynamic-debugging-is-now-generally-available/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "6df9cecfc071",
+   "title": "GitHub Actions will retire ARM32 Linux and Windows hosted-runner support",
+   "summary": "GitHub Actions hosted runners will stop supporting ARM32 job execution on Windows and Linux on December 8, 2026, including native AArch32 user-space execution. The change is tied to Node 24's lack of ARM32 support, so affected workflows will need to migrate before the cutoff.",
+   "source_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement/",
+   "published_date": "2026-11-12",
+   "company": "GitHub",
+   "category": "other",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "f6bc77a5f66e",
+   "title": "GitHub secret scanning adds detection for Cloudflare service tokens",
+   "summary": "GitHub secret scanning now automatically detects Cloudflare Access service tokens (`cloudflare_access_service_token`) in repositories. Partner secrets found in public repositories are reported to the issuer through GitHub's secret-scanning partnership program, while user secrets can generate alerts in public or private repositories.",
+   "source_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare/",
+   "published_date": "2026-11-12",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare/"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "17a23fc0ec32",
    "title": "Bring Your Own Model becomes generally available in Visual Studio",

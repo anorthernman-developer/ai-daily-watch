@@ -2,8 +2,37 @@
  "topic": "openai",
  "name": "OpenAI",
  "description": "GPT models, ChatGPT, the OpenAI API, Codex, Sora, partnerships, leadership and policy.",
- "count": 37,
+ "count": 39,
  "items": [
+  {
+   "id": "91992ed9f82d",
+   "title": "Codex CLI 0.169.0 adds side-chat tabs and custom model providers",
+   "summary": "Codex CLI 0.169.0 adds terminal features including multiple side-chat tabs, search for older tasks, and the ability to add or edit custom model providers. It also adds controls for working with Cloud conversations from the terminal, broadening Codex’s usability for developers who work in terminal-based environments.",
+   "source_url": "https://developers.openai.com/codex/changelog",
+   "published_date": "2026-11-13",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://developers.openai.com/codex/changelog"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "44a37675e055",
+   "title": "ChatGPT dots gain custom instructions and behavior controls",
+   "summary": "OpenAI added persistent custom instructions for dots, so users can specify how a dot should respond and which actions require their approval. Instructions can be updated in conversation or managed through the Behavior controls on mobile and the dot menu on web and desktop.",
+   "source_url": "https://x.com/ChatGPT/status/2120970988796170275",
+   "published_date": "2026-11-12",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://x.com/ChatGPT/status/2120970988796170275",
+    "https://learn.chatgpt.com/docs/whats-new"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "2413840d8616",
    "title": "OpenAI pledges $2 million for research on AI and children’s safety",

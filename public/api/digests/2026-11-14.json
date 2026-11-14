@@ -1,0 +1,333 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T07:15:06+00:00",
+ "count": 23,
+ "items": [
+  {
+   "id": "2e07b677f19d",
+   "title": "Microsoft announces plugin discovery in Copilot and a public Plugin Catalog",
+   "summary": "Microsoft says plugins will begin appearing in Copilot navigation, making familiar agents easier to find as Copilot Home brings Chat and Cowork together. It also announced a public Plugin Catalog, planned to launch at Microsoft Ignite on November 17, giving users another way to discover Microsoft’s plugin ecosystem.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "8e5842b418fd",
+   "title": "KPMG to expand Microsoft Copilot access across its global workforce",
+   "summary": "KPMG member firms will expand Microsoft Copilot access across a global workforce of more than 276,000 professionals, including KPMG in Thailand. KPMG will also use Microsoft Agent 365 to manage and monitor AI agents, making this a significant enterprise deployment and governance development.",
+   "source_url": "https://news.microsoft.com/source/asia/2026/11/12/kpmg-scale-trusted-enterprise-ai-in-thailand-through-microsoft-copilot-and-microsoft-agent-365/",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "partnership/deal",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://news.microsoft.com/source/asia/2026/11/12/kpmg-scale-trusted-enterprise-ai-in-thailand-through-microsoft-copilot-and-microsoft-agent-365/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "cad13f0a1069",
+   "title": "Microsoft 365 outage disrupts Copilot Chat and other services",
+   "summary": "A widespread Microsoft 365 service disruption affected Copilot Chat, with users potentially unable to load chats or receive responses in web and desktop apps. Microsoft reported ongoing recovery work and gradual restoration of affected infrastructure; the cited updates described service recovery as still in progress.",
+   "source_url": "https://x.com/MSFT365Status/status/2121106039277805729",
+   "published_date": "2026-11-13",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://x.com/MSFT365Status/status/2121106039277805729"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "f758e443dbd2",
+   "title": "Microsoft confirms Windows updates can leave SQL Server linked-server connections open",
+   "summary": "Microsoft confirmed that Windows updates released October 13, 2026, and later can leave some SQL Server linked-server connections open after queries finish. The connections can accumulate and degrade performance over time; Microsoft says an out-of-band update is planned.",
+   "source_url": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-26h2",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-26h2"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "126fe4c647e7",
+   "title": "C++ Dynamic Debugging becomes generally available in Visual Studio 2026",
+   "summary": "C++ Dynamic Debugging is now generally available in all Visual Studio 2026 channels and in MSVC Build Tools 14.52. It deoptimizes functions when a developer sets a breakpoint or steps into code, making it easier to inspect optimized or release builds without switching to a separate debug build.",
+   "source_url": "https://devblogs.microsoft.com/cppblog/c-dynamic-debugging-is-now-generally-available/",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://devblogs.microsoft.com/cppblog/c-dynamic-debugging-is-now-generally-available/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "6df9cecfc071",
+   "title": "GitHub Actions will retire ARM32 Linux and Windows hosted-runner support",
+   "summary": "GitHub Actions hosted runners will stop supporting ARM32 job execution on Windows and Linux on December 8, 2026, including native AArch32 user-space execution. The change is tied to Node 24's lack of ARM32 support, so affected workflows will need to migrate before the cutoff.",
+   "source_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement/",
+   "published_date": "2026-11-12",
+   "company": "GitHub",
+   "category": "other",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "f6bc77a5f66e",
+   "title": "GitHub secret scanning adds detection for Cloudflare service tokens",
+   "summary": "GitHub secret scanning now automatically detects Cloudflare Access service tokens (`cloudflare_access_service_token`) in repositories. Partner secrets found in public repositories are reported to the issuer through GitHub's secret-scanning partnership program, while user secrets can generate alerts in public or private repositories.",
+   "source_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare/",
+   "published_date": "2026-11-12",
+   "company": "GitHub",
+   "category": "security",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "a3aaca8d8359",
+   "title": "GitHub adds REST API controls for AI Scan on repositories",
+   "summary": "GitHub added a public-preview REST API setting to enable or disable AI Scan for repositories at organization and repository levels. The `repository_scan` setting lets teams manage rollouts programmatically, including through scripts and infrastructure as code, rather than configuring each location manually.",
+   "source_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/",
+   "published_date": "2026-11-13",
+   "company": "GitHub",
+   "category": "feature update",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "ebc531a19af4",
+   "title": "GitHub Copilot CLI 1.0.111 adds enterprise permission-rule support",
+   "summary": "GitHub Copilot CLI 1.0.111 adds regular-expression support to enterprise-managed Shell, Bash, and PowerShell permission rules, plus an option allowing remote clients to create sessions for a single launch. The release also includes usage-display, authentication, and terminal usability fixes.",
+   "source_url": "https://github.com/github/copilot-cli/releases/tag/v1.0.111",
+   "published_date": "2026-11-13",
+   "company": "GitHub",
+   "category": "product launch",
+   "topic": "devtools-github-vscode",
+   "citations": [
+    "https://github.com/github/copilot-cli/releases/tag/v1.0.111"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "78e344779fb3",
+   "title": "Claude Fable 5.2 begins rolling out in Microsoft Copilot Cowork and Copilot Studio",
+   "summary": "Microsoft announced that Claude Fable 5.2 is rolling out in Copilot Cowork and Copilot Studio. This extends access to Anthropic’s model through Microsoft’s Copilot offerings; it is a distribution update, not a new model release.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829",
+   "published_date": "2026-11-11",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829",
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "103f6398ed67",
+   "title": "J.Crew launches Claude-powered Style Advisor for complete outfit shopping",
+   "summary": "J.Crew launched Style Advisor on JCrew.com to help shoppers assemble complete outfits, initially for women’s and men’s styles in the U.S. The company says it built the experience with Claude Code and multiple Claude models, using different models for planning, styling, and focused tasks.",
+   "source_url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "other",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/j-crew-style-advisor-with-claude"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "21ab7432dba4",
+   "title": "Anthropic introduces Claude Meetings beta for live video-call collaboration",
+   "summary": "Claude Meetings is in beta for Team and Enterprise plans, allowing Claude to join video calls as a visible participant, answer questions, take notes, and help build documents, whiteboards, and other artifacts during the conversation. Google Meet is the first supported platform, with others planned.",
+   "source_url": "https://claude.com/resources/articles/claude-meetings",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://claude.com/resources/articles/claude-meetings",
+    "https://support.claude.com/en/articles/12138966-release-notes"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "965bebf7eabf",
+   "title": "Infor and Anthropic partner to bring governed Claude actions to manufacturing operations",
+   "summary": "Infor and Anthropic announced Infor Industry AI for Claude, enabling manufacturing users to query Infor systems and initiate approved operational actions from Claude or Infor. The integration uses Infor’s existing permissions and governance controls and is initially available to select Infor Velocity Suite customers.",
+   "source_url": "https://www.infor.com/news/infor-and-anthropic-announce-partnership",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "partnership/deal",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://www.infor.com/news/infor-and-anthropic-announce-partnership"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "9b0bea9a8f22",
+   "title": "Claude Code 2.1.323 adds experimental Code Mode for JavaScript tool calls",
+   "summary": "Claude Code version 2.1.323 added Code Mode, an experimental opt-in that lets Claude write JavaScript to call its tools. The release notes also say organizations can turn the mode off, providing a new tool-use option for Claude Code users.",
+   "source_url": "https://code.claude.com/docs/en/changelog",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "anthropic-claude",
+   "citations": [
+    "https://code.claude.com/docs/en/changelog",
+    "https://code.claude.com/docs/en/changelog/rss.xml"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "44a37675e055",
+   "title": "ChatGPT dots gain custom instructions and behavior controls",
+   "summary": "OpenAI added persistent custom instructions for dots, so users can specify how a dot should respond and which actions require their approval. Instructions can be updated in conversation or managed through the Behavior controls on mobile and the dot menu on web and desktop.",
+   "source_url": "https://x.com/ChatGPT/status/2120970988796170275",
+   "published_date": "2026-11-12",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://x.com/ChatGPT/status/2120970988796170275",
+    "https://learn.chatgpt.com/docs/whats-new"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "91992ed9f82d",
+   "title": "Codex CLI 0.169.0 adds side-chat tabs and custom model providers",
+   "summary": "Codex CLI 0.169.0 adds terminal features including multiple side-chat tabs, search for older tasks, and the ability to add or edit custom model providers. It also adds controls for working with Cloud conversations from the terminal, broadening Codex’s usability for developers who work in terminal-based environments.",
+   "source_url": "https://developers.openai.com/codex/changelog",
+   "published_date": "2026-11-13",
+   "company": "OpenAI",
+   "category": "feature update",
+   "topic": "openai",
+   "citations": [
+    "https://developers.openai.com/codex/changelog"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "459a57b4750a",
+   "title": "Google Search rolls out Gemini 4 Hydrogen globally",
+   "summary": "Google brought Gemini 4 Hydrogen to Search globally, aiming to improve responses to complex, multi-part questions. The update adds more intuitive and visual answers, including structured information such as tables and images, and expands the model’s reach to Search users.",
+   "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "published_date": "2026-11-12",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "51d2fad24045",
+   "title": "Google DeepMind releases SatWeave and PARDIG weather datasets",
+   "summary": "Google DeepMind released SatWeave, a global satellite-imagery mosaic, and PARDIG, a global precipitation dataset used in WeatherNext 3. Their live feeds and historical archives are openly available to researchers and developers, providing new resources for weather, hydrology, and climate applications.",
+   "source_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "published_date": "2026-11-13",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "5eb6887e9b28",
+   "title": "Thinking Machines makes Inkling 2 Small weights downloadable",
+   "summary": "Thinking Machines Lab updated its Inkling 2 Small release announcement to say the model weights are available for download on Hugging Face. The change expands access for developers and researchers who want to run or adapt the model beyond hosted API use.",
+   "source_url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "published_date": "2026-11-12",
+   "company": "Thinking Machines Lab",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://thinkingmachines.ai/news/inkling-2-small/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "bc8096cf6a4d",
+   "title": "Conductor reverses course and resumes development",
+   "summary": "Conductor founder Charlie Holtz said the team had decided to continue developing the AI coding-agent product and that regular updates would resume the following week, reversing the earlier plan to wind it down. The post does not specify whether the previously announced Conductor Cloud shutdown schedule also changed.",
+   "source_url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+   "published_date": "2026-11-12",
+   "company": "Conductor",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://twitter.com/charlieholtz/status/2120973052024598620"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "c7e49ebd3e9c",
+   "title": "Anthropic opens self-hosted Claude Managed Agents to private beta",
+   "summary": "Anthropic introduced a private beta that lets organizations run Claude Managed Agents in their own cloud or on-premises environment, hosting agents, credentials, and session history themselves. This gives enterprises more control over their agent infrastructure and data location, while the announcement describes a beta rather than general availability.",
+   "source_url": "http://claude.com/resources/articles/self-hosted-claude-managed-agents",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "http://claude.com/resources/articles/self-hosted-claude-managed-agents"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "4df850b22c37",
+   "title": "Cohere completes acquisitions of AISLE and cubic",
+   "summary": "Cohere announced it has completed its acquisition of AISLE, which builds systems for vulnerability discovery and remediation, and welcomed the team behind AI code-review platform cubic. The deals add cybersecurity and secure software-development capabilities to Cohere’s enterprise and sovereign-AI offerings.",
+   "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+   "published_date": "2026-11-13",
+   "company": "Cohere",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "606399e29c9e",
+   "title": "MIT reports AI copilot using human feedback to improve structural designs",
+   "summary": "MIT researchers reported an AI-assisted design system that identifies likely areas for human revision in algorithmically generated structures. In the paper summarized by MIT, the approach produced designs that were easier to manufacture and had higher buckling loads, with about 15 seconds added to design time compared with fully algorithmic approaches.",
+   "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "published_date": "2026-11-13",
+   "company": "Massachusetts Institute of Technology",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
+   ],
+   "briefing": "2026-11-14"
+  }
+ ]
+}

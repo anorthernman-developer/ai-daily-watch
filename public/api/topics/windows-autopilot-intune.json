@@ -2,8 +2,22 @@
  "topic": "windows-autopilot-intune",
  "name": "Windows, Autopilot & Intune",
  "description": "Windows 11 and Insider builds, Windows AI features, Windows Autopilot and Microsoft Intune.",
- "count": 19,
+ "count": 20,
  "items": [
+  {
+   "id": "f758e443dbd2",
+   "title": "Microsoft confirms Windows updates can leave SQL Server linked-server connections open",
+   "summary": "Microsoft confirmed that Windows updates released October 13, 2026, and later can leave some SQL Server linked-server connections open after queries finish. The connections can accumulate and degrade performance over time; Microsoft says an out-of-band update is planned.",
+   "source_url": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-26h2",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "windows-autopilot-intune",
+   "citations": [
+    "https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-26h2"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "8d70322a9a76",
    "title": "Microsoft details two-phase NTLM signing security improvements for Windows",

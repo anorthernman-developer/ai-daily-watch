@@ -2,8 +2,36 @@
  "topic": "google-gemini",
  "name": "Google Gemini & DeepMind",
  "description": "Gemini models and app, the Gemini API and AI Studio, Gemini in Workspace and Android, and DeepMind research.",
- "count": 35,
+ "count": 37,
  "items": [
+  {
+   "id": "51d2fad24045",
+   "title": "Google DeepMind releases SatWeave and PARDIG weather datasets",
+   "summary": "Google DeepMind released SatWeave, a global satellite-imagery mosaic, and PARDIG, a global precipitation dataset used in WeatherNext 3. Their live feeds and historical archives are openly available to researchers and developers, providing new resources for weather, hydrology, and climate applications.",
+   "source_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "published_date": "2026-11-13",
+   "company": "Google DeepMind",
+   "category": "research",
+   "topic": "google-gemini",
+   "citations": [
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "459a57b4750a",
+   "title": "Google Search rolls out Gemini 4 Hydrogen globally",
+   "summary": "Google brought Gemini 4 Hydrogen to Search globally, aiming to improve responses to complex, multi-part questions. The update adds more intuitive and visual answers, including structured information such as tables and images, and expands the model’s reach to Search users.",
+   "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "published_date": "2026-11-12",
+   "company": "Google",
+   "category": "feature update",
+   "topic": "google-gemini",
+   "citations": [
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "845b2050df4d",
    "title": "Gemini Live launches on Apple CarPlay",

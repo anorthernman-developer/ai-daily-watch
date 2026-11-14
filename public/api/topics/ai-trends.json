@@ -2,8 +2,78 @@
  "topic": "ai-trends",
  "name": "AI news, innovation & trends",
  "description": "Major model releases, agents, enterprise adoption, funding and deals, regulation in the UK, EU and US, research and open models.",
- "count": 81,
+ "count": 85,
  "items": [
+  {
+   "id": "4df850b22c37",
+   "title": "Cohere completes acquisitions of AISLE and cubic",
+   "summary": "Cohere announced it has completed its acquisition of AISLE, which builds systems for vulnerability discovery and remediation, and welcomed the team behind AI code-review platform cubic. The deals add cybersecurity and secure software-development capabilities to Cohere’s enterprise and sovereign-AI offerings.",
+   "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+   "published_date": "2026-11-13",
+   "company": "Cohere",
+   "category": "partnership/deal",
+   "topic": "ai-trends",
+   "citations": [
+    "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "606399e29c9e",
+   "title": "MIT reports AI copilot using human feedback to improve structural designs",
+   "summary": "MIT researchers reported an AI-assisted design system that identifies likely areas for human revision in algorithmically generated structures. In the paper summarized by MIT, the approach produced designs that were easier to manufacture and had higher buckling loads, with about 15 seconds added to design time compared with fully algorithmic approaches.",
+   "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "published_date": "2026-11-13",
+   "company": "Massachusetts Institute of Technology",
+   "category": "research",
+   "topic": "ai-trends",
+   "citations": [
+    "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "5eb6887e9b28",
+   "title": "Thinking Machines makes Inkling 2 Small weights downloadable",
+   "summary": "Thinking Machines Lab updated its Inkling 2 Small release announcement to say the model weights are available for download on Hugging Face. The change expands access for developers and researchers who want to run or adapt the model beyond hosted API use.",
+   "source_url": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "published_date": "2026-11-12",
+   "company": "Thinking Machines Lab",
+   "category": "model release",
+   "topic": "ai-trends",
+   "citations": [
+    "https://thinkingmachines.ai/news/inkling-2-small/"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "bc8096cf6a4d",
+   "title": "Conductor reverses course and resumes development",
+   "summary": "Conductor founder Charlie Holtz said the team had decided to continue developing the AI coding-agent product and that regular updates would resume the following week, reversing the earlier plan to wind it down. The post does not specify whether the previously announced Conductor Cloud shutdown schedule also changed.",
+   "source_url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+   "published_date": "2026-11-12",
+   "company": "Conductor",
+   "category": "other",
+   "topic": "ai-trends",
+   "citations": [
+    "https://twitter.com/charlieholtz/status/2120973052024598620"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "c7e49ebd3e9c",
+   "title": "Anthropic opens self-hosted Claude Managed Agents to private beta",
+   "summary": "Anthropic introduced a private beta that lets organizations run Claude Managed Agents in their own cloud or on-premises environment, hosting agents, credentials, and session history themselves. This gives enterprises more control over their agent infrastructure and data location, while the announcement describes a beta rather than general availability.",
+   "source_url": "http://claude.com/resources/articles/self-hosted-claude-managed-agents",
+   "published_date": "2026-11-12",
+   "company": "Anthropic",
+   "category": "feature update",
+   "topic": "ai-trends",
+   "citations": [
+    "http://claude.com/resources/articles/self-hosted-claude-managed-agents"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "3fdf45701a49",
    "title": "Sompo Holdings and NTT partner to explore physical AI in nursing care",
@@ -351,20 +421,6 @@
    "topic": "ai-trends",
    "citations": [
     "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
-   ],
-   "briefing": "2026-11-07"
-  },
-  {
-   "id": "5eb6887e9b28",
-   "title": "Thinking Machines Lab launches Inkling 2 Small",
-   "summary": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter mixture-of-experts model with 17B active parameters, image input and reported gains in agentic coding, vision, knowledge work and reasoning. It is initially available through Tinker with closed weights; the company says it intends to publish Apache 2.0 weights after external safety testing.",
-   "source_url": "https://thinkingmachines.ai/news/inkling-2-small/",
-   "published_date": "2026-11-05",
-   "company": "Thinking Machines Lab",
-   "category": "model release",
-   "topic": "ai-trends",
-   "citations": [
-    "https://thinkingmachines.ai/news/inkling-2-small/"
    ],
    "briefing": "2026-11-07"
   },

@@ -2,8 +2,50 @@
  "topic": "copilot-m365",
  "name": "Microsoft Copilot & Microsoft 365",
  "description": "Microsoft 365 Copilot, Copilot Chat, Copilot Studio and agents, the consumer Copilot app, Copilot in Windows and Edge, and Copilot+ PCs.",
- "count": 19,
+ "count": 21,
  "items": [
+  {
+   "id": "cad13f0a1069",
+   "title": "Microsoft 365 outage disrupts Copilot Chat and other services",
+   "summary": "A widespread Microsoft 365 service disruption affected Copilot Chat, with users potentially unable to load chats or receive responses in web and desktop apps. Microsoft reported ongoing recovery work and gradual restoration of affected infrastructure; the cited updates described service recovery as still in progress.",
+   "source_url": "https://x.com/MSFT365Status/status/2121106039277805729",
+   "published_date": "2026-11-13",
+   "company": "Microsoft",
+   "category": "other",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://x.com/MSFT365Status/status/2121106039277805729"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "2e07b677f19d",
+   "title": "Microsoft announces plugin discovery in Copilot and a public Plugin Catalog",
+   "summary": "Microsoft says plugins will begin appearing in Copilot navigation, making familiar agents easier to find as Copilot Home brings Chat and Cowork together. It also announced a public Plugin Catalog, planned to launch at Microsoft Ignite on November 17, giving users another way to discover Microsoft’s plugin ecosystem.",
+   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "feature update",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/plugins-at-microsoft-ignite-2026/4569951"
+   ],
+   "briefing": "2026-11-14"
+  },
+  {
+   "id": "8e5842b418fd",
+   "title": "KPMG to expand Microsoft Copilot access across its global workforce",
+   "summary": "KPMG member firms will expand Microsoft Copilot access across a global workforce of more than 276,000 professionals, including KPMG in Thailand. KPMG will also use Microsoft Agent 365 to manage and monitor AI agents, making this a significant enterprise deployment and governance development.",
+   "source_url": "https://news.microsoft.com/source/asia/2026/11/12/kpmg-scale-trusted-enterprise-ai-in-thailand-through-microsoft-copilot-and-microsoft-agent-365/",
+   "published_date": "2026-11-12",
+   "company": "Microsoft",
+   "category": "partnership/deal",
+   "topic": "copilot-m365",
+   "citations": [
+    "https://news.microsoft.com/source/asia/2026/11/12/kpmg-scale-trusted-enterprise-ai-in-thailand-through-microsoft-copilot-and-microsoft-agent-365/"
+   ],
+   "briefing": "2026-11-14"
+  },
   {
    "id": "443198113287",
    "title": "Microsoft corrects Copilot Business nonprofit pricing in the December price-list preview",
@@ -15,20 +57,6 @@
    "topic": "copilot-m365",
    "citations": [
     "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november"
-   ],
-   "briefing": "2026-11-13"
-  },
-  {
-   "id": "78e344779fb3",
-   "title": "Claude Fable 5.2 begins rolling out in Copilot Cowork and Copilot Studio",
-   "summary": "Microsoft is adding Anthropic’s Claude Fable 5.2 as a model choice in Copilot Cowork and Copilot Studio, expanding the models available for complex work. Microsoft says Work IQ can ground its responses in organizational files, meetings, chats, and business data within existing permissions; the rollout is for eligible users.",
-   "source_url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829",
-   "published_date": "2026-11-11",
-   "company": "Microsoft",
-   "category": "model release",
-   "topic": "copilot-m365",
-   "citations": [
-    "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-anthropic-claude-fable-5-2-in-microsoft-copilot/4571829"
    ],
    "briefing": "2026-11-13"
   },
